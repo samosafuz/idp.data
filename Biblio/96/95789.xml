@@ -8,11 +8,11 @@
    <author n="1">
       <forename>Gert</forename>
       <surname>Baetens</surname>
-  </author>
+   </author>
    <author n="2">
       <forename>Willy</forename>
       <surname>Clarysse</surname>
-  </author>
+   </author>
    <date>2017</date>
    <biblScope type="pp" from="182" to="186">182-186</biblScope>
    <note n="1" resp="#BP">PUG IV 133. - PUG IV 135. - PUG IV 137. - PUG IV 139. - PUG IV 140. - PUG IV 141. - PUG IV 142. - PUG IV 152. - PUG IV 153. - PUG IV 155. - PUG IV 157. - PUG IV 158. - PUG IV 159.</note>
@@ -22,7 +22,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">204</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

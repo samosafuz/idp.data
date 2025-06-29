@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96801" type="book" subtype="authored" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96801"
+      type="book"
+      subtype="authored"
+      xml:lang="de">
    <title level="m" type="main">Palaeographie. Erster Teil. Griechische Palaeographie. (Handbuch der Altertumswissenschaft. 1. Band, 4. Abt., 1. Hälfte)</title>
    <author n="1">
       <forename>Wilhelm</forename>

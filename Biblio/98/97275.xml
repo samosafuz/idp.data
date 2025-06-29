@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97275" type="book" subtype="authored" xml:lang="el">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="m" type="main">Το πρώτο βιβλίο των Ιστοριών του Ηροδότου</title>
    <author n="1">
       <forename>Amphilichios</forename>
@@ -17,4 +17,5 @@
    <seg type="original" subtype="publication" resp="#BP">Αθήνα, Σίλλυβος, 2019, 900 pp. ISBN 978-618-84454-0-6.</seg>
    <seg type="original" subtype="resume" resp="#BP">3e édition, augmentée [1re édition, 2013]. - Inclut une discussion sur les papyrus du premier livre des Histoires d'Hérodote.</seg>
    <seg type="original" subtype="nom" resp="#BP">Papathomas</seg>
+   <note resp="#BP">3e édition, augmentée [1re édition, 2013]. - Inclut une discussion sur les papyrus du premier livre des Histoires d'Hérodote.</note>
 </bibl>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b96948"
-      type="article"
-      xml:lang="en"
-      subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">The Provenance of the Robinson and Mississippi Papyri</title>
    <author n="1">
       <forename>Daniel B.</forename>
@@ -27,4 +23,5 @@
    <seg type="original" subtype="publication" resp="#BP">ArchPF 69 (2023) pp. 162-193, figg.</seg>
    <seg type="original" subtype="resume" resp="#BP">The Robinson Papyri. - The Robinson Papyri after Willis's 1958 talk. - Robinson as a Papyrus Collector. - The Robinson Papyri Numbering System. - The Mississippi Papyri: Acquisition and Contents. - The Mississippi Papyri after 1958. - Contamination Between the Robinson and the Mississippi Papyri. - The Deaton Papyri. - More Contamination Between the Robinson and the Mississippi Papyri. - Conclusions. - Pp. 190-193: Appendix. Chart 1: Robinson Papyri housed at Duke University; - Chart 2: Items assigned a Robinson Inventory number, which likely have a different provenance.</seg>
    <seg type="original" subtype="nom" resp="#BP">Sharp</seg>
+   <note resp="#BP">The Robinson Papyri. - The Robinson Papyri after Willis's 1958 talk. - Robinson as a Papyrus Collector. - The Robinson Papyri Numbering System. - The Mississippi Papyri: Acquisition and Contents. - The Mississippi Papyri after 1958. - Contamination Between the Robinson and the Mississippi Papyri. - The Deaton Papyri. - More Contamination Between the Robinson and the Mississippi Papyri. - Conclusions. - Pp. 190-193: Appendix. Chart 1: Robinson Papyri housed at Duke University; - Chart 2: Items assigned a Robinson Inventory number, which likely have a different provenance.</note>
 </bibl>

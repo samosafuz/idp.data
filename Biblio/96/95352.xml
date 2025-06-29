@@ -3,29 +3,29 @@
       xml:id="b95352"
       type="book"
       xml:lang="de">
-  <title level="m" type="main">Ägyptische Handschriften</title>
-  <note type="papyrological-series">
+   <title level="m" type="main">Ägyptische Handschriften</title>
+   <note type="papyrological-series">
       <bibl>
          <title level="s" type="short-Checklist" n="1">P.Äg.Handschrift.</title>
       </bibl>
-  </note>
-  <note type="subject">Papyri</note>
-  <author n="1">
+   </note>
+   <note type="subject">Papyri</note>
+   <author n="1">
       <forename>Erich</forename>
       <surname>Lüddeckens</surname>
-  </author>
-  <author n="2">
+   </author>
+   <author n="2">
       <forename>Ursula</forename>
       <surname>Kaplony-Heckel</surname>
-  </author>
-  <author n="3">
+   </author>
+   <author n="3">
       <forename>Günther</forename>
       <surname>Burkard</surname>
    </author>
-  <date>1994</date>
-  <pubPlace n="1">Wiesbaden</pubPlace>
-  <publisher n="1">F. Steiner</publisher>
-  <idno type="isbn">9783515029759</idno>
-  <idno type="checklist">clz-HT7S258K</idno>
-  <idno type="pi">95352</idno>
+   <date>1994</date>
+   <pubPlace n="1">Wiesbaden</pubPlace>
+   <publisher n="1">F. Steiner</publisher>
+   <idno type="isbn">9783515029759</idno>
+   <idno type="checklist">clz-HT7S258K</idno>
+   <idno type="pi">95352</idno>
 </bibl>

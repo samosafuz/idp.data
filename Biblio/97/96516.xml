@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96516" type="article" subtype="book" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96516"
+      type="article"
+      subtype="book"
+      xml:lang="en">
    <title level="a" type="main">Roman army pay scales revisited: responses and answers</title>
    <author n="1">
       <forename>Michael Alexander</forename>

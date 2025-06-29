@@ -8,11 +8,11 @@
    <author n="1">
       <forename>Anastasia</forename>
       <surname>Maravela</surname>
-  </author>
+   </author>
    <author n="2">
       <forename>Joanne</forename>
       <surname>Stolk</surname>
-  </author>
+   </author>
    <date>2018</date>
    <biblScope type="pp" from="275" to="280">275-280</biblScope>
    <note n="1" resp="#BP">Introduction. - A New Interpretation. - Family Relations.</note>
@@ -22,7 +22,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">55</biblScope>
    <idno type="bp">2018-0154</idno>
    <relatedItem type="mentions" n="1">

@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96137" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96137"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">Per o contro il nemico? Le razioni di un carpentiere e la cronologia dell'invasione araba secondo P.Vindob. G 39718 = PERF 550.</title>
    <author n="1">
       <forename>Federico</forename>
       <surname>Morelli</surname>
-  </author>
+   </author>
    <date>2017</date>
    <biblScope type="pp" from="119" to="129">119-129</biblScope>
    <ptr target="https://tyche.univie.ac.at/index.php/tyche/article/view/5043/4943"/>
@@ -15,7 +19,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">32</biblScope>
    <note type="illustration">figg.</note>
    <idno type="pi">96137</idno>

@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96073" type="article" subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96073"
+      type="article"
+      subtype="journal">
    <title level="a" type="main">Naukratis, 1903</title>
    <author n="1">
       <forename>David G.</forename>
       <surname>Hogarth</surname>
    </author>
-  <author n="2">
+   <author n="2">
       <forename>Hilda L.</forename>
       <surname>Lorimer</surname>
    </author>
-  <author n="3">
+   <author n="3">
       <forename>Campbell C.</forename>
       <surname>Edgar</surname>
    </author>

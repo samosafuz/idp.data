@@ -6,18 +6,18 @@
       xml:lang="it">
    <title level="a" type="main">Due finali di contratti (PL III/209 e PL II/10)</title>
    <author>
-        <forename>Diletta</forename>
-        <surname>Minutoli</surname>
-    </author>
+      <forename>Diletta</forename>
+      <surname>Minutoli</surname>
+   </author>
    <date>2015</date>
    <relatedItem type="appearsIn">
-        <bibl>
+      <bibl>
          <ptr target="https://papyri.info/biblio/74"/>
          <!--ignore - start, i.e. SoSOL users may not edit this-->
          <title level="j" type="main">Analecta Papyrologica</title>
          <!--ignore - stop-->
       </bibl>
-    </relatedItem>
+   </relatedItem>
    <biblScope type="issue">27</biblScope>
    <biblScope type="pp" from="11" to="18">11-18</biblScope>
    <note resp="#BP">P. Laur. Inv. III/209. ?, 306-307 d.C. - Inv. II/10. ?, III d.C.</note>

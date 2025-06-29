@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96785" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96785"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">Preliminary Report of the Expedition to Abydos 1925–6</title>
    <author n="1">
       <forename>Henri</forename>

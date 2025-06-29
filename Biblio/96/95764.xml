@@ -6,18 +6,18 @@
       xml:lang="en">
    <title level="a" type="main">Business letter</title>
    <author n="1">
-        <forename>Mohamed</forename>
-        <surname>Kashaf</surname>
-    </author>
+      <forename>Mohamed</forename>
+      <surname>Kashaf</surname>
+   </author>
    <date>2012</date>
    <biblScope type="pp" from="57" to="61">57-61</biblScope>
    <relatedItem type="appearsIn" n="1">
-        <bibl>
+      <bibl>
          <ptr target="https://papyri.info/biblio/105"/>
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-    </relatedItem>
+   </relatedItem>
    <biblScope type="issue">29</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

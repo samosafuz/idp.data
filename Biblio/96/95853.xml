@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b95853" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b95853"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">Beginning of a letter of the acting prefect Mussius Aemilianus</title>
    <author n="1">
       <forename>Francisca</forename>
       <surname>Hoogendijk</surname>
-  </author>
+   </author>
    <date>2017</date>
    <biblScope type="pp" from="113" to="125">113-125</biblScope>
    <note n="1" resp="#BP">P. Coll. privées: ex P. Wellburn sans No. d'Inv. [presently privately owned in Wilrijk, Belgium]. Letter directed to a certain Dius, a prytanis or president of the town council of Arsinoe. Written in Alexandria, found in Arsinoe. Dated ca. 255-259 CE. - Pp. 122-125: Appendix: Lucius Mussius Aemilianus in the Papyri.</note>
@@ -14,7 +18,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">54</biblScope>
    <idno type="pi">95853</idno>
    <idno type="bp">2017-0227</idno>

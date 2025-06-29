@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" type="article" subtype="journal" xml:lang="en"
-   xml:id="b96867">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      type="article"
+      subtype="journal"
+      xml:lang="en"
+      xml:id="b96867">
    <title level="a" type="main">School Tablet with Divisions and Demonstrations in the Chester
       Beatty Library</title>
    <author n="1">

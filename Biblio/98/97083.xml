@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97083" type="article" subtype="book" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b97083"
+      type="article"
+      subtype="book"
+      xml:lang="de">
    <title level="a" type="main">Bruchstücke untergegangener griechischer Literatur</title>
    <author n="1">
       <forename>Wolfgang</forename>

@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96043" type="article" subtype="journal" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96043"
+      type="article"
+      subtype="journal"
+      xml:lang="de">
    <title level="a" type="main">Ein Sklavenkauf aus der Zeit des Decius in Form der Synchoresis.</title>
    <author n="1">
       <forename>Fritz</forename>
       <surname>Mitthof</surname>
-  </author>
-  <author n="2">
+   </author>
+   <author n="2">
       <forename>Amphilochios</forename>
       <surname>Papathomas</surname>
-  </author>
+   </author>
    <date>2015</date>
    <biblScope type="pp" from="93" to="119">93-119</biblScope>
    <note n="1" resp="#BP">Alexandreia?, 249-250 n.Chr.</note>

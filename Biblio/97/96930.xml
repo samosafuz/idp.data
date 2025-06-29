@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b96930"
-      type="article"
-      xml:lang="fr"
-      subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">De l’« êta négligé » au « pi tiré vers le bas » : problèmes d’identification et de dénomination des signes musicaux d’après le P. Mich. inv. 1205</title>
    <author n="1">
       <forename>Laurent</forename>
@@ -27,4 +23,5 @@
    <seg type="original" subtype="publication" resp="#BP">ArchPF 69 (2023) pp. 296-317, figg.</seg>
    <seg type="original" subtype="resume" resp="#BP">P. Mich. Inv. 1205 (= MP3 2441.21; LDAB 10046). - Introduction. - 1. Problèmes de transcription et d'interprétation du signe #52. - 2. Un premier témoin du signe #37 ? - 3. Transcription, remarques et analyse musicale. - Conclusion: problèmes d'identification et de dénomination des signes. - Annexe: transcription de la partition en notation contemporaine.</seg>
    <seg type="original" subtype="nom" resp="#BP">Capron</seg>
+   <note resp="#BP">P. Mich. Inv. 1205 (= MP3 2441.21; LDAB 10046). - Introduction. - 1. Problèmes de transcription et d'interprétation du signe #52. - 2. Un premier témoin du signe #37 ? - 3. Transcription, remarques et analyse musicale. - Conclusion: problèmes d'identification et de dénomination des signes. - Annexe: transcription de la partition en notation contemporaine.</note>
 </bibl>

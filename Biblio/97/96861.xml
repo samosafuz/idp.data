@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" type="article" subtype="journal" xml:lang="en"
-   xml:id="b96861">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      type="article"
+      subtype="journal"
+      xml:lang="en"
+      xml:id="b96861">
    <title level="a" type="main">Edition of the Homeric Fragment P.Oxy. 4 758 descr. (Ε
       583‒596)</title>
    <author n="1">

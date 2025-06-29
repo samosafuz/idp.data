@@ -1,21 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b95350" type="article" subtype="book" xml:lang="it">
-  <title level="a" type="main">Frammento filosofico, da un papiro greco-egizio</title>
-  <author n="1">
-    <forename>Domenico</forename>
-    <surname>Comparetti</surname>
-  </author>
-  <date>1902</date>
-  <pubPlace n="1">Vienna</pubPlace>
-  <biblScope type="pp" from="80" to="89">80-89</biblScope>
-  <note type="illustration">Tav. I</note>
-  <relatedItem type="appearsIn" n="1">
-    <bibl>
-      <ptr target="https://papyri.info/biblio/95349"/>
-      <!-- ignore - start, i.e. SoSOL users may not edit this -->
-      <title level="m" type="main">Festschrift Theodor Gomperz dargebracht zum siebzigsten geburtstage am 19 März 1902 von Schülern Freunden Collegen</title>
-      <!-- ignore - stop -->
-    </bibl>
-  </relatedItem>
-  <idno type="pi">95350</idno>
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b95350"
+      type="article"
+      subtype="book"
+      xml:lang="it">
+   <title level="a" type="main">Frammento filosofico, da un papiro greco-egizio</title>
+   <author n="1">
+      <forename>Domenico</forename>
+      <surname>Comparetti</surname>
+   </author>
+   <date>1902</date>
+   <pubPlace n="1">Vienna</pubPlace>
+   <biblScope type="pp" from="80" to="89">80-89</biblScope>
+   <note type="illustration">Tav. I</note>
+   <relatedItem type="appearsIn" n="1">
+      <bibl>
+         <ptr target="https://papyri.info/biblio/95349"/>
+         <!-- ignore - start, i.e. SoSOL users may not edit this -->
+         <title level="m" type="main">Festschrift Theodor Gomperz dargebracht zum siebzigsten geburtstage am 19 März 1902 von Schülern Freunden Collegen</title>
+         <!-- ignore - stop -->
+      </bibl>
+   </relatedItem>
+   <idno type="pi">95350</idno>
 </bibl>

@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96870" type="book" subtype="edited" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96870"
+      type="book"
+      subtype="edited"
+      xml:lang="en">
    <pubPlace n="1">Atlanta</pubPlace>
    <title level="m" type="main">Philodemus, On Anger</title>
    <author n="1">
@@ -14,4 +18,3 @@
    <idno type="isbn">9781628372694</idno>
    <idno type="pi">96870</idno>
 </bibl>
-

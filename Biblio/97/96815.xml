@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96815" type="article" subtype="journal" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96815"
+      type="article"
+      subtype="journal"
+      xml:lang="de">
    <title level="a" type="main">Papyri aus Oxyrhynchos</title>
    <author n="1">
       <forename>Ludwig</forename>
@@ -15,6 +19,6 @@
          <!--ignore - stop-->
       </bibl>
    </relatedItem>
-  <biblScope type="issue">34</biblScope>
+   <biblScope type="issue">34</biblScope>
    <idno type="pi">96815</idno>
 </bibl>

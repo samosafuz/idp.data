@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96805" type="article" subtype="book" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96805"
+      type="article"
+      subtype="book"
+      xml:lang="en">
    <title level="a" type="main">Reading the Homeric hexameter aloud while following the accentual markings of a diorthotes</title>
    <author n="1">
       <forename>Gergory</forename>

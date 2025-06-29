@@ -8,7 +8,7 @@
    <author n="1">
       <forename>Marcin</forename>
       <surname>Kotyl</surname>
-  </author>
+   </author>
    <date>2013</date>
    <biblScope type="pp" from="229" to="231">229-231</biblScope>
    <relatedItem type="appearsIn" n="1">
@@ -18,7 +18,7 @@
          <title level="j" type="short-BP">ZPE</title>
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">185</biblScope>
    <note type="illustration">1 fig.</note>
    <note resp="#BP">Arsinoites (Tebtunis?), 13 September 181 A.D.</note>

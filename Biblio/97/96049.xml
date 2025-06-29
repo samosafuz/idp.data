@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96049" type="book" subtype="authored" xml:lang="it">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96049"
+      type="book"
+      subtype="authored"
+      xml:lang="it">
    <title level="m" type="main">I prefetti d'Egitto da Augusto a Commodo</title>
    <author n="1">
       <forename>Davide</forename>

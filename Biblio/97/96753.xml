@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96753" type="article" subtype="book" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96753"
+      type="article"
+      subtype="book"
+      xml:lang="en">
    <title level="a" type="main">P.Heid. Inv.no. G 414: A Greek-Egyptian List and the Septuagint</title>
    <author n="1">
       <forename>S.</forename>

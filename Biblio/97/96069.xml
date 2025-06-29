@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96069" type="book" xml:lang="en">
-  <title level="m" type="main">A Summary Catalogue of Western Manuscripts in the Bodleian Library at Oxford Which Have Not Hitherto Been Catalogued in the Quarto Series: With References to the Oriental Manuscripts and Papyri. Accessions, 1890-1915, Nos. 31001-37299 - Vol. VI</title>
-  <author n="1">
-    <forename>Falconer</forename>
-    <surname>Madan</surname>
-  </author>
-  <author n="2">
-    <forename>Herbert Henry Edmund</forename>
-    <surname>Craster</surname>
-  </author>
-  <date>1924</date>
-  <ptr target="https://archive.org/details/SummaryCatalogueVolVI"/>
-  <ptr target="https://ora.ox.ac.uk/objects/uuid:2e5288a2-d441-4b84-a525-12d4738c59c6"/>
-  <publisher n="1">Oxford University Press</publisher>
-  <pubPlace n="1">Oxford</pubPlace>
-  <note type="pageCount">498</note>
-  <note type="prefacePageCount">xxxvi</note>
-  <idno type="isbn">9783601002598</idno>
-  <idno type="pi">96069</idno>
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96069"
+      type="book"
+      xml:lang="en">
+   <title level="m" type="main">A Summary Catalogue of Western Manuscripts in the Bodleian Library at Oxford Which Have Not Hitherto Been Catalogued in the Quarto Series: With References to the Oriental Manuscripts and Papyri. Accessions, 1890-1915, Nos. 31001-37299 - Vol. VI</title>
+   <author n="1">
+      <forename>Falconer</forename>
+      <surname>Madan</surname>
+   </author>
+   <author n="2">
+      <forename>Herbert Henry Edmund</forename>
+      <surname>Craster</surname>
+   </author>
+   <date>1924</date>
+   <ptr target="https://archive.org/details/SummaryCatalogueVolVI"/>
+   <ptr target="https://ora.ox.ac.uk/objects/uuid:2e5288a2-d441-4b84-a525-12d4738c59c6"/>
+   <publisher n="1">Oxford University Press</publisher>
+   <pubPlace n="1">Oxford</pubPlace>
+   <note type="pageCount">498</note>
+   <note type="prefacePageCount">xxxvi</note>
+   <idno type="isbn">9783601002598</idno>
+   <idno type="pi">96069</idno>
 </bibl>

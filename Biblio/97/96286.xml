@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96286" type="book" subtype="edited" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96286"
+      type="book"
+      subtype="edited"
+      xml:lang="en">
    <title level="m" type="main">By the Sweat of Your Brow – Roman Slavery in its Socio-economic Setting</title>
    <series>
       <title level="s" type="main">BICS Supplement.</title>

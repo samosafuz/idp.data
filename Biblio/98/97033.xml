@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97033" type="book" subtype="authored" xml:lang="es">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b97033"
+      type="book"
+      subtype="authored"
+      xml:lang="es">
    <title level="m" type="main">Verbos de movimiento, deixis y proyección metafórica: el caso de andare y venire en contraste con ir y venir (Tesis doctoral, Universidad de Granada).</title>
    <author n="1">
       <forename>A.</forename>

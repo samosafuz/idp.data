@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b96984"
-      type="article"
-      xml:lang="es"
-      subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">Aurelia Isidora, esposa, madre, ματρῶνα στολᾶτα, viuda y ἐπακολουθήτρια: el “cursus matronarum” de una mujer de Oxirrinco (P.Oxy. VI 907, 276p)</title>
    <author n="1">
       <forename>Pilar</forename>
@@ -28,4 +24,5 @@
    <seg type="original" subtype="publication" resp="#BP">Aegyptus 102 (2022) pp. 219-253.</seg>
    <seg type="original" subtype="resume" resp="#BP">P. Oxy. VI, 907. - 1. El testamento de Hermógenes. Breve aproximación a la estructura y al contenido. - 2. La familia, los allegados y los bienes. - 3. Aurelia Isidora: funciones y capacidades. - 4. Aurelia Isidora: ejemplo materno para las hijas, Aurelia Tolemaide y Aurelia Didima.</seg>
    <seg type="original" subtype="nom" resp="#BP">Pavón Torrejón</seg>
+   <note resp="#BP">P. Oxy. VI, 907. - 1. El testamento de Hermógenes. Breve aproximación a la estructura y al contenido. - 2. La familia, los allegados y los bienes. - 3. Aurelia Isidora: funciones y capacidades. - 4. Aurelia Isidora: ejemplo materno para las hijas, Aurelia Tolemaide y Aurelia Didima.</note>
 </bibl>

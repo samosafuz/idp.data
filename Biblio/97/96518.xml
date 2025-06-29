@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96518" type="book" subtype="edited">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96518"
+      type="book"
+      subtype="edited">
    <title level="m" type="main">Mittheilungen aus der Papyrussammlung Papyrus Erzherzog Rainer</title>
    <series>
       <title level="s" type="main">MPER II/III</title>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96047" type="book" subtype="authored" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96047"
+      type="book"
+      subtype="authored"
+      xml:lang="de">
    <title level="m" type="main">Römische Kaisertabelle. Grundzüge einer römischen Kaiserchronologie. [6., vollständig neu bearbeitete Auflage.]</title>
    <author n="1">
       <forename>Dietmar</forename>

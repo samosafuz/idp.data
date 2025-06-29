@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" type="article" subtype="journal" xml:lang="en"
-   xml:id="b96868">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      type="article"
+      subtype="journal"
+      xml:lang="en"
+      xml:id="b96868">
    <title level="a" type="main">Selling an Inheritance for an Under-age Owner in 7th Century
       Aphrodite </title>
    <author n="1">
@@ -21,7 +24,7 @@
       </bibl>
    </relatedItem>
    <idno type="pi">96868</idno>
-     <relatedItem type="mentions" n="1">
+   <relatedItem type="mentions" n="1">
       <bibl>
          <title level="s" type="short">Pylon</title>
          <biblScope type="vol">5</biblScope>

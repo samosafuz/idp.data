@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97080" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b97080"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">New fragments of Epicurus' Epistulae and Symposium (P. Mich. inv. 6586a and 1587, and notes on P. Berol. 10536r, PSI VII 851-2, and P. Grenf. II 7α</title>
    <author n="1">
       <forename>Richard</forename>

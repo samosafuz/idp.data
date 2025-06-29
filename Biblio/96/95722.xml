@@ -8,7 +8,7 @@
    <author n="1">
       <forename>Peter</forename>
       <surname>van Minnen</surname>
-  </author>
+   </author>
    <date>2016</date>
    <biblScope type="pp" from="201" to="203">201-203</biblScope>
    <ptr target="http://tyche-journal.at/tyche/index.php/tyche/article/view/683/800"/>
@@ -19,7 +19,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">31</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

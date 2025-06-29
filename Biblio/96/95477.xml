@@ -8,7 +8,7 @@
    <author n="1">
       <forename>Michael</forename>
       <surname>Zellmann-Rohrer</surname>
-  </author>
+   </author>
    <date>2017</date>
    <biblScope type="pp" from="135" to="170">135-170</biblScope>
    <note type="pageCount">36</note>
@@ -20,7 +20,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">63</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96133" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96133"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">P.Tbilisi inv. 344v: extract from Memphite land register.</title>
    <author n="1">
       <forename>Elena</forename>
       <surname>Chepel</surname>
-  </author>
+   </author>
    <date>2018</date>
    <biblScope type="pp" from="43" to="48">43-48</biblScope>
    <ptr target="https://tyche.univie.ac.at/index.php/tyche/article/view/6021/5936"/>
@@ -15,7 +19,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">33</biblScope>
    <note type="illustration">figg.</note>
    <idno type="pi">96133</idno>

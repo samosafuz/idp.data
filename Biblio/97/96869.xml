@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" type="article" subtype="journal" xml:lang="de"
-   xml:id="b96869">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      type="article"
+      subtype="journal"
+      xml:lang="de"
+      xml:id="b96869">
    <title level="a" type="main">Zwei Ilias-Papyri aus Yale</title>
    <author n="1">
       <forename>Moritz</forename>

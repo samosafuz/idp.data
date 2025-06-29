@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96327" type="article" subtype="journal" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96327"
+      type="article"
+      subtype="journal"
+      xml:lang="de">
    <title level="a" type="main">„Die Augen der Legionen“ und Iuppiter Optimus Maximus Hammon noster. Zur Rolle des römischen Militärs bei der Sicherung überregionaler Handelsrouten und zu neuen Zeugnissen zum Gott der legio III Cyrenaica aus Hegra, NW-Saudi-Arabien</title>
    <author n="1">
       <forename>Oliver</forename>

@@ -6,18 +6,18 @@
       xml:lang="en">
    <title level="a" type="main">Letter from Pyrrandrus and other/s to Heracleides</title>
    <author n="1">
-        <forename>Magdy A.I.</forename>
-        <surname>Aly</surname>
-    </author>
+      <forename>Magdy A.I.</forename>
+      <surname>Aly</surname>
+   </author>
    <date>2012</date>
    <biblScope type="pp" from="53" to="56">53-56</biblScope>
    <relatedItem type="appearsIn" n="1">
-        <bibl>
+      <bibl>
          <ptr target="https://papyri.info/biblio/105"/>
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-    </relatedItem>
+   </relatedItem>
    <biblScope type="issue">29</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

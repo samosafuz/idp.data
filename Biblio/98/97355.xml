@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97355" type="book" subtype="authored">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b97355"
+      type="book"
+      subtype="authored">
    <title level="m" type="main">De Papyro Oxyrhynchita 1380</title>
    <author n="1">
       <forename>B.A.</forename>

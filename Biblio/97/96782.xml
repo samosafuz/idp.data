@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96782" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96782"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">Bibliography: Graeco-Roman Egypt A. Papyri (1926–1927)</title>
    <author n="1">
       <forename>Herbert John Mansfield</forename>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b96915"
-      type="article"
-      xml:lang="en"
-      subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">Corrigenda to a ‘Dance for a princess’</title>
    <author n="1">
       <forename>Vincent W. J.</forename>
@@ -27,4 +23,5 @@
    <seg type="original" subtype="publication" resp="#BP">JJurP 52 (2022) pp. 53-54.</seg>
    <seg type="original" subtype="resume" resp="#BP">Corrigenda to: Vincent W. J. van Gerven Oei, A dance for a princess: The legends on a painting in room 5 of the Southwest Annex of the Monastery on Kom H in Dongola, JJurP 47 (2017) pp. 117-135, fig.</seg>
    <seg type="original" subtype="nom" resp="#BP">van Gerven Oei</seg>
+   <note resp="#BP">Corrigenda to: Vincent W. J. van Gerven Oei, A dance for a princess: The legends on a painting in room 5 of the Southwest Annex of the Monastery on Kom H in Dongola, JJurP 47 (2017) pp. 117-135, fig.</note>
 </bibl>

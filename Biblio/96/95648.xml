@@ -8,7 +8,7 @@
    <author n="1">
       <forename>Shereen A.</forename>
       <surname>Aly</surname>
-  </author>
+   </author>
    <date>2012</date>
    <biblScope type="pp" from="43" to="51">43-51</biblScope>
    <relatedItem type="appearsIn" n="1">
@@ -17,7 +17,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">29</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

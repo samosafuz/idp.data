@@ -8,7 +8,7 @@
    <author n="1">
       <forename>Lucia C.</forename>
       <surname>Colella</surname>
-  </author>
+   </author>
    <date>2018</date>
    <biblScope type="pp" from="55" to="60">55-60</biblScope>
    <ptr target="http://www.fedoa.unina.it/12357/"/>
@@ -19,7 +19,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">33</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

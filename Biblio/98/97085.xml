@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97085" type="article" subtype="book" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b97085"
+      type="article"
+      subtype="book"
+      xml:lang="en">
    <title level="a" type="main">New texts from the Oxyrhynchus racing archive</title>
    <author n="1">
       <forename>Seham D.A.</forename>

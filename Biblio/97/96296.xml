@@ -1,19 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96296" type="article" xml:lang="en" subtype="journal">
-  <title level="a" type="main">A Karanis Penthemeros Certificate Completed</title>
-  <author n="1">
-    <forename>W. Graham</forename>
-    <surname>Claytor</surname>
-  </author>
-  <date>2022</date>
-  <ptr target="https://doi.org/10.48631/pylon.2022.2.92977"/>
-  <relatedItem type="appearsIn" n="1">
-    <bibl>
-      <ptr target="https://papyri.info/biblio/2374"/>
-      <!-- ignore - start, i.e. SoSOL users may not edit this  -->
-      <!-- ignore - stop -->
-    </bibl>
-  </relatedItem>
-  <biblScope type="issue">2</biblScope>
-  <idno type="pi">96296</idno>
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96296"
+      type="article"
+      xml:lang="en"
+      subtype="journal">
+   <title level="a" type="main">A Karanis Penthemeros Certificate Completed</title>
+   <author n="1">
+      <forename>W. Graham</forename>
+      <surname>Claytor</surname>
+   </author>
+   <date>2022</date>
+   <ptr target="https://doi.org/10.48631/pylon.2022.2.92977"/>
+   <relatedItem type="appearsIn" n="1">
+      <bibl>
+         <ptr target="https://papyri.info/biblio/2374"/>
+         <!-- ignore - start, i.e. SoSOL users may not edit this  -->
+         <!-- ignore - stop -->
+      </bibl>
+   </relatedItem>
+   <biblScope type="issue">2</biblScope>
+   <idno type="pi">96296</idno>
 </bibl>

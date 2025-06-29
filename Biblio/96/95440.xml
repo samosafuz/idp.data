@@ -8,7 +8,7 @@
    <author n="1">
       <forename>Daniel W.</forename>
       <surname>Leon</surname>
-  </author>
+   </author>
    <date>2012</date>
    <biblScope type="pp" from="95" to="108">95-108</biblScope>
    <note type="illustration">103</note>
@@ -21,7 +21,7 @@
          <title level="j" type="short-BP">BASP</title>
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">49</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

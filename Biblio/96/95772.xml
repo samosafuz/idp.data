@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b95772"
-      type="article"
-      subtype="journal"
-      xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">PSI XIV 1415 recto: frammento di rendiconto di entrate e uscite</title>
    <author n="1">
-        <forename>Bianca</forename>
-        <surname>Borrelli</surname>
-    </author>
+      <forename>Bianca</forename>
+      <surname>Borrelli</surname>
+   </author>
    <date>2017</date>
    <biblScope type="pp" from="97" to="101">97-101</biblScope>
    <relatedItem type="appearsIn" n="1">
-        <bibl>
+      <bibl>
          <ptr target="https://papyri.info/biblio/74"/>
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-    </relatedItem>
+   </relatedItem>
    <biblScope type="issue">29</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>
@@ -37,4 +33,5 @@
    <seg type="original" subtype="publication" resp="#BP">APapyrol 29 (2017) pp. 97-101.</seg>
    <seg type="original" subtype="resume" resp="#BP">Account of receipts and expenditure from Oxyrhynchus, dated to the 23rd year of an emperor (Antoninus Pius, Commodus or Caracalla). In particular, the surviving section of the document deals with the teeth (σκυταλαί) of the cogwheels of irrigation machines.</seg>
    <seg type="original" subtype="nom" resp="#BP">Borrelli</seg>
+   <note resp="#BP">Account of receipts and expenditure from Oxyrhynchus, dated to the 23rd year of an emperor (Antoninus Pius, Commodus or Caracalla). In particular, the surviving section of the document deals with the teeth (σκυταλαί) of the cogwheels of irrigation machines.</note>
 </bibl>

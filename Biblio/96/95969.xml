@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b95969" type="article" subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b95969"
+      type="article"
+      subtype="journal">
    <title level="a" type="main">Results of the Winter 2020 excavation season at Berenike (Red Sea coast, Egypt)</title>
    <author n="1">
       <forename>S.E.</forename>

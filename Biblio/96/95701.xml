@@ -8,11 +8,11 @@
    <author n="1">
       <forename>Fritz</forename>
       <surname>Mitthof</surname>
-  </author>
+   </author>
    <author n="2">
       <forename>Konrad</forename>
       <surname>Stauner</surname>
-  </author>
+   </author>
    <date>2016</date>
    <biblScope type="pp" from="205" to="225">205-225</biblScope>
    <note type="illustration">Tafel 23</note>
@@ -24,7 +24,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">31</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>

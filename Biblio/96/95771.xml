@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b95771"
-      type="article"
-      subtype="journal"
-      xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">Three new fragments from the J. Rendel Harris Collection (Birmingham)</title>
    <author n="1">
       <forename>Lincoln H.</forename>
       <surname>Blumell</surname>
-  </author>
+   </author>
    <author n="2">
       <forename>Michael R.</forename>
       <surname>Trotter</surname>
-  </author>
+   </author>
    <date>2016</date>
    <biblScope type="pp" from="19" to="27">19-27</biblScope>
    <relatedItem type="appearsIn" n="1">
@@ -21,7 +17,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">28</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>
@@ -41,4 +37,5 @@
    <seg type="original" subtype="publication" resp="#BP">APapyrol 28 (2016) pp. 19-27, figg.</seg>
    <seg type="original" subtype="resume" resp="#BP">1. Inv. 300. LXX Psalms 1,6 - 2,1. Provenance ?, fourth century A.D. - 2. Inv. 489b. A New Order from the Philantinoos Archive. Oxyrhynchite Nome, late third / early fourth century A.D. - 3. Inv. 269.3. Copy of a Receipt from a Roll or Daybook. Oxyrhynchus, late first / second century A.D.</seg>
    <seg type="original" subtype="nom" resp="#BP">Blumell Trotter</seg>
+   <note resp="#BP">1. Inv. 300. LXX Psalms 1,6 - 2,1. Provenance ?, fourth century A.D. - 2. Inv. 489b. A New Order from the Philantinoos Archive. Oxyrhynchite Nome, late third / early fourth century A.D. - 3. Inv. 269.3. Copy of a Receipt from a Roll or Daybook. Oxyrhynchus, late first / second century A.D.</note>
 </bibl>

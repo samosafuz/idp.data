@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b95697"
-      type="article"
-      subtype="journal"
-      xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">Villages, requisitions, and tax districts: two Greek lists from the eighth-century Fayyūm</title>
    <author n="1">
       <forename>Lajos</forename>
       <surname>Berkes</surname>
-  </author>
+   </author>
    <author n="2">
       <forename>Brendan</forename>
       <surname>Haug</surname>
-  </author>
+   </author>
    <date>2016</date>
    <biblScope type="pp" from="189" to="222">189-222</biblScope>
    <note n="1" resp="#bp">1. P.CtYBR [= P. Yale] Inv. 379. Requisitions or Arrears in Oil from an Administrative District in the Southwestern Fayyūm. 8th c. - 2. Inv. 461. List of Requisitioned Workers (?). 8th c.</note>
@@ -22,7 +18,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">53</biblScope>
    <idno type="bp">2016-0586</idno>
    <relatedItem type="mentions" n="1">
@@ -52,4 +48,5 @@
    <seg type="original" subtype="publication" resp="#BP">BASP 53 (2016) pp. 189-222, figg.</seg>
    <seg type="original" subtype="resume" resp="#BP">1. P.CtYBR [= P. Yale] Inv. 379. Requisitions or Arrears in Oil from an Administrative District in the Southwestern Fayyūm. 8th c. - 2. Inv. 461. List of Requisitioned Workers (?). 8th c.</seg>
    <seg type="original" subtype="nom" resp="#BP">Berkes Haug</seg>
+   <note resp="#BP">1. P.CtYBR [= P. Yale] Inv. 379. Requisitions or Arrears in Oil from an Administrative District in the Southwestern Fayyūm. 8th c. - 2. Inv. 461. List of Requisitioned Workers (?). 8th c.</note>
 </bibl>

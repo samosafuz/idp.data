@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b95761"
-      type="article"
-      subtype="journal"
-      xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">Soldiers and money in early sixth-century Hermopolis</title>
    <author n="1">
       <forename>N.</forename>
       <surname>Gonis</surname>
-  </author>
+   </author>
    <date>2019</date>
    <biblScope type="pp" from="237" to="241">237-241</biblScope>
    <relatedItem type="appearsIn" n="1">
@@ -17,7 +13,7 @@
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
+   </relatedItem>
    <biblScope type="issue">209</biblScope>
    <relatedItem type="mentions" n="1">
       <bibl>
@@ -37,4 +33,5 @@
    <seg type="original" subtype="publication" resp="#BP">ZPE 209 (2019) pp. 237-241, figg.</seg>
    <seg type="original" subtype="resume" resp="#BP">Hermopolis, 502/3?</seg>
    <seg type="original" subtype="nom" resp="#BP">Gonis</seg>
+   <note resp="#BP">Hermopolis, 502/3?</note>
 </bibl>

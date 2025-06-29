@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b96939"
-      type="article"
-      xml:lang="en"
-      subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">An Order of Payment from the Apa Apollo Monastery at Bawit</title>
    <author n="1">
       <forename>David</forename>
@@ -28,4 +24,5 @@
    <seg type="original" subtype="publication" resp="#BP">ArchPF 69 (2023) pp. 410-419, fig.</seg>
    <seg type="original" subtype="resume" resp="#BP">Edition of an eighth century order of payment from the Apa Apollo monastery at Bawit. The document is located at the Southern Baptist Theological Seminary (Louisville, Kentucky) and was donated to the seminary by Jerome M. Eisenberg in 1961.</seg>
    <seg type="original" subtype="nom" resp="#BP">Wyman</seg>
+   <note resp="#BP">Edition of an eighth century order of payment from the Apa Apollo monastery at Bawit. The document is located at the Southern Baptist Theological Seminary (Louisville, Kentucky) and was donated to the seminary by Jerome M. Eisenberg in 1961.</note>
 </bibl>

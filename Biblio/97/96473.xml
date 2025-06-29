@@ -1,25 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96473" type="article" subtype="journal" xml:lang="de">
-  <title level="a" type="main">Ein Asebieverfahren vor den Chrematisten? Eine Neuedition von P. Coll. Youtie I 12</title>
-  <author n="1">
-    <forename>Eva</forename>
-    <surname>Käppel</surname>
-  </author>
-  <date>2017</date>
-  <biblScope type="pp" from="213" to="222">213-222</biblScope>
-  <relatedItem type="appearsIn" n="1">
-    <bibl>
-      <ptr target="http://papyri.info/biblio/511"/>
-      <!-- ignore - start, i.e. SoSOL users may not edit this -->
-      <!-- ignore - stop -->
-    </bibl>
-  </relatedItem>
-  <biblScope type="issue">203</biblScope>
-  <idno type="pi">96473</idno>
-  <idno type="bp">2017-0233</idno>
-  <seg type="original" subtype="index" resp="#BP">145.4 712 680</seg>
-  <seg type="original" subtype="indexBis" resp="#BP">145.4 P. Coll. Youtie I, 12</seg>
-  <seg type="original" subtype="titre" resp="#BP">Eva Käppel, Ein Asebieverfahren vor den Chrematisten? Eine Neuedition von P. Coll. Youtie I 12.</seg>
-  <seg type="original" subtype="publication" resp="#BP">ZPE 203 (2017) pp. 213-222, figg.</seg>
-  <seg type="original" subtype="nom" resp="#BP">Käppel</seg>
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96473"
+      type="article"
+      subtype="journal"
+      xml:lang="de">
+   <title level="a" type="main">Ein Asebieverfahren vor den Chrematisten? Eine Neuedition von P. Coll. Youtie I 12</title>
+   <author n="1">
+      <forename>Eva</forename>
+      <surname>Käppel</surname>
+   </author>
+   <date>2017</date>
+   <biblScope type="pp" from="213" to="222">213-222</biblScope>
+   <relatedItem type="appearsIn" n="1">
+      <bibl>
+         <ptr target="http://papyri.info/biblio/511"/>
+         <!-- ignore - start, i.e. SoSOL users may not edit this -->
+         <!-- ignore - stop -->
+      </bibl>
+   </relatedItem>
+   <biblScope type="issue">203</biblScope>
+   <idno type="pi">96473</idno>
+   <idno type="bp">2017-0233</idno>
+   <seg type="original" subtype="index" resp="#BP">145.4 712 680</seg>
+   <seg type="original" subtype="indexBis" resp="#BP">145.4 P. Coll. Youtie I, 12</seg>
+   <seg type="original" subtype="titre" resp="#BP">Eva Käppel, Ein Asebieverfahren vor den Chrematisten? Eine Neuedition von P. Coll. Youtie I 12.</seg>
+   <seg type="original" subtype="publication" resp="#BP">ZPE 203 (2017) pp. 213-222, figg.</seg>
+   <seg type="original" subtype="nom" resp="#BP">Käppel</seg>
 </bibl>

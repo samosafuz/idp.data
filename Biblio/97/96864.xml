@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" type="article" subtype="journal" xml:lang="de"
-   xml:id="b96864">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      type="article"
+      subtype="journal"
+      xml:lang="de"
+      xml:id="b96864">
    <title level="a" type="main">Wilckens Briefwechsel mit Eduard Schwartz zur Edition von P.Würzb.
       1</title>
    <author n="1">

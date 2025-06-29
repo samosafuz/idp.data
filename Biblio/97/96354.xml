@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96354" type="article" subtype="journal" xml:lang="en">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96354"
+      type="article"
+      subtype="journal"
+      xml:lang="en">
    <title level="a" type="main">Raman spectroscopy for the investigation of carbon-based black pigments</title>
    <author n="1">
       <forename>Alessia</forename>
       <surname>Coccato</surname>
    </author>
-      <author n="2">
+   <author n="2">
       <forename>Jan</forename>
       <surname>Jehlicka</surname>
    </author>
-      <author n="3">
+   <author n="3">
       <forename>Luc</forename>
       <surname>Moens</surname>
    </author>
-      <author n="4">
+   <author n="4">
       <forename>Peter</forename>
       <surname>Vandenabeele</surname>
    </author>

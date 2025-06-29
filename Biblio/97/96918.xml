@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0"
-      xml:id="b96918"
-      type="article"
-      xml:lang="en"
-      subtype="journal">
+<bibl xmlns="http://www.tei-c.org/ns/1.0">
    <title level="a" type="main">Clergy in the Apion archive: Texts and contexts</title>
    <author n="1">
       <forename>Joanna</forename>
@@ -27,4 +23,5 @@
    <seg type="original" subtype="publication" resp="#BP">JJurP 52 (2022) pp. 125-152.</seg>
    <seg type="original" subtype="resume" resp="#BP">1. Clergy in managerial roles. - 2. Clerics as cultivators. - 3. Other functions. - 4. Conclusions.</seg>
    <seg type="original" subtype="nom" resp="#BP">Wegner</seg>
+   <note resp="#BP">1. Clergy in managerial roles. - 2. Clerics as cultivators. - 3. Other functions. - 4. Conclusions.</note>
 </bibl>

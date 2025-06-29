@@ -4,23 +4,23 @@
       type="article"
       subtype="journal"
       xml:lang="en">
-  <note type="papyrological-series">
+   <note type="papyrological-series">
       <bibl>
          <title level="s" type="short-Checklist" n="1">O.Quseir</title>
       </bibl>
-  </note>
-  <note type="subject">Ostraca</note>
-  <editor n="1">
+   </note>
+   <note type="subject">Ostraca</note>
+   <editor n="1">
       <forename>Roger S.</forename>
       <surname>Bagnall</surname>
    </editor>
-  <biblScope type="pp" from="25" to="37">25-37</biblScope>
-  <relatedItem type="appearsIn" n="1">
+   <biblScope type="pp" from="25" to="37">25-37</biblScope>
+   <relatedItem type="appearsIn" n="1">
       <bibl>
          <ptr target="https://papyri.info/biblio/57606"/>
          <!-- ignore - start, i.e. SoSOL users may not edit this -->
          <!-- ignore - stop -->
       </bibl>
-  </relatedItem>
-  <idno type="pi">95311</idno>
+   </relatedItem>
+   <idno type="pi">95311</idno>
 </bibl>

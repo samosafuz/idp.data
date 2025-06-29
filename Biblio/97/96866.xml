@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" type="article" subtype="journal" xml:lang="en"
-   xml:id="b96866">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      type="article"
+      subtype="journal"
+      xml:lang="en"
+      xml:id="b96866">
    <title level="a" type="main">Zenon Papyri and Others: Letters of C.C. Edgar to H.I. Bell,
       1919–1935 </title>
    <author n="1">

@@ -1,25 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96459" type="article" subtype="journal" xml:lang="de">
-  <title level="a" type="main">Der Privatbrief BGU IV 1044: Eine neue Edition</title>
-  <author n="1">
-    <forename>Amphilochios</forename>
-    <surname>Papathomas</surname>
-  </author>
-  <date>2019</date>
-  <relatedItem type="appearsIn">
-    <bibl>
-      <ptr target="https://papyri.info/biblio/511"/>
-      <!-- ignore - start, i.e. SoSOL users may not edit this -->
-      <!-- ignore - stop -->
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b96459"
+      type="article"
+      subtype="journal"
+      xml:lang="de">
+   <title level="a" type="main">Der Privatbrief BGU IV 1044: Eine neue Edition</title>
+   <author n="1">
+      <forename>Amphilochios</forename>
+      <surname>Papathomas</surname>
+   </author>
+   <date>2019</date>
+   <relatedItem type="appearsIn">
+      <bibl>
+         <ptr target="https://papyri.info/biblio/511"/>
+         <!-- ignore - start, i.e. SoSOL users may not edit this -->
+         <!-- ignore - stop -->
       </bibl>
-    </relatedItem>
-  <biblScope type="issue">212</biblScope>
-  <biblScope type="pp" from="194" to="198">194-198</biblScope>
-  <idno type="pi">96459</idno>
-  <idno type="bp">2019-0425</idno>
-  <seg type="original" subtype="index" resp="#BP">145.4 364 Epistulae</seg>
-  <seg type="original" subtype="indexBis" resp="#BP">145.4 B.G.U. IV, 1044</seg>
-  <seg type="original" subtype="titre" resp="#BP">Amphilochios Papathomas, Der Privatbrief BGU IV 1044: Eine neue Edition.</seg>
-  <seg type="original" subtype="publication" resp="#BP">ZPE 212 (2019) pp. 194-198.</seg>
-  <seg type="original" subtype="nom" resp="#BP">Papathomas</seg>
+   </relatedItem>
+   <biblScope type="issue">212</biblScope>
+   <biblScope type="pp" from="194" to="198">194-198</biblScope>
+   <idno type="pi">96459</idno>
+   <idno type="bp">2019-0425</idno>
+   <seg type="original" subtype="index" resp="#BP">145.4 364 Epistulae</seg>
+   <seg type="original" subtype="indexBis" resp="#BP">145.4 B.G.U. IV, 1044</seg>
+   <seg type="original" subtype="titre" resp="#BP">Amphilochios Papathomas, Der Privatbrief BGU IV 1044: Eine neue Edition.</seg>
+   <seg type="original" subtype="publication" resp="#BP">ZPE 212 (2019) pp. 194-198.</seg>
+   <seg type="original" subtype="nom" resp="#BP">Papathomas</seg>
 </bibl>

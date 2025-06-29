@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b95923" type="article" subtype="journal" xml:lang="de">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b95923"
+      type="article"
+      subtype="journal"
+      xml:lang="de">
    <title level="a" type="main">Die koptischen Papyri aus dem „Ankauf aus Edfû (Apollinopolis magna) vom Jahre 1911“ der Jenaer Papyrussammlung (P.Ien. Inv. 446–453)</title>
    <author>
       <forename>Tonio Sebastian</forename>

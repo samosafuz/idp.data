@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97040" type="book" subtype="edited">
+<bibl xmlns="http://www.tei-c.org/ns/1.0"
+      xml:id="b97040"
+      type="book"
+      subtype="edited">
    <title level="m" type="main">Libera curiositas. Mélanges d'histoire romaine et d'antiquité tardive offerts à Jean-Michel Carrié</title>
    <series>
       <title level="s" type="main">Bibliothèque de l'Antiquité tardive.</title>
