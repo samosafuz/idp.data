@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b96131" type="article" subtype="journal" xml:lang="en">
   <title level="a" type="main">The Will of Haynchis Daughter of Isas (P.Oxy. III 634 descr.)</title>
   <author n="1">
@@ -9,7 +9,7 @@
   <biblScope type="pp" from="230" to="235">230-235</biblScope>
   <relatedItem type="appearsIn" n="1">
     <bibl>
-      <ptr target="https://papyri.info/biblio/511"/>
+      <ptr target="https://papyri.info/biblio/511" />
       <!-- ignore - start, i.e. SoSOL users may not edit this -->
       <!-- ignore - stop -->
     </bibl>
@@ -23,4 +23,5 @@
   <seg type="original" subtype="publication" resp="#BP">ZPE 214 (2020) pp. 230-235, fig.</seg>
   <seg type="original" subtype="resume" resp="#BP">7 November 126. A slave named Tycharous is mentioned.</seg>
   <seg type="original" subtype="nom" resp="#BP">Benaissa</seg>
+  <note resp="#BP">7 November 126. A slave named Tycharous is mentioned.</note>
 </bibl>

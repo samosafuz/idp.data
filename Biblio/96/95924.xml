@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b95924" type="article" subtype="journal" xml:lang="en">
   <title level="a" type="main">Dedication of the Blemmyan interpreter Mochosak on behalf of King Isemne</title>
   <author n="1">
@@ -14,7 +14,7 @@
   <note n="1" resp="#BP">Dedication to the gods Isis and Sarapis found during the 2019 excavation season at Berenike (BE-19 124/010). Late 4th / 1st half 5th c. AD. - Archaeological Analysis (J.R.). - Edition and Historical Commentary (R.A.). - Appendix. Note on O.Berenike 3.272: A Blemmyan Document?</note>
   <relatedItem type="appearsIn" n="1">
     <bibl>
-      <ptr target="http://papyri.info/biblio/511"/>
+      <ptr target="http://papyri.info/biblio/511" />
       <!-- ignore - start, i.e. SoSOL users may not edit this -->
       <!-- ignore - stop -->
     </bibl>
