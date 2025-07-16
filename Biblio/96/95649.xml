@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b95649" type="book" subtype="edited" xml:lang="fr">
   <title level="m" type="main">Les vaisseaux du désert et des steppes. Les camélidés dans l’Antiquité (Camelus dromedarius et Camelus bactrianus)</title>
   <series>
@@ -17,6 +17,13 @@
   <pubPlace n="1">Lyon</pubPlace>
   <publisher n="1">MOM Éditions</publisher>
   <note type="pageCount">292</note>
-  <ptr target="https://books.openedition.org/momeditions/8457"/>
+  <ptr target="https://books.openedition.org/momeditions/8457" />
   <idno type="pi">95649</idno>
+  <idno type="bp">2020-0174</idno>
+  <seg subtype="index" resp="#BP" type="original">243 630</seg>
+  <seg subtype="titre" resp="#BP" type="original">Damien Agut-Labordère &amp; Bérangère Redon (edd.), Les vaisseaux du désert et des steppes. Les camélidés dans l'Antiquité (Camelus dromedarius et Camelus bactrianus).</seg>
+  <seg subtype="publication" resp="#BP" type="original">Lyon, MOM Éditions (Maison de l'Orient et de la Méditerranée - Jean Pouilloux), 2020, 302 pp., figg. ISBN 978-2-35668-067-9. €50.</seg>
+  <seg subtype="cr" resp="#BP" type="original">C.R. par Jennifer Cromwell, BMCRev &lt; https://bmcr.brynmawr.edu/2021/2021.10.50 &gt;.</seg>
+  <note resp="#BP">16 contributions. - Pp. 9-20: D. A.-L. &amp; B.R., Introduction. Dromadaires et chameaux de l'Asie centrale au Nil dans les mondes anciens (IVe millénaire av. J.‑C. - premiers siècles de notre ère).</note>
+  <seg subtype="resume" resp="#BP" type="original">16 contributions. - Pp. 9-20: D. A.-L. &amp; B.R., Introduction. Dromadaires et chameaux de l'Asie centrale au Nil dans les mondes anciens (IVe millénaire av. J.‑C. - premiers siècles de notre ère).</seg>
 </bibl>
