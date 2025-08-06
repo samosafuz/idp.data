@@ -16,6 +16,7 @@
         </bibl>
     </relatedItem>
     <biblScope type="issue">28</biblScope>
+    <ptr target="https://revistas-filologicas.unam.mx/nouatellus/index.php/nt/article/view/335"/>
     <date>2010</date>
     <relatedItem type="mentions" n="1">
         <bibl>
@@ -26,12 +27,12 @@
         </bibl>
     </relatedItem>
     <idno type="pi">80972</idno>
-    <idno type="bp">2010-0801</idno>
-    <idno type="bp_old">12/2/237</idno>
-    <seg type="original" subtype="index" resp="#BP">[none]</seg>
-    <seg type="original" subtype="indexBis" resp="#BP">[none]</seg>
-    <seg type="original" subtype="titre" resp="#BP">(Fiche déplacée ou supprimée: cf. maintenant 2010-1268)</seg>
-    <seg type="original" subtype="publication" resp="#BP">[none]</seg>
-    <seg type="original" subtype="resume" resp="#BP">[none]</seg>
+    <idno type="bp">2010-1268</idno>
+    <seg type="original" subtype="index" resp="#BP">145.4 364 Epistulae 714</seg>
+    <seg type="original" subtype="indexBis" resp="#BP">145.4 P. Oxy. XLII, 3057</seg>
+    <seg type="original" subtype="titre" resp="#BP">Ilaria L.E. Ramelli, A New Reading of one of the Earliest Christian Letters Outside the New Testament and the Dangers of Early Christian Communities in Egypt.</seg>
+    <seg type="original" subtype="publication" resp="#BP">Nova Tellus 28 (2010) 1, pp. 125-159.</seg>
+    <seg type="original" subtype="resume" resp="#BP">P. Oxy. XLII, 3057, with an emphasis on the necessity of a circumspect behaviour and the use of a cryptic communication code, attests to the critical situation of the Christian communities in those days.</seg>
+    <seg type="original" subtype="nom" resp="#BP"></seg><ptr target="https://revistas-filologicas.unam.mx/nouatellus/index.php/nt/article/view/335" />
     <seg type="original" subtype="nom" resp="#BP">Ramelli</seg>
 </bibl>
