@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b60485"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">avec la collaboration de François BÉRARD et de Monique DONDIN-PAYRE, L'année épigraphique. Revue des publications épigraphiques relatives à l'Antiquité romaine. Année 1987.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="fr">
+   <title level="m" type="main">L'année épigraphique. Revue des publications épigraphiques relatives à l'Antiquité romaine. Année 1987.</title>
    <author n="1">
       <forename>André</forename>
       <surname>Chastagnol</surname>
@@ -20,17 +21,11 @@
       <forename>Patrick</forename>
       <surname>Le Roux</surname>
    </author>
-   <biblScope type="pp" from="300" to="300">300</biblScope>
+   <date>1990</date>
+   <note type="pageCount">415</note>
    <note resp="#BP">Égypte, pp. 292-294, Nos 973-978.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/12005"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Presses Universitaires de France</title>
-         <date>1990</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Presses Universitaires de France</publisher>
+   <pubPlace>Paris</pubPlace>
    <idno type="pi">60485</idno>
    <idno type="bp">1990-0152</idno>
    <seg type="original" subtype="index" resp="#BP">910</seg>

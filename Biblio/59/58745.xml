@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b58745"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Synésios de Cyrène et la Cyrénaïque du Bas-Empire. (Études d'Antiquités africaines.)</title>
+      type="book"
+      subtype="authored"
+      xml:lang="fr">
+   <title level="m" type="main">Synésios de Cyrène et la Cyrénaïque du Bas-Empire.</title>
+   <series>
+      <title level="s" type="main">Études d'Antiquités africaines</title>
+   </series>
    <author n="1">
       <forename>Denis</forename>
       <surname>Roques</surname>
    </author>
-   <biblScope type="pp" from="15" to="15">15</biblScope>
+   <pubPlace>Paris</pubPlace>
+   <publisher>C.N.R.S.</publisher>
+   <date>1987</date>
+   <note type="pageCount">492</note>
+   <note type="illustration">15 figg.</note>
    <note resp="#BP">Pour les rapports avec l'Égypte, voir en part. pp. 217-234 (Administration militaire des Libyes); - 322-341 (Histoire religieuse des Libyes); - 351-365 (L'Église en Pentapole); - 475 (Index des sources papyrologiques).</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/11345"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">C.N.R.S.</title>
-         <date>1987</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">58745</idno>
    <idno type="bp">1987-0458</idno>
    <seg type="original" subtype="index" resp="#BP">216 620 714</seg>

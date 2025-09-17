@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b53376"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg. Nos 681 à 700. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg. IV-5.)</title>
+      type="book"
+      subtype="authored"
+      xml:lang="fr">
+   <title level="m" type="main">Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg. Nos 681 à 700. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg. IV-5.)</title>
    <author n="1">
       <forename>Jacques</forename>
       <surname>Schwartz</surname>
    </author>
-   <biblScope type="pp" from="131" to="162">131-162</biblScope>
    <note resp="#BP">P. Stras. 681-700.</note>
    <relatedItem type="appearsIn">
       <bibl>

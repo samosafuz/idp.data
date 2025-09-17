@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b58289"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Text und Textwert der griechischen Handschriften des Neuen Testaments. I. Die Katholischen Briefe. Band 1: Das Material; - Band 2, 1: Die Auswertung (P23-999); - Band 2, 2: Die Auswertung (1003-2805); - Band 3: Die Einzelhandschriften. (Arbeiten zur neutestamentlichen Textforschung. 9-11.)</title>
-   <author n="1">
+      type="book"
+      subtype="edited"
+      xml:lang="de">
+   <title level="m" type="main">Text und Textwert der griechischen Handschriften des Neuen Testaments. I. Die Katholischen Briefe. Band 1: Das Material; - Band 2, 1: Die Auswertung (P23-999); - Band 2, 2: Die Auswertung (1003-2805); - Band 3: Die Einzelhandschriften.</title>
+   <series>
+      <title level="s" type="main">Arbeiten zur neutestamentlichen Textforschung.</title>
+      <biblScope type="volume">9-11</biblScope>
+   </series>
+   <editor n="1">
       <forename>Kurt</forename>
       <surname>Aland</surname>
-   </author>
-   <author n="2">
+   </editor>
+   <editor n="2">
       <forename>Annette</forename>
       <surname>Benduhn-Mertz</surname>
-   </author>
-   <author n="3">
+   </editor>
+   <editor n="3">
       <forename>Gerd</forename>
       <surname>Mink</surname>
-   </author>
-   <biblScope type="pp" from="1" to="598">1-598</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/11190"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">W. de Gruyter</title>
-         <date>1987</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   </editor>
+   <publisher>W. de Gruyter</publisher>
+   <pubPlace>Berlin - New York</pubPlace>
+   <date>1987</date>
+   <note type="prefacePageCount">xviii</note>
    <idno type="pi">58289</idno>
    <idno type="bp">1987-0002</idno>
    <seg type="original" subtype="index" resp="#BP">342</seg>

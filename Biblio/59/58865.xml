@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b58865"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">unter Mitarbeit von J. Heinrichs, Zu Alexander d.Gr. Festschrift G. Wirth. Band I; - II.</title>
-   <author n="1">
+      type="book"
+      subtype="edited"
+      xml:lang="de">
+   <title level="m" type="main">Zu Alexander d.Gr. Festschrift G. Wirth. Band I; - II.</title>
+   <editor n="1">
       <forename>W.</forename>
       <surname>Will</surname>
-   </author>
-   <biblScope type="pp" from="1" to="656">1-656</biblScope>
+   </editor>
+   <publisher>A.M. Hakkert</publisher>
+   <pubPlace>Amsterdam</pubPlace>
+   <date>1987</date>
+   <note type="illustration">9 pll., 2 cartes; 11 pll.</note>
+   <note type="pageCount">1322</note>
    <note resp="#BP">Voir pp. 289-307: A. Mastrocinque, Alessandro a Menfi; - 309-333: D. Kienast, Alexander, Zeus und Ammon; - 569-593: H. Hauben, Onesicritus and the Hellenistic "Archikybernesis"; - 781-799: M. Donderer, Dionysos und Ptolemaios Soter als Meleager. Zwei Gemälde des Antiphilos.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/11378"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">A.M. Hakkert</title>
-         <date>1987</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">58865</idno>
    <idno type="bp">1987-0578</idno>
    <seg type="original" subtype="index" resp="#BP">364 Alexandrum (ad) quae referuntur 620 712</seg>

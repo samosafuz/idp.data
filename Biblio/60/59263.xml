@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b59263"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Das Ammoneion. Archäologie, Geschichte und Kultpraxis des Orakels von Siwa.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="de">
+   <title level="m" type="main">Das Ammoneion. Archäologie, Geschichte und Kultpraxis des Orakels von Siwa.</title>
    <series>
       <title level="s" type="main">Archäologische Veröffentlichungen.</title>
       <biblScope type="volume">75</biblScope>
@@ -16,17 +17,12 @@
       <forename>William M.</forename>
       <surname>Brashear</surname>
    </author>
-   <biblScope type="pp" from="20" to="20">20</biblScope>
+   <date>1988</date>
+   <note type="pageCount">177</note>
+   <note type="illustration">20 figg. et 64 pll., dont 12 pll. coul.</note>
    <note resp="#BP">S. 85-87 (William Brashear): Die griechischen Graffiti vom Gabal at-Takrur, 4. Jh. v.Chr.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/11511"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Ph. von Zabern</title>
-         <date>1988</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Ph. von Zabern</publisher>
+   <pubPlace>Mainz am Rhein</pubPlace>
    <relatedItem type="mentions" n="1">
       <bibl>
          <title level="s" type="short">SB</title>

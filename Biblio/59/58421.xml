@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b58421"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Herodas. Mimiambi cum appendice fragmentorum mimorum papyraceorum. (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana.)</title>
-   <author n="1">
+      type="book"
+      subtype="edited">
+   <title level="m" type="main">Herodas. Mimiambi cum appendice fragmentorum mimorum papyraceorum.</title>
+   <series>
+      <title level="s" type="main">Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana</title>
+   </series>
+   <editor n="1">
       <forename>I.C.</forename>
       <surname>Cunningham</surname>
-   </author>
-   <biblScope type="pp" from="36" to="36">36</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/11238"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">B.G. Teubner</title>
-         <date>1987</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   </editor>
+   <publisher>B.G. Teubner</publisher>
+   <pubPlace>Leipzig</pubPlace>
+   <date>1987</date>
+   <note type="pageCount">89</note>
+   <note type="prefacePageCount">xxvi</note>
    <idno type="pi">58421</idno>
    <idno type="bp">1987-0134</idno>
    <seg type="original" subtype="index" resp="#BP">364 Herondas</seg>

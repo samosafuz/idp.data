@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b60068"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Sylloge Nummorum Graecorum. Italia. Milano, Civiche raccolte numismatiche. 13. Aegyptus. 1. Ptolemaei.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="it">
+   <title level="m" type="main">Sylloge Nummorum Graecorum. Italia. Milano, Civiche raccolte numismatiche. 13. Aegyptus. 1. Ptolemaei.</title>
    <author n="1">
       <forename>Rodolfo</forename>
       <surname>Martini</surname>
    </author>
-   <biblScope type="pp" from="1" to="146">1-146</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/11834"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Comune di Milano - Ennere</title>
-         <date>1989</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Comune di Milano - Ennere</publisher>
+   <pubPlace>Milano</pubPlace>
+   <date>1989</date>
+   <note type="pageCount">146</note>
+   <note type="illustration">ill.</note>
    <idno type="pi">60068</idno>
    <idno type="bp">1989-0416</idno>
    <idno type="bp_old">99/4/173</idno>
