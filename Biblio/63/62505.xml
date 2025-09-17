@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b62505"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Sylloge Nummorum Graecorum. Italia. Milano, Civiche raccolte numismatiche. 13. Aegyptus. 3. Commodus - Galerius Caesar.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="it">
+   <title level="m" type="main">Sylloge Nummorum Graecorum. Italia. Milano, Civiche raccolte numismatiche. 13. Aegyptus. 3. Commodus - Galerius Caesar.</title>
    <author n="1">
       <forename>Rodolfo</forename>
       <surname>Martini</surname>
    </author>
-   <biblScope type="pp" from="361" to="589">361-589</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/12889"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Comune di Milano - Ennere</title>
-         <date>1992</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Comune di Milano - Ennere</publisher>
+   <pubPlace>Milano</pubPlace>
+   <date>1992</date>
+   <note type="illustration">ill.</note>
    <idno type="pi">62505</idno>
    <idno type="bp">1992-0543</idno>
    <idno type="bp_old">99/4/175</idno>

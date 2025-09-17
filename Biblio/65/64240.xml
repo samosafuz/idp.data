@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b64240"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Hellenistic Palaces. Tradition and Renewal.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="en">
+   <title level="m" type="main">Hellenistic Palaces. Tradition and Renewal.</title>
    <series>
       <title level="s" type="main">Studies in Hellenistic Civilization.</title>
       <biblScope type="volume">V</biblScope>
@@ -12,20 +13,16 @@
       <forename>Inge</forename>
       <surname>Nielsen</surname>
    </author>
-   <biblScope type="pp" from="44" to="44">44</biblScope>
+   <date>1994</date>
+   <publisher>Aarhus University Press</publisher>
+   <pubPlace>Aarhus</pubPlace>
+   <note type="pageCount">341</note>
+   <note type="illustration">44 figg.</note>
    <note resp="#BP">Non vidimus.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/13712"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Aarhus University Press</title>
-         <date>1994</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">64240</idno>
    <idno type="bp">1994-0632</idno>
    <idno type="bp_old">98/1/154</idno>
+   <idno type="isbn">87-7288-445-2</idno>
    <seg type="original" subtype="index" resp="#BP">214 241 Alexandrie</seg>
    <seg type="original" subtype="titre" resp="#BP">NIELSEN Inge, Hellenistic Palaces. Tradition and Renewal. (Studies in Hellenistic Civilization. V.)</seg>
    <seg type="original" subtype="publication" resp="#BP">Aarhus, Aarhus University Press, 1994, 8°, 341 pp. 44 figg. ISBN 87-7288-445-2. 238 cour. dan.</seg>

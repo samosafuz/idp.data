@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b64329"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Les lois des bâtiments. Voisinage et habitat urbain dans l'Empire romain. Recherches sur les rapports entre le droit et la construction privée du siècle d'Auguste au siècle de Justinien.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="fr">
+   <title level="m" type="main">Les lois des bâtiments. Voisinage et habitat urbain dans l'Empire romain. Recherches sur les rapports entre le droit et la construction privée du siècle d'Auguste au siècle de Justinien.</title>
    <series>
       <title level="s" type="main">BAHBeyrouth.</title>
       <biblScope type="volume">116</biblScope>
@@ -12,19 +13,16 @@
       <forename>Catherine</forename>
       <surname>Saliou</surname>
    </author>
-   <biblScope type="pp" from="68" to="68">68</biblScope>
+   <date>1994</date>
+   <publisher>Institut français d'Archéologie du Proche-Orient</publisher>
+   <pubPlace>Beyrouth</pubPlace>
+   <note type="pageCount">340</note>
+   <note type="prefacePageCount">viii</note>
+   <note type="illustration">68 figg.</note>
    <note resp="#BP">Utilise quelques témoignages papyrologiques. - P. 325: [Index des] sources papyrologiques.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/13756"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Institut français d'Archéologie du Proche-Orient</title>
-         <date>1994</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">64329</idno>
    <idno type="bp">1994-0721</idno>
+   <idno type="isbn">2-7053-0560-2</idno>
    <seg type="original" subtype="index" resp="#BP">640 840</seg>
    <seg type="original" subtype="titre" resp="#BP">SALIOU Catherine, Les lois des bâtiments. Voisinage et habitat urbain dans l'Empire romain. Recherches sur les rapports entre le droit et la construction privée du siècle d'Auguste au siècle de Justinien. (BAHBeyrouth. 116.)</seg>
    <seg type="original" subtype="publication" resp="#BP">Beyrouth, Institut français d'Archéologie du Proche-Orient, 1994, 4°, [viii-]340 pp. 68 figg. ISBN 2-7053-0560-2.</seg>

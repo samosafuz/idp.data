@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b61862" type="article" subtype="book">
-   <title level="a" type="main">Studi di filologia classica in onore di Giusto Monaco. Vol. I-IV.</title>
-   <biblScope type="pp" from="539" to="1062">539-1062</biblScope>
+<bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b61862" type="book" subtype="edited" xml:lang="it">
+   <title level="m" type="main">Studi di filologia classica in onore di Giusto Monaco. Vol. I-IV.</title>
    <note resp="#BP">Le vol. I contient des articles de papyrologie littéraire.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/12569"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Università di Palermo. Facoltà di Lettere e Filosofia. Istituto di Filologia greca e Istituto di Filologia latina</title>
-         <date>1991</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Università di Palermo. Facoltà di Lettere e Filosofia. Istituto di Filologia greca e Istituto di Filologia latina</publisher>
+   <pubPlace>Palermo</pubPlace>
+   <date>1991</date>
+   <note type="pageCount">1851</note>
+   <note type="prefacePageCount">xvi</note>
+   <note type="illustration">1 pl.</note>
    <idno type="pi">61862</idno>
    <idno type="bp">1991-0690</idno>
    <seg type="original" subtype="index" resp="#BP">130 Monaco Giusto</seg>

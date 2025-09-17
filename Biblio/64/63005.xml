@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b63005"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Prosopographia militiarum equestrium quae fuerunt ab Augusto ad Gallienum. Pars quinta. Supplementum II. [Pros. Mil. Eq., V.]</title>
+      type="book"
+      subtype="authored">
+   <title level="m" type="main">Prosopographia militiarum equestrium quae fuerunt ab Augusto ad Gallienum. Pars quinta. Supplementum II. [Pros. Mil. Eq., V.]</title>
    <series>
       <title level="s" type="main">Symbolae Facultatis Litterarum et Philosophiae Lovaniensis. Series A.</title>
       <biblScope type="volume">3</biblScope>
@@ -12,20 +12,14 @@
       <forename>Hubert</forename>
       <surname>Devijver</surname>
    </author>
-   <biblScope type="pp" from="1957" to="2440">1957-2440</biblScope>
+   <date>1993</date>
+   <publisher>Universitaire Pers</publisher>
+   <pubPlace>Leuven</pubPlace>
    <note resp="#BP">Pars prima. Litterae A-I (1976); - Pars secunda. Litterae L-V. Ignoti. Incerti (1977); - Pars tertia. Indices (1980); - Pars quarta. Supplementum I (1987). - Pp. 2357-2363; - 2413-2429: Indices. Inscriptiones - Ostraca - Papyri citatae.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/13123"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Universitaire Pers</title>
-         <date>1993</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">63005</idno>
    <idno type="bp">1993-0194</idno>
    <idno type="bp_old">96/4/028</idno>
+   <idno type="isbn">90-6186-552-2</idno>
    <seg type="original" subtype="index" resp="#BP">217 610 620</seg>
    <seg type="original" subtype="titre" resp="#BP">DEVIJVER Hubert, Prosopographia militiarum equestrium quae fuerunt ab Augusto ad Gallienum. Pars quinta. Supplementum II. [Pros. Mil. Eq., V.] (Symbolae Facultatis Litterarum et Philosophiae Lovaniensis. Series A. 3.)</seg>
    <seg type="original" subtype="publication" resp="#BP">Leuven, Universitaire Pers, 1993, 8°, pp. 1957-2440. ISBN 90-6186-552-2. 3.950 fr. b.</seg>

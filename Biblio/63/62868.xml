@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b62868"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Scritti 1933-1976. I, 2.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="it">
+   <title level="m" type="main">Scritti 1933-1976. I, 2.</title>
    <author n="1">
       <forename>Vittorio</forename>
       <surname>Bartoletti</surname>
    </author>
-   <biblScope type="pp" from="325" to="578">325-578</biblScope>
+   <date>1993</date>
+   <note type="prefacePageCount">ix</note>
+   <note type="illustration">1 fig. et 7 pll.</note>
    <note resp="#BP">Reproduction anastatique de 24 articles, opuscules et notices.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/13053"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">ETS Editrice</title>
-         <date>1993</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>ETS Editrice</publisher>
+   <pubPlace>Pisa</pubPlace>
    <idno type="pi">62868</idno>
    <idno type="bp">1993-0057</idno>
    <idno type="bp_old">95/4/084</idno>
+   <idno type="isbn">88-7741-701-3</idno>
    <seg type="original" subtype="index" resp="#BP">170 Bartoletti Vittorio</seg>
    <seg type="original" subtype="titre" resp="#BP">BARTOLETTI Vittorio, Scritti 1933-1976. I, 2.</seg>
    <seg type="original" subtype="publication" resp="#BP">Pisa, ETS Editrice, 1993, 8°, ix-pp. 325-578, 1 fig. et 7 pll. ISBN 88-7741-701-3.</seg>

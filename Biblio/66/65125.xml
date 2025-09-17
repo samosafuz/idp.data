@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b65125"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Los primeros testimonios del Nuevo Testamento. Papirología neotestamentaria.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="es">
+   <title level="m" type="main">Los primeros testimonios del Nuevo Testamento. Papirología neotestamentaria.</title>
    <series>
       <title level="s" type="main">En los orígenes del cristianismo.</title>
       <biblScope type="volume">7</biblScope>
@@ -12,17 +13,11 @@
       <forename>José</forename>
       <surname>O'Callaghan</surname>
    </author>
-   <biblScope type="pp" from="2" to="2">2</biblScope>
    <note resp="#BP">I. La papirología. - II. Los papiros del Nuevo Testamento. - III. Problemas en torno a los papiros neotestamentarios.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/14113"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">El Almendro</title>
-         <date>1995</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <note type="pageCount">149</note>
+   <date>1995</date>
+   <pubPlace>Córdoba</pubPlace>
+   <publisher>El Almendro</publisher>
    <idno type="pi">65125</idno>
    <idno type="bp">1995-0622</idno>
    <idno type="bp_old">97/2/190, 99/4/200</idno>

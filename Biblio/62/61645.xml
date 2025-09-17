@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b61645"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Studia hellenistica. Parte prima; - Parte seconda. (Pap. Flor. XXI, 1-2.)</title>
+      type="book"
+      subtype="authored"
+      xml:lang="it">
+   <title level="m" type="main">Studia hellenistica. Parte prima; - Parte seconda. (Pap. Flor. XXI, 1-2.)</title>
    <author n="1">
       <forename>Enrico</forename>
       <surname>Livrea</surname>
    </author>
-   <biblScope type="pp" from="317" to="664">317-664</biblScope>
+   <publisher>Gonnelli</publisher>
+   <pubPlace>Firenze</pubPlace>
+   <date>1991</date>
+   <note type="pageCount">664</note>
+   <note type="prefacePageCount">xiii</note>
+   <note type="illustration">1 portrait; X pll.</note>
    <note resp="#BP">Reproduction de 70 articles et comptes rendus, couvrant 8 siècles de poésie hellénistique. - Indices établis par Paola RADICI COLACE.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/12488"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Gonnelli</title>
-         <date>1991</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">61645</idno>
    <idno type="bp">1991-0473</idno>
    <seg type="original" subtype="index" resp="#BP">170 Livrea Enrico</seg>

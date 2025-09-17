@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b63413"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Tradizione e innovazione nella cultura greca da Omero all'età ellenistica. Scritti in onore di Bruno Gentili. I; - II; - III.</title>
-   <author n="1">
+      type="book"
+      subtype="edited"
+      xml:lang="it">
+   <title level="m" type="main">Tradizione e innovazione nella cultura greca da Omero all'età ellenistica. Scritti in onore di Bruno Gentili. I; - II; - III.</title>
+   <editor n="1">
       <forename>Roberto</forename>
       <surname>Pretagostini</surname>
-   </author>
-   <biblScope type="pp" from="393" to="899">393-899</biblScope>
+   </editor>
+   <date>1993</date>
+   <publisher>Gruppo Editoriale Internazionale</publisher>
+   <pubPlace>Roma</pubPlace>
+   <note type="pageCount">1255</note>
+   <note type="prefacePageCount">xlvii</note>
+   <note type="illustration">2 pll. n./bl. et coul.; - [iv]-pp. 393-899, 2 tabl., 1 fig. et 1 pl.; - [iv]-pp. 901-1255.</note>
    <note resp="#BP">107 articles. - I, pp. xxvii-xxix: Carlo BO, Profilo di Bruno Gentili; - pp. xxxi-xlvii: Maria COLANTONIO e Maria Grazia FILENI, Bibliografia di Bruno Gentili [1942-1992]. - III, pp. 1199-1255: Indici.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/13313"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Gruppo Editoriale Internazionale</title>
-         <date>1993</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">63413</idno>
    <idno type="bp">1993-0602</idno>
    <idno type="bp_old">96/1/239</idno>
+   <idno type="isbn">88-8011-014-4</idno>
    <seg type="original" subtype="index" resp="#BP">130 Gentili Bruno 170 Gentili Bruno</seg>
    <seg type="original" subtype="titre" resp="#BP">PRETAGOSTINI Roberto (a cura di), Tradizione e innovazione nella cultura greca da Omero all'età ellenistica. Scritti in onore di Bruno Gentili. I; - II; - III.</seg>
    <seg type="original" subtype="publication" resp="#BP">Roma, Gruppo Editoriale Internazionale, 1993, 4°, 1 front. coul., xlvii-391 pp. et 2 pll. n./bl. et coul.; - [iv]-pp. 393-899, 2 tabl., 1 fig. et 1 pl.; - [iv]-pp. 901-1255. ISBN 88-8011-014-4.</seg>
