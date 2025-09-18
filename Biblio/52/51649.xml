@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b51649"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg. Nos 601 à 640. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg. V-1/2.)</title>
+      type="book"
+      subtype="authored"
+      xml:lang="fr">
+   <title level="m" type="main">Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg. Nos 601 à 640.</title>
+   <series>
+      <title level="s" type="main">Publications de la Bibliothèque Nationale et Universitaire de Strasbourg.</title>
+      <biblScope type="volume">V-1/2</biblScope>
+  </series>
    <author n="1">
       <forename>Jacques</forename>
       <surname>Schwartz</surname>
    </author>
-   <biblScope type="pp" from="1" to="60">1-60</biblScope>
    <note resp="#BP">P. Stras. 601-640.</note>
+   <note type="pageCount">60</note>
+   <publisher>Bibliothèque Nationale et Universitaire de Strasbourg</publisher>
+   <pubPlace>Strasbourg</pubPlace>
    <date>1976</date>
    <relatedItem type="appearsIn">
       <bibl>

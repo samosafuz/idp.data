@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b52769"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg. Nos 661 à 680. (Publications de la Bibliothèque Nationale et Universitaire de Strasbourg. IV-4.)</title>
+      type="book"
+      subtype="authored"
+      xml:lang="fr">
+   <title level="m" type="main">Papyrus grecs de la Bibliothèque Nationale et Universitaire de Strasbourg. Nos 661 à 680.</title>
+   <series>
+      <title level="s" type="main">Publications de la Bibliothèque Nationale et Universitaire de Strasbourg.</title>
+      <biblScope type="volume">IV-4</biblScope>
+   </series>
    <author n="1">
       <forename>Jacques</forename>
       <surname>Schwartz</surname>
    </author>
-   <biblScope type="pp" from="93" to="130">93-130</biblScope>
    <note resp="#BP">P. Stras. 661-680.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/97121"/>
-      </bibl>
-   </relatedItem>
    <date>1978</date>
+   <publisher>Bibliothèque Nationale et Universitaire de Strasbourg</publisher>
+   <pubPlace>Strasbourg</pubPlace>
    <relatedItem type="mentions" n="1">
       <bibl>
          <title level="s" type="short">P. Stras.</title>

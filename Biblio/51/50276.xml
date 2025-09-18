@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b50276"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Lexicon theonymon rerumque sacrarum et divinarum ad Aegyptum pertinentium quae in papyris ostracis titulis graecis latinisque in Aegypto repertis laudantur. Fascicolo secondo: "Dioskoureios - theos". (Testi e Documenti per lo studio dell'Antichità. XLV-II.)</title>
+      type="book"
+      subtype="authored">
+   <title level="m" type="main">Lexicon theonymon rerumque sacrarum et divinarum ad Aegyptum pertinentium quae in papyris ostracis titulis graecis latinisque in Aegypto repertis laudantur. Fascicolo secondo: "Dioskoureios - theos".</title>
+   <series>
+      <title level="s" type="main">Testi e Documenti per lo studio dell'Antichità.</title>
+      <biblScope type="volume">XLV-II</biblScope>
+  </series>
    <author n="1">
       <forename>Giulia</forename>
       <surname>Ronchi</surname>
    </author>
-   <biblScope type="pp" from="241" to="480">241-480</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/8377"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Cisalpino - Goliardica</title>
-         <date>1974</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Cisalpino - Goliardica</publisher>
+   <pubPlace>Milano</pubPlace>
+   <date>1974</date>
    <idno type="pi">50276</idno>
    <idno type="bp">1974-0510</idno>
    <seg type="original" subtype="index" resp="#BP">413 712</seg>

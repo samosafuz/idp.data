@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b52621"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Studi in onore di Anthos Ardizzoni. I; - II.</title>
+      type="book"
+      subtype="edited"
+      xml:lang="it">
+   <title level="m" type="main">Studi in onore di Anthos Ardizzoni. I; - II.</title>
    <series>
       <title level="s" type="main">Filologia e Critica.</title>
       <biblScope type="volume">25</biblScope>
    </series>
-   <author n="1">
+   <editor n="1">
       <forename>Enrico</forename>
       <surname>Livrea</surname>
-   </author>
-   <author n="2">
+   </editor>
+   <editor n="2">
       <forename>G. Aurelio</forename>
       <surname>Privitera</surname>
-   </author>
-   <biblScope type="pp" from="1" to="605">1-605</biblScope>
+   </editor>
+   <date>1978</date>
+   <note type="illustration">2 pll.</note>
+   <note type="prefacePageCount">xxiii</note>
+   <note type="pageCount">1133</note>
    <note resp="#BP">Pp. xix-xxiii: Bibliografia di Anthos Ardizzoni.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/9127"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Ateneo e Bizzarri</title>
-         <date>1978</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Ateneo e Bizzarri</publisher>
+   <pubPlace>Roma</pubPlace>
    <idno type="pi">52621</idno>
    <idno type="bp">1978-0315</idno>
    <seg type="original" subtype="index" resp="#BP">130 Ardizzoni Anthos</seg>
