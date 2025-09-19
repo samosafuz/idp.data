@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b42895"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Lira Simple. Versiones rítmicas para ejemplo y estudio intuitivo de los tipos métricos de la lírica monódica griega.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="es">
+   <title level="m" type="main">Lira Simple. Versiones rítmicas para ejemplo y estudio intuitivo de los tipos métricos de la lírica monódica griega.</title>
+   <series>
+      <title level="s" type="main">Suplementos de Estudios Clásicos. Serie de Traducciones.</title>
+      <biblScope type="volume">Tomo I, núm. 14</biblScope>
+  </series>
    <author n="1">
       <forename>Agustín</forename>
       <surname>García Calvo</surname>
    </author>
-   <biblScope type="pp" from="309" to="331">309-331</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/5794"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Suplementos de Estudios Clásicos. Serie de Traducciones. Tomo I, núm. 14</title>
-         <date>1959</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <date>1959</date>
+   <pubPlace>Madrid</pubPlace>
    <idno type="pi">42895</idno>
    <idno type="bp">1959-0108</idno>
    <seg type="original" subtype="index" resp="#BP">364 Carmina varia Graeca 420</seg>

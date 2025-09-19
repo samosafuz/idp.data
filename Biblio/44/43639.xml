@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b43639"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Greek Lyric Poetry form Alcman to Simonides. Second, revised edition.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="en">
+   <title level="m" type="main">Greek Lyric Poetry form Alcman to Simonides. Second, revised edition.</title>
    <author n="1">
       <forename>Maurice</forename>
       <surname>Bowra</surname>
    </author>
-   <biblScope type="pp" from="42" to="42">42</biblScope>
    <note resp="#BP">First edition: 1936.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/6074"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Clarendon Press</title>
-         <date>1961</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Clarendon Press</publisher>
+   <pubPlace>Oxford</pubPlace>
+   <date>1961</date>
+   <note type="pageCount">444</note>
+   <note type="prefacePageCount">xii</note>
    <idno type="pi">43639</idno>
    <idno type="bp">1961-0044</idno>
    <seg type="original" subtype="index" resp="#BP">364 Carmina varia Graeca</seg>

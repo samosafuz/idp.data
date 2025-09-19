@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b43602"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Germanicus.</title>
+      type="book"
+      subtype="authored">
+   <title level="m" type="main">Germanicus.</title>
    <series>
       <title level="s" type="main">Historische Studies.</title>
       <biblScope type="volume">XVIII</biblScope>
@@ -12,17 +12,12 @@
       <forename>Willem Frederik</forename>
       <surname>Akveld</surname>
    </author>
-   <biblScope type="pp" from="9" to="9">9</biblScope>
+   <date>1961</date>
+   <note type="pageCount">153</note>
+   <note type="prefacePageCount">iv</note>
    <note resp="#BP">Diss. Utrecht. Sur le séjour de Germanicus en Égypte, voir pp. 94-104.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/6061"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">J.B. Wolters</title>
-         <date>1961</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>J.B. Wolters</publisher>
+   <pubPlace>Groningen</pubPlace>
    <idno type="pi">43602</idno>
    <idno type="bp">1961-0007</idno>
    <seg type="original" subtype="index" resp="#BP">215</seg>

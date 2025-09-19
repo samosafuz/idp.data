@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b47414"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten. Supplement 1 (1940-1966). Unter Leitung des Herausgebers bearbeitet von Winfried Rübsam. 1. Lieferung: "A - K".</title>
+      type="book"
+      subtype="authored"
+      xml:lang="de">
+   <title level="m" type="main">Wörterbuch der griechischen Papyrusurkunden, mit Einschluss der griechischen Inschriften, Aufschriften, Ostraka, Mumienschilder usw. aus Ägypten. Supplement 1 (1940-1966). Unter Leitung des Herausgebers bearbeitet von Winfried Rübsam. 1. Lieferung: "A - K".</title>
    <author n="1">
       <forename>Emil</forename>
       <surname>Kiessling</surname>
    </author>
-   <biblScope type="pp" from="1" to="155">1-155</biblScope>
+   <publisher>A.M. Hakkert</publisher>
+   <pubPlace>Amsterdam</pubPlace>
+   <date>1969</date>
+   <note type="prefacePageCount">xii</note>
    <note resp="#BP">Recense les éditions des années 1940-1966.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/7342"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">A.M. Hakkert</title>
-         <date>1969</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
    <idno type="pi">47414</idno>
    <idno type="bp">1969-0203</idno>
    <seg type="original" subtype="index" resp="#BP">413</seg>

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b40123"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Hai protai hulai tes huphantourgias eis ten Ptolemaiken Aigupton.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="el">
+   <title level="m" type="main">Hai protai hulai tes huphantourgias eis ten Ptolemaiken Aigupton.</title>
    <author n="1">
       <forename>Jean</forename>
       <surname>Kalleris</surname>
    </author>
-   <biblScope type="pp" from="78" to="230">78-230</biblScope>
    <note resp="#BP">Diss. Univ. Athènes, 1945.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/4840"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Athènes</title>
-         <date>1952</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <note type="pageCount">153</note>
+   <note type="prefacePageCount">v</note>e>
+   <pubPlace>Athènes</pubPlace>
+   <date>1952</date>
    <idno type="pi">40123</idno>
    <idno type="bp">1952-0143</idno>
    <seg type="original" subtype="index" resp="#BP">752</seg>

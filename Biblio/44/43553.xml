@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b43553"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Menander. Dyscolos. Met inleiding en commentaar uitgegeven.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="nl">
+   <title level="m" type="main">Menander. Dyscolos. Met inleiding en commentaar uitgegeven.</title>
    <series>
       <title level="s" type="main">Griekse en Latijnse Schrijvers met aantekeningen.</title>
       <biblScope type="volume">LXVI</biblScope>
@@ -12,16 +13,11 @@
       <forename>B.A.</forename>
       <surname>van Groningen</surname>
    </author>
-   <biblScope type="pp" from="4" to="4">4</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/6043"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">E.J. Brill</title>
-         <date>1960</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <date>1960</date>
+   <note type="pageCount">59</note>
+   <note type="prefacePageCount">xii</note>
+   <publisher>E.J. Brill</publisher>
+   <pubPlace>Leiden</pubPlace>
    <idno type="pi">43553</idno>
    <idno type="bp">1960-0300</idno>
    <seg type="original" subtype="index" resp="#BP">364 Menander C Dyscolus</seg>

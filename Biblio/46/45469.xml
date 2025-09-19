@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b45469"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Storia della Costituzione Romana. IV. Parte Seconda.</title>
+      type="book"
+      subtype="authored"
+      xml:lang="it">
+   <title level="m" type="main">Storia della Costituzione Romana. IV. Parte Seconda.</title>
    <author n="1">
       <forename>Francesco</forename>
       <surname>De Martino</surname>
    </author>
-   <biblScope type="pp" from="613" to="852">613-852</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/6703"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">E. Jovene</title>
-         <date>1965</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>E. Jovene</publisher>
+   <pubPlace>Napoli</pubPlace>
+   <date>1965</date>
    <idno type="pi">45469</idno>
    <idno type="bp">1965-0094</idno>
    <seg type="original" subtype="index" resp="#BP">610</seg>
