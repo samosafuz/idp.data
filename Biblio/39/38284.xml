@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b38284"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Papiri greci delle collezioni italiane. Scritture documentarie. Fascicolo terzo. (Pubblicazioni della Scuola di Filologia Classica dell'Università di Roma. Serie seconda: Sussidi e Materiali.)</title>
+      type="book"
+      subtype="authored"
+      xml:lang="it">
+   <title level="m" type="main">Papiri greci delle collezioni italiane. Scritture documentarie. Fascicolo terzo.</title>
+   <series>
+      <title level="s" type="main">Pubblicazioni della Scuola di Filologia Classica dell'Università di Roma. Serie seconda: Sussidi e Materiali.</title>
+   </series>
    <author n="1">
       <forename>Medea</forename>
       <surname>Norsa</surname>
    </author>
-   <biblScope type="pp" from="35" to="44">35-44</biblScope>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/4245"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Istituto di Filologia classica</title>
-         <date>1946</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Istituto di Filologia classica</publisher>
+   <pubPlace>Roma</pubPlace>
+   <date>1946</date>
+   <note type="prefacePageCount">viii</note>
+   <note type="illustration">pll. XXI-XXIX.</note>
    <idno type="pi">38284</idno>
    <idno type="bp">1946-0129</idno>
    <seg type="original" subtype="index" resp="#BP">520</seg>

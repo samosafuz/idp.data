@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b67360"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Egyptian Religion: The Last Thousand Years. Studies Dedicated to the Memory of Jan Quaegebeur. Part I; - Part II.</title>
+      type="book"
+      subtype="edited"
+      xml:lang="en">
+   <title level="m" type="main">Egyptian Religion: The Last Thousand Years. Studies Dedicated to the Memory of Jan Quaegebeur. Part I; - Part II.</title>
    <series>
-      <title level="s" type="main">Orientalia Lovaniensia Analecta. 84; -</title>
+      <title level="s" type="main">Orientalia Lovaniensia Analecta.</title>
+      <biblScope type="volume">84</biblScope>
       <biblScope type="volume">85</biblScope>
    </series>
-   <author n="1">
+   <editor n="1">
       <forename>Willy</forename>
       <surname>Clarysse</surname>
-   </author>
-   <author n="2">
+   </editor>
+   <editor n="2">
       <forename>Antoon</forename>
       <surname>Schoors</surname>
-   </author>
-   <author n="3">
+   </editor>
+   <editor n="3">
       <forename>Harco</forename>
       <surname>Willems</surname>
-   </author>
-   <biblScope type="pp" from="751" to="1525">751-1525</biblScope>
+   </editor>
+   <note type="pageCount">1525</note>
+   <note type="prefacePageCount">xxx</note>
+   <note type="illustration">1 portrait en front., tabl., figg., cartes, plans, pll.</note>
    <note resp="#BP">97 articles. - Pp. xi-xiv: Preface; - xv-xxiv: Willy CLARYSSE, Bibliography of Jan Quaegebeur 1969-1997; - xxv-xxx: Claude VANDERSLEYEN, La vie de Jan Quaegebeur (14 décembre 1943 - 10 août 1995); - II, pp. 1509-1525: W. CLARYSSE and M. COENEN, Index.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/15183"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Peeters - Departement Oosterse Studies</title>
-         <date>1998</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Peeters - Departement Oosterse Studies</publisher>
+   <pubPlace>Leuven</pubPlace>
+   <date>1998</date>
    <idno type="pi">67360</idno>
    <idno type="bp">1998-0127</idno>
    <idno type="bp_old">99/2/037, 02/4/049</idno>
+   <idno type="isbn">90-429-0669-3</idno>
    <seg type="original" subtype="index" resp="#BP">130 Quaegebeur Jan 160 Quaegebeur Jan 170 Quaegebeur Jan</seg>
    <seg type="original" subtype="titre" resp="#BP">CLARYSSE Willy, Antoon SCHOORS and Harco WILLEMS (Edd.), Egyptian Religion: The Last Thousand Years. Studies Dedicated to the Memory of Jan Quaegebeur. Part I; - Part II. (Orientalia Lovaniensia Analecta. 84; - 85.)</seg>
    <seg type="original" subtype="publication" resp="#BP">Leuven, Peeters - Departement Oosterse Studies, 1998, 8°, xxx-750 pp.; - pp. 751-1525, 1 portrait en front., tabl., figg., cartes, plans, pll. ISBN 90-429-0669-3. 9.000 fr. b.</seg>

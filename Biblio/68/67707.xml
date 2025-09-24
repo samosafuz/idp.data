@@ -1,36 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0"
       xml:id="b67707"
-      type="article"
-      subtype="book">
-   <title level="a" type="main">Mentor 2. 1986-1990. Guide bibliographique de la religion grecque. Bibliographical Survey of Greek Religion. Traitement informatique par Gérald PURNELLE.</title>
+      type="book"
+      subtype="edited"
+      xml:lang="fr">
+   <title level="m" type="main">Mentor 2. 1986-1990. Guide bibliographique de la religion grecque. Bibliographical Survey of Greek Religion.</title>
    <series>
       <title level="s" type="main">Kernos. Supplément.</title>
       <biblScope type="volume">6</biblScope>
    </series>
-   <author n="1">
+   <editor n="1">
       <forename>André</forename>
       <surname>Motte</surname>
-   </author>
-   <author n="2">
+   </editor>
+   <editor n="2">
       <forename>Vinciane</forename>
       <surname>Pirenne-Delforge</surname>
-   </author>
-   <author n="3">
+   </editor>
+   <editor n="3">
       <forename>Paul</forename>
       <surname>Wathelet</surname>
-   </author>
-   <biblScope type="pp" from="5" to="5">5</biblScope>
+   </editor>
    <note resp="#BP">Voir en part. pp. 45-46: Jean A. STRAUS, Sources papyrologiques. Orientation bibliographique.</note>
-   <relatedItem type="appearsIn">
-      <bibl>
-         <ptr target="https://papyri.info/biblio/15365"/>
-         <!--ignore - start, i.e. SoSOL users may not edit this-->
-         <title level="m" type="main">Université de Liège. Centre d'Histoire des Religions</title>
-         <date>1998</date>
-         <!--ignore - stop-->
-      </bibl>
-   </relatedItem>
+   <publisher>Université de Liège. Centre d'Histoire des Religions</publisher>
+   <pubPlace>Liège</pubPlace>
+   <date>1998</date>
+   <note type="pageCount">531</note>
    <idno type="pi">67707</idno>
    <idno type="bp">1998-0472</idno>
    <idno type="bp_old">98/3/193</idno>
