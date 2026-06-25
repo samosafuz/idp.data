@@ -46,9 +46,10 @@
    <text>
       <body>
          <head xml:lang="en"/>
+         <div type="commentary" subtype="frontmatter" xml:space="preserve"><p>Note that the presentation of the edition of O.Mon.Epiph. here represents a synthesis of Crum's edition with his own corrections that he later supplied in the notes to his transcriptions.</p></div>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <ab>
-    <lb n="1"/><g type="rho-cross"/> <choice><reg xml:lang="grc">ἐπειδή</reg><orig>ⲉⲡⲉⲓⲇⲏ</orig></choice> ⲁ<hi rend="diaeresis">ⲓ</hi>ⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> ϩⲓ <choice><reg xml:lang="grc">διαθήκη</reg><orig><unclear>ⲇ</unclear><supplied reason="lost">ⲓⲁⲑⲏ</supplied>
+    <lb n="1"/><g type="rho-cross"/> <choice><reg xml:lang="grc">ἐπειδή</reg><orig>ⲉⲡⲉⲓⲇⲏ</orig></choice> ⲁ<hi rend="diaeresis">ⲓ</hi>ⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> ϩⲓ <choice><reg>ⲧ<choice><reg xml:lang="grc">διαθήκη</reg><orig><unclear>ⲇ</unclear><supplied reason="lost">ⲓⲁⲑⲏ</supplied>ⲕⲏ</orig></choice></reg><orig>ⲇⲓⲁ<supplied reason="lost">ⲓⲁⲑⲏ</supplied>
 
     <lb n="2" break="no"/>ⲕⲏ</orig></choice> <hi rend="supraline">ⲛ</hi>ⲧⲁⲉⲓⲥϩⲁⲉⲓⲥ <app type="alternative"><lem><app type="editorial"><lem resp="PN Vanderheyden (published image)"><unclear>ϫ</unclear><supplied reason="lost">ⲉ <gap reason="illegible" extent="unknown" unit="character"/></supplied> 
 
@@ -60,7 +61,7 @@
 
     <lb n="6"/>ⲧⲉⲛⲟⲩ <hi rend="supraline">ⲛ</hi>ⲕⲁ ⲛⲓⲙ ⲉⲧϩⲓ
 
-    <lb n="7"/><choice><reg xml:lang="grc">διαθήκη</reg><orig>ⲇⲓⲁⲑⲏⲕ</orig></choice> ⲛⲁ ⲡⲁⲧⲉⲣ
+    <lb n="7"/><choice><reg>ⲧ<choice><reg xml:lang="grc">διαθήκη</reg><orig>ⲇⲓⲁⲑⲏⲕⲏ</orig></choice></reg><orig>ⲇⲓⲁⲑⲏⲕ</orig></choice> ⲛⲁ ⲡⲁⲧⲉⲣ
 
     <lb n="8" break="no"/>ⲙⲟⲩⲧⲉ ⲛⲉ <hi rend="supraline">ⲙⲛ</hi> ⲡⲁⲩ
 
