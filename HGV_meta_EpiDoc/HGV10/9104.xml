@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>keiner</title>
+            <title>Zensusdeklaration</title>
          </titleStmt>
          <publicationStmt>
             <idno type="filename">9104</idno>
@@ -17,8 +17,9 @@
             <msDesc>
                <msIdentifier>
                   <placeName>
-                     <settlement>unbekannt</settlement>
+                     <settlement>Berlin</settlement>
                   </placeName>
+                  <collection>Staatliche Museen (Stiftung Preußi­scher Kulturbesitz)</collection>
                </msIdentifier>
                <physDesc>
                   <objectDesc>
@@ -31,18 +32,22 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Karanis (Arsinoites)</origPlace>
+                     <origPlace>Karanis (Arsinoites, Ägypten)</origPlace>
                      <origDate notBefore="0189-06" notAfter="0189-08">
-                        <precision match="../@notBefore" degree="0.5"/>ca. Juni - Aug. 189</origDate>
+                ca. Juni - Aug. 189
+                <precision match="../@notBefore" degree="0.5"/>
+                     </origDate>
                   </origin>
                   <provenance type="located">
                      <p>
-                        <placeName type="ancient"
+                        <placeName n="1"
+                                   type="ancient"
                                    ref="https://pleiades.stoa.org/places/736932 https://www.trismegistos.org/place/1008">Karanis</placeName>
-                        <placeName type="ancient"
+                        <placeName n="2"
+                                   type="ancient"
                                    subtype="nome"
                                    ref="https://www.trismegistos.org/place/332 https://pleiades.stoa.org/places/736893">Arsinoites</placeName>
-                        <placeName type="ancient" subtype="region">Ägypten</placeName>
+                        <placeName n="3" type="ancient" subtype="region">Ägypten</placeName>
                      </p>
                   </provenance>
                </history>
@@ -50,8 +55,9 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <p>This file encoded to comply with EpiDoc Guidelines and Schema version 8
-                <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+         <p>
+        This file encoded to comply with EpiDoc Guidelines and Schema version 8
+        <ref>http://www.stoa.org/epidoc/gl/5/</ref>
          </p>
       </encodingDesc>
       <profileDesc>
@@ -66,8 +72,8 @@
          </langUsage>
          <textClass>
             <keywords scheme="hgv">
-               <term>Deklaration</term>
-               <term>Zensus</term>
+               <term n="1">Deklaration</term>
+               <term n="2">Zensus</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -80,7 +86,7 @@
    <text>
       <body>
          <div type="commentary" subtype="general">
-            <p>Zur Datierung vgl. BL IX, S. 15. Neuedition: ZPE 163, 2007, S. 156-160.</p>
+            <p>Zur Datierung vgl. BL IX, S. 15. 156-160.</p>
          </div>
          <div type="commentary" subtype="mentionedDates">
             <head>Erwähnte Daten</head>
@@ -97,8 +103,8 @@
             <listBibl>
                <bibl type="publication" subtype="principal">
                   <title level="s" type="abbreviated">BGU</title>
-                  <biblScope type="volume">1</biblScope>
-                  <biblScope type="numbers">60</biblScope>
+                  <biblScope n="1" type="volume">1</biblScope>
+                  <biblScope n="2" type="numbers">17757</biblScope>
                </bibl>
             </listBibl>
          </div>
@@ -120,18 +126,23 @@
                <bibl type="BL-online">
                   <ptr target="https://beehive.zaw.uni-heidelberg.de/hgv/9104"/>
                </bibl>
-               <bibl type="BL">
+               <bibl type="BL" n="1">
                   <biblScope type="volume">I</biblScope>
                   <biblScope type="pages">13</biblScope>
                </bibl>
-               <bibl type="BL">
+               <bibl type="BL" n="2">
                   <biblScope type="volume">IX</biblScope>
                   <biblScope type="pages">15</biblScope>
                </bibl>
-               <bibl type="BL">
+               <bibl type="BL" n="3">
                   <biblScope type="volume">XIII</biblScope>
                   <biblScope type="pages">14</biblScope>
                </bibl>
+            </listBibl>
+         </div>
+         <div type="bibliography" subtype="otherPublications">
+            <listBibl>
+               <bibl type="publication" subtype="other">BGU 1 60</bibl>
             </listBibl>
          </div>
       </body>
