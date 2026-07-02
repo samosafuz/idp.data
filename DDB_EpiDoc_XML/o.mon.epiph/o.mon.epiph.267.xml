@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-02T10:49:54-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Finalized - ready</change>
+         <change when="2026-06-26T04:26:26-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - Lin12=&gt; [.?] vestig.3char [.?] (delete space)</change>
+         <change when="2026-06-25T04:48:29-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - removed hyphen in l. 12</change>
+         <change when="2026-06-25T04:48:16-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin12=&gt; removed hyphen</change>
          <change when="2025-05-23T10:32:36-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2025-05-23T10:15:25-04:00"
@@ -70,7 +78,7 @@
 
     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> ⲧⲁⲁⲥ <hi rend="supraline">ⲛ</hi>ⲉⲡⲓⲫⲁⲛⲓⲟⲥ ϩⲓⲧⲛ
 
-    <lb n="12" break="no"/><app type="editorial"><lem resp=" PN L. Vanderheyden (digital image)"><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap><gap reason="illegible" quantity="3" unit="character" precision="low"/>char <gap reason="lost" extent="unknown" unit="character"/></lem><rdg/></app>
+    <lb n="12"/><app type="editorial"><lem resp=" PN L. Vanderheyden (digital image)"><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="3" unit="character"><desc>vestiges</desc></gap> <gap reason="lost" extent="unknown" unit="character"/></lem><rdg/></app>
 
     <lb n="12"/><gap reason="lost" extent="unknown" unit="line"/>
 </ab>
