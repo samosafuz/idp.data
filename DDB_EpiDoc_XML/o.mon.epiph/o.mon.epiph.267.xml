@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-02T10:49:54-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Finalized - ready</change>
+         <change when="2026-06-26T04:26:26-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - Lin12=&gt; [.?] vestig.3char [.?] (delete space)</change>
+         <change when="2026-06-25T04:48:29-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - removed hyphen in l. 12</change>
+         <change when="2026-06-25T04:48:16-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin12=&gt; removed hyphen</change>
          <change when="2025-05-23T10:32:36-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2025-05-23T10:15:25-04:00"
