@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sosol.2026.0707</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
+            <idno type="filename">sosol.2026.0707</idno>
+            <idno type="ddb-hybrid">sosol;2026;0707</idno>
+            <idno type="HGV">83041</idno>
+            <idno type="TM">83041</idno>
+            <availability>
+               <p>© Duke Databank of Documentary Papyri. This work is licensed under a
+          <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative 
+          Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="cop">Coptic</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-06-20T06:30:50-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head xml:lang="en"/>
+         <div xml:lang="cop" type="edition" xml:space="preserve">
+<ab>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ⲃⲟⲗ
+
+    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ϩⲏⲧ ⲁⲩⲱ
+
+    <lb n="3"/>ⲛⲧⲉⲕⲁⲗⲁϣⲓϣⲧⲉ ⲉⲧϩⲓⲡⲁⲏⲣ
+
+    <lb n="4"/>ϣⲱⲡⲉ ⲛ<choice><reg xml:lang="grc">κοινός</reg><orig>ⲕⲟⲓⲛⲟⲛ</orig></choice> ⲛⲧⲉⲡⲣⲟ ⲛ<choice><reg xml:lang="grc">αὐθέντης</reg><orig>ⲁⲩ<lb n="5"/>ⲑⲉⲛⲧⲉⲥ</orig></choice> <unclear>ⲧ</unclear><gap reason="illegible" extent="unknown" unit="character"/> ⲧⲉ ⲙⲛⲧⲃⲁⲓⲙⲟⲟⲩ
+
+    <lb n="6"/>ⲙⲛ ⲡⲧⲱⲣⲧ ϣⲱⲡⲉ ⲛ<choice><reg xml:lang="grc">κοινός</reg><orig>ⲕⲟⲓⲛⲟⲛ</orig></choice> <g type="stauros"/>
+</ab>
+      </div>
+      </body>
+   </text>
+</TEI>
