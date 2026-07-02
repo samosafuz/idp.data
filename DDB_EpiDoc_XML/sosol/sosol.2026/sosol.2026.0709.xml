@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sosol.2026.0709</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
+            <idno type="filename">sosol.2026.0709</idno>
+            <idno type="ddb-hybrid">sosol;2026;0709</idno>
+            <idno type="HGV">83008</idno>
+            <idno type="TM">83008</idno>
+            <availability>
+               <p>© Duke Databank of Documentary Papyri. This work is licensed under a
+          <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative 
+          Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="cop">Coptic</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-06-21T09:18:48-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head xml:lang="en"/>
+         <div xml:lang="cop" type="edition" xml:space="preserve">
+<div n="r" type="textpart"><ab>
+    <lb n="1"/><g type="rho-cross"/> ⲧⲁⲥ ⲛⲡⲁⲥⲟⲛ ⲙⲁ
+
+    <lb n="2" break="no"/><supplied reason="lost">ⲑ</supplied>ⲓⲟⲥ ϩⲓⲧⲛ ⲓⲱⲥⲏⲫ
+
+    <lb n="3"/><expan>ⲡⲗⲁϣ<ex>ⲁⲛⲉ</ex></expan> ⲛϫⲏⲙⲉ ⲛϣⲟ
+
+    <lb n="4" break="no"/>ⲣⲡ ⲛⲛ ⲛⲡϣⲁϫⲉ ϯϣⲓⲛⲉ
+
+    <lb n="5"/>ⲉⲧⲉⲕⲙⲛⲧⲧⲥⲟⲛ ⲙⲛⲛ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/>ⲙⲏⲧⲛ ⲧⲏⲣⲟⲩ ⲕⲁ<supplied reason="lost">ⲧⲁ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="7"/>ⲙⲛⲥⲱⲥ ϯⲧⲁ<supplied reason="lost">ⲙⲟ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="8"/>ⲧⲥⲟⲛ ϩⲁⲙⲁ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="9"/>ⲅⲉⲣⲙⲁⲛⲟⲥ ⲛ<unclear>ⲕ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="10"/>ⲧⲛⲛⲟⲟⲩⲥ ⲛⲁϥ ϫ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="11"/>ⲙⲁϩⲧⲉ ⲙⲟϥ ϩⲟⲧ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲛ</unclear><choice><reg xml:lang="grc">διαφορεῖν</reg><orig>ⲇⲓⲁⲫⲟⲣ<gap reason="lost" extent="unknown" unit="character"/></orig></choice>
+</ab></div>
+<div n="v" type="textpart"><ab>
+    <lb n="13"/>ⲁⲛⲟⲕ ⲓⲉⲣⲏⲙⲓⲁⲥ
+
+    <lb n="14"/>ϯϣⲓⲛⲉ ⲉⲣ<unclear>ⲟⲕ</unclear>
+</ab></div></div>
+      </body>
+   </text>
+</TEI>
