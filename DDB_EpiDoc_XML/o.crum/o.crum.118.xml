@@ -43,11 +43,11 @@
 <div n="r" type="textpart"><ab>
     <lb n="1"/><g type="rho-cross"/> ⲧⲁⲁ<supplied reason="lost">ⲥ</supplied> ⲙⲡ<choice><reg xml:lang="grc">τιμιώτατος</reg><orig>ⲧⲓⲙ<supplied reason="lost">ⲓⲱ</supplied>ⲧⲁⲧⲟⲥ</orig></choice> ⲛ<gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="2"/>ⲍⲁⲭⲁⲣⲓⲁⲥ <expan>ⲡⲗⲁϣⲁ<ex>ⲛⲉ</ex></expan> ϩⲓ<supplied reason="lost">ⲧⲛ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="2"/>ⲍⲁⲭⲁⲣⲓⲁⲥ ⲡ<expan>ⲗⲁϣⲁ<ex>ⲛⲉ</ex></expan> ϩⲓ<supplied reason="lost">ⲧⲛ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="3"/>ⲡⲉⲓ<choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan>ⲉⲗⲁⲭ<ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice> ⲉⲧⲃⲉ ⲫⲱⲃ
 
-    <lb n="4"/>ⲛⲁⲡⲁ ⲁⲛⲁⲛⲓⲁⲥ ⲁⲣⲓ ⲡ<gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="4"/>ⲛⲁⲡⲁ ⲁⲛⲁⲛⲓⲁⲥ ⲁⲣⲓ ⲡ<supplied reason="lost">ⲛⲁ</supplied>
 
     <lb n="5"/><supplied reason="lost">ⲛ</supplied><hi rend="supraline">ⲅ</hi>ⲧⲣⲉⲩ<hi rend="supraline">ⲛ</hi>ⲧⲉⲩϩ
 
