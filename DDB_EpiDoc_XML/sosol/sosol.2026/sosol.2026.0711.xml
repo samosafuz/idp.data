@@ -59,11 +59,11 @@
 </ab></div>
 <div n="v" type="textpart"><ab> 
 
-    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>ⲩ ⲛⲁⲛ <unclear>ⲛ</unclear><gap reason="illegible" quantity="2" unit="character"/>ⲅⲓⲁ
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>ⲩ ⲛⲁⲛ <app type="editorial"><lem resp="PN J. Cowey (photograph)"><unclear>ⲛ</unclear><gap reason="illegible" quantity="2" unit="character"/>ⲅ<hi rend="diaeresis">ⲓ<certainty match=".." locus="value"/></hi>ⲁ</lem><rdg><unclear>ⲛ</unclear><gap reason="illegible" quantity="2" unit="character"/>ⲅⲓⲁ</rdg></app> 
 
     <lb n="12"/><app type="editorial"><lem resp="PN T. Laver"><supplied reason="lost">ⲟⲩ</supplied><unclear>ϫⲁ</unclear><supplied reason="lost">ⲓ</supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app>ϩ<hi rend="supraline">ⲛ</hi> ⲡϫⲟⲉⲓⲥ ⲧⲁⲁⲥ
 
-    <lb n="13"/>ⲙⲡⲗϣⲁⲛⲉ ⲥⲁⲙⲟⲩ
+    <lb n="13"/>ⲙⲡ<choice><reg>ⲗⲁϣⲁⲛⲉ</reg><orig>ⲗϣⲁⲛⲉ</orig></choice> ⲥⲁⲙⲟⲩ
 
     <lb n="14" break="no"/>ⲏⲗ ϩⲓⲧ<hi rend="supraline">ⲛ</hi> ⲡⲁⲩⲗⲟⲥ ⲡϣⲏⲣⲉ
 
