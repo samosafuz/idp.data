@@ -43,11 +43,11 @@
 
     <lb n="2" break="no"/><supplied reason="lost">ⲑ</supplied>ⲓⲟⲥ ϩⲓⲧⲛ ⲓⲱⲥⲏⲫ
 
-    <lb n="3"/><expan>ⲡⲗⲁϣ<ex>ⲁⲛⲉ</ex></expan> ⲛϫⲏⲙⲉ ⲛϣⲟ
+    <lb n="3"/>ⲡ<expan>ⲗⲁϣ<ex>ⲁⲛⲉ</ex></expan> ⲛϫⲏⲙⲉ ⲛϣⲟ
 
     <lb n="4" break="no"/>ⲣⲡ ⲛⲛ ⲛⲡϣⲁϫⲉ ϯϣⲓⲛⲉ
 
-    <lb n="5"/>ⲉⲧⲉⲕⲙⲛⲧⲧⲥⲟⲛ ⲙⲛⲛ<gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="5"/><app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲉⲧⲉⲕⲙⲛⲧ<surplus>ⲧ</surplus>ⲥⲟⲛ</lem><rdg>ⲉⲧⲉⲕⲙⲛⲧⲧⲥⲟⲛ</rdg></app> ⲙⲛⲛ<gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="6"/>ⲙⲏⲧⲛ ⲧⲏⲣⲟⲩ ⲕⲁ<supplied reason="lost">ⲧⲁ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
