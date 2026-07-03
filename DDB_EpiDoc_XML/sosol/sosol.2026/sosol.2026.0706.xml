@@ -40,7 +40,7 @@
 <ab>
     <lb n="1"/>ⲅⲉⲱⲣⲅⲓⲟⲥ <unclear>ⲉ</unclear>ⲡ<unclear>ⲟⲛ</unclear>ⲩ<unclear>ⲭⲟ</unclear>ⲥ
 
-    <lb n="2"/>ϯ ⲡⲉⲧⲛⲁⲧⲁϩⲟ ⲧⲉⲓⲉⲅⲅⲣⲁ
+    <lb n="2"/>ϯ ⲡⲉⲧⲛⲁⲧⲁϩⲟ ⲧ<choice><reg xml:lang="grc" cert="low">ἐξέδρα</reg><orig>ⲉⲓⲉⲅⲅⲣⲁ</orig></choice>
 
     <lb n="3"/>ⲙⲡⲁϩⲟⲩ ⲉⲧⲛⲧⲡⲉ ⲛⲧⲣⲓ
 
@@ -48,7 +48,7 @@
 
     <lb n="5"/><unclear>ⲙ</unclear>ⲟ<gap reason="illegible" quantity="1" unit="character"/>ⲓ ϫⲓⲛ ⲙⲡϣⲱⲗϩ ⲉϩⲣⲁⲓ
 
-    <lb n="6"/>ⲛⲧⲉⲓⲕⲁⲗⲁϣⲓϣⲧⲉ ⲉⲧϩⲓⲡⲁⲏⲣ
+    <lb n="6"/> ⲛⲧⲉ ⲧⲕⲁⲗⲁϣⲓϣⲧⲉ ⲉⲧϩⲓ ⲡⲁⲏⲣ
 
     <lb n="7"/>ⲙⲛ ⲡⲣⲟ ⲛ<choice><reg xml:lang="grc">αὐθέντης</reg><orig>ⲁⲩⲑⲉⲛⲧⲉⲥ</orig></choice>
 
