@@ -43,15 +43,13 @@
 
     <lb n="2"/>ⲉϥⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲡⲗⲁϣⲁⲛⲉ ⲥⲁⲙⲟⲩⲏⲗ <app type="editorial"><lem resp="PN J. Cowey (photograph)">ϫⲉ</lem><rdg/></app> 
 
-    <lb n="3"/>ⲁ<unclear>ⲛ</unclear>ⲃⲱⲕ ⲉϩⲟⲛ ⲩⲡⲉⲙⲁ <hi rend="supraline">ⲙ</hi>ⲡⲛⲁ
+    <lb n="3"/><app type="editorial"><lem resp="PN J. Cowey (photograph)"/><rdg>ϫⲉ</rdg></app>ⲁ<unclear>ⲛ</unclear>ⲃⲱⲕ <choice><reg>ⲉϩⲟⲩⲛ ⲉⲡⲙⲁ</reg><orig>ⲉϩⲟⲛ ⲩⲡⲉⲙⲁ</orig></choice> <hi rend="supraline">ⲙ</hi>ⲡⲛⲁ
 
-    <lb n="4" break="no"/>ϭ<hi rend="supraline">ⲛ</hi>ⲣⲱⲙⲉ ⲁϥ<choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁ̇ⲣⲁⲅⲁⲗ<hi rend="diaeresis">ⲓ</hi></orig></choice> <hi rend="supraline">ⲙ</hi>
+    <lb n="4" break="no"/>ϭ <hi rend="supraline">ⲛ</hi>ⲣⲱⲙⲉ ⲁϥ<choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁ̇ⲣⲁⲅⲁⲗ<hi rend="diaeresis">ⲓ</hi></orig></choice> <hi rend="supraline">ⲙ</hi>
 
-    <lb n="5" break="no"/>ⲙⲟ<hi rend="diaeresis">ⲓ</hi> ϩⲁⲙⲁ ⲛⲁⲛⲑⲏⲛⲁⲥ
+    <lb n="5" break="no"/>ⲙⲟ<hi rend="diaeresis">ⲓ</hi> ϩⲁ ⲙⲁ ⲛⲁⲛⲑⲏⲛⲁⲥ
 
-    <lb n="6" break="no"/><supplied reason="lost">ⲓ</supplied><unclear>ⲟⲥ</unclear> ⲁⲓⲡⲱⲗϭ ⲛⲉⲙⲁϥ <hi rend="supraline">ⲙⲙ</hi>
-
-    <lb n="7" break="no"/>ⲧ<hi rend="diaeresis">ⲓ</hi>ϩⲱⲃ ⲛⲛⲏⲙⲁⲕ ϩⲁ
+    <lb n="6" break="no"/><supplied reason="lost">ⲓ</supplied><unclear>ⲟⲥ</unclear> ⲁⲓⲡⲱⲗϭ ⲛⲉⲙⲁϥ <choice><reg>ⲙ<hi rend="supraline">ⲛ</hi>ⲧⲁⲓ ϩⲱⲃ ⲛⲙⲙⲁⲕ</reg><orig><hi rend="supraline">ⲙⲙ</hi><lb n="7" break="no"/>ⲧ<hi rend="diaeresis">ⲓ</hi>ϩⲱⲃ ⲛⲛⲏⲙⲁⲕ</orig></choice> ϩⲁ
 
     <lb n="8"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
 
