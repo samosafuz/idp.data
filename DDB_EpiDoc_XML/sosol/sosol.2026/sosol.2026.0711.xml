@@ -43,7 +43,7 @@
 
     <lb n="2"/>ⲉϥⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲡⲗⲁϣⲁⲛⲉ ⲥⲁⲙⲟⲩⲏⲗ <app type="editorial"><lem resp="PN J. Cowey (photograph)">ϫⲉ</lem><rdg/></app> 
 
-    <lb n="3"/><app type="editorial"><lem resp="PN J. Cowey (photograph)"/><rdg>ϫⲉ</rdg></app>ⲁ<unclear>ⲛ</unclear>ⲃⲱⲕ <choice><reg>ⲉϩⲟⲩⲛ ⲉⲡⲙⲁ</reg><orig>ⲉϩⲟⲛ ⲩⲡⲉⲙⲁ</orig></choice> <hi rend="supraline">ⲙ</hi>ⲡⲛⲁ
+    <lb n="3"/><app type="editorial"><lem resp="PN J. Cowey (photograph)"/><rdg>ϫⲉ</rdg></app> <app type="editorial"><lem resp="PN J.Cowey (photograph)"><choice><reg cert="low">ⲁⲓⲃⲱⲕ </reg><reg cert="low">ⲁⲛⲃⲱⲕ </reg><orig><hi rend="supraline">ⲁ</hi>ⲃⲱⲕ</orig></choice></lem><rdg>ⲁ<unclear>ⲛ</unclear>ⲃⲱⲕ</rdg></app> <choice><reg>ⲉϩⲟⲩⲛ ⲉⲡⲙⲁ</reg><orig>ⲉϩⲟⲛ ⲩⲡⲉⲙⲁ</orig></choice> <hi rend="supraline">ⲙ</hi>ⲡⲛⲁ
 
     <lb n="4" break="no"/>ϭ <hi rend="supraline">ⲛ</hi>ⲣⲱⲙⲉ ⲁϥ<choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁ̇ⲣⲁⲅⲁⲗ<hi rend="diaeresis">ⲓ</hi></orig></choice> <hi rend="supraline">ⲙ</hi>
 
@@ -55,12 +55,13 @@
 
     <lb n="9"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
 
-    <lb n="10"/>ⲟ<unclear>ⲩ</unclear> ⲁⲣⲓ ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁ</orig></choice>
+    <lb n="10"/>ⲟ<unclear>ⲩ</unclear> ⲁⲣⲓ ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig><app type="editorial"><lem resp="PN L. Vanderheyden (photograph)">ⲁⲅⲁ<unclear>ⲡⲉ</unclear></lem><rdg/></app></orig></choice>
 </ab></div>
-<div n="v" type="textpart"><ab>
+<div n="v" type="textpart"><ab> 
+
     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>ⲩ ⲛⲁⲛ <unclear>ⲛ</unclear><gap reason="illegible" quantity="2" unit="character"/>ⲅⲓⲁ
 
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>ϩ<hi rend="supraline">ⲛ</hi> ⲡϫⲟⲉⲓⲥ ⲧⲁⲁⲥ
+    <lb n="12"/><app type="editorial"><lem resp="PN T. Laver"><supplied reason="lost">ⲟⲩ</supplied><unclear>ϫⲁ</unclear><supplied reason="lost">ⲓ</supplied></lem><rdg><gap reason="lost" extent="unknown" unit="character"/></rdg></app>ϩ<hi rend="supraline">ⲛ</hi> ⲡϫⲟⲉⲓⲥ ⲧⲁⲁⲥ
 
     <lb n="13"/>ⲙⲡⲗϣⲁⲛⲉ ⲥⲁⲙⲟⲩ
 
