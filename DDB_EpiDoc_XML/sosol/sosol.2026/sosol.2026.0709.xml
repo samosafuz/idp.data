@@ -49,15 +49,13 @@
 
     <lb n="5"/><app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲉⲧⲉⲕⲙⲛⲧ<surplus>ⲧ</surplus>ⲥⲟⲛ</lem><rdg>ⲉⲧⲉⲕⲙⲛⲧⲧⲥⲟⲛ</rdg></app> ⲙⲛ ⲛ<supplied reason="lost">ⲉⲧⲛⲙ</supplied><lb n="6" break="no"/>ⲙⲏⲧⲛ ⲧⲏⲣⲟⲩ <app type="editorial"><lem resp="PN F. Krueger (DDGLC)"><choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁ<supplied reason="lost">ⲧⲁ</supplied></orig></choice> <supplied reason="lost">ⲛⲉⲩⲣⲁⲛ</supplied></lem><rdg><choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁ<supplied reason="lost">ⲧⲁ</supplied></orig></choice> <supplied reason="lost">ⲛⲉⲛⲣⲁⲛ</supplied></rdg></app>
 
-    <lb n="7"/>ⲙⲛⲥⲱⲥ <app type="editorial"><lem resp="PN F. Krueger (common phraseology)">ϯⲧⲁ<supplied reason="lost">ⲙⲟ ⲛⲧⲉⲕⲙⲛ</supplied><lb n="8" break="no"/>ⲧⲥⲟⲛ</lem><rdg>ϯⲧⲁ<supplied reason="lost">ⲙⲟ</supplied> <gap reason="lost" extent="unknown" unit="character"/><lb n="8"/>ⲧⲥⲟⲛ</rdg></app> ϩⲁ ⲙⲁ <gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="7"/>ⲙⲛⲥⲱⲥ <app type="editorial"><lem resp="PN F. Krueger (common phraseology)">ϯⲧⲁ<supplied reason="lost">ⲙⲟ ⲛⲧⲉⲕⲙⲛ</supplied><lb n="8" break="no"/>ⲧⲥⲟⲛ</lem><rdg>ϯⲧⲁ<supplied reason="lost">ⲙⲟ</supplied> <gap reason="lost" extent="unknown" unit="character"/><lb n="8"/>ⲧⲥⲟⲛ</rdg></app> ϩⲁ ⲙⲁ <supplied reason="lost">ⲛ</supplied><gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="9"/>ⲅⲉⲣⲙⲁⲛⲟⲥ ⲛ<unclear>ⲕ</unclear><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="10"/>ⲧⲛⲛⲟⲟⲩⲥ ⲛⲁϥ ϫ<gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="10"/>ⲧⲛⲛⲟⲟⲩⲥ ⲛⲁϥ <app type="editorial"><lem resp="PN T. Laver">ϫ<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">ⲁ</supplied><lb n="11"/>ⲙⲁϩⲧⲉ</lem><rdg>ϫ<gap reason="lost" extent="unknown" unit="character"/>ⲙⲁϩⲧⲉ</rdg></app> ⲙⲟϥ ϩⲟⲧ<gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="11"/>ⲙⲁϩⲧⲉ ⲙⲟϥ ϩⲟⲧ<gap reason="lost" extent="unknown" unit="character"/>
-
-    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲛ</unclear><choice><reg xml:lang="grc"><app type="alternative"><lem>διάφορος</lem><rdg>διαφορά</rdg></app></reg><orig>ⲇⲓⲁⲫⲟⲣ<gap reason="lost" extent="unknown" unit="character"/></orig></choice>
+    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ⲛ</unclear><choice><reg xml:lang="grc"><app type="alternative"><lem>διάφορος</lem><rdg>διαφορά</rdg></app></reg><orig>ⲇⲓⲁⲫⲟⲣ<gap reason="lost" extent="unknown" unit="character"/></orig></choice> <gap reason="lost" extent="unknown" unit="character"/> 
 </ab></div>
 <div n="v" type="textpart"><ab>
     <lb n="13"/>ⲁⲛⲟⲕ ⲓⲉⲣⲏⲙⲓⲁⲥ
