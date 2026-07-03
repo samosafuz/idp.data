@@ -31,6 +31,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-03T08:31:47-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Finalized - done</change>
+         <change when="2026-07-01T04:13:30-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Vote - Accept-Straight-to-Finalization - Fine. Encode (lin5): &lt;:ἀντανῄρησαι|reg|&lt;: ἀντανείρησαι=PN A. Cis (from photo)|ed|ἀνταναίρησαι:&gt;:&gt;. Number tags need overhauling.</change>
+         <change when="2026-06-16T12:21:23-04:00"
+                 who="http://papyri.info/editor/users/alelina">Submit - Changed alpha-iota in ἀνταναίρησαι to epsilon-iota; form of epsilon-iota comparable to other writings of that combination in the text.</change>
+         <change when="2026-06-16T12:20:03-04:00"
+                 who="http://papyri.info/editor/users/alelina">Commit - Changed alpha-iota ἀνταναίρησαι to epsilon-iota on the basis of autopsy; epsilon-iota is comparable to other writings of that combination in the text.</change>
          <change when="2023-10-12T10:40:23-04:00"
                  who="http://papyri.info/editor/users/mgerhardt">Finalized - Ready.</change>
          <change when="2023-10-12T10:37:53-04:00"
