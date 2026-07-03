@@ -45,9 +45,9 @@
 
     <lb n="3"/>ⲡ<expan>ⲗⲁϣ<ex>ⲁⲛⲉ</ex></expan> ⲛϫⲏⲙⲉ ⲛϣⲟ
 
-    <lb n="4" break="no"/>ⲣⲡ ⲛⲛ ⲛⲡϣⲁϫⲉ ϯϣⲓⲛⲉ
+    <lb n="4" break="no"/>ⲣⲡ <choice><reg xml:lang="grc">μέν</reg><orig>ⲙⲛ</orig></choice> ⲛⲡϣⲁϫⲉ ϯϣⲓⲛⲉ
 
-    <lb n="5"/><app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲉⲧⲉⲕⲙⲛⲧ<surplus>ⲧ</surplus>ⲥⲟⲛ</lem><rdg>ⲉⲧⲉⲕⲙⲛⲧⲧⲥⲟⲛ</rdg></app> ⲙⲛ ⲛ<supplied reason="lost">ⲉⲧⲛⲙ</supplied><lb n="6" break="no"/>ⲙⲏⲧⲛ ⲧⲏⲣⲟⲩ <app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲕⲁ<supplied reason="lost">ⲧⲁ ⲛⲉⲩⲣⲁⲛ</supplied></lem><rdg>ⲕⲁ<supplied reason="lost">ⲧⲁ ⲛⲉⲛⲣⲁⲛ</supplied></rdg></app>
+    <lb n="5"/><app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲉⲧⲉⲕⲙⲛⲧ<surplus>ⲧ</surplus>ⲥⲟⲛ</lem><rdg>ⲉⲧⲉⲕⲙⲛⲧⲧⲥⲟⲛ</rdg></app> ⲙⲛ ⲛ<supplied reason="lost">ⲉⲧⲛⲙ</supplied><lb n="6" break="no"/>ⲙⲏⲧⲛ ⲧⲏⲣⲟⲩ <app type="editorial"><lem resp="PN F. Krueger (DDGLC)"><choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁ<supplied reason="lost">ⲧⲁ</supplied></orig></choice> <supplied reason="lost">ⲛⲉⲩⲣⲁⲛ</supplied></lem><rdg><choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁ<supplied reason="lost">ⲧⲁ</supplied></orig></choice> <supplied reason="lost">ⲛⲉⲛⲣⲁⲛ</supplied></rdg></app>
 
     <lb n="7"/>ⲙⲛⲥⲱⲥ <app type="editorial"><lem resp="PN F. Krueger (common phraseology)">ϯⲧⲁ<supplied reason="lost">ⲙⲟ ⲛⲧⲉⲕⲙⲛ</supplied><lb n="8" break="no"/>ⲧⲥⲟⲛ</lem><rdg>ϯⲧⲁ<supplied reason="lost">ⲙⲟ</supplied> <gap reason="lost" extent="unknown" unit="character"/><lb n="8"/>ⲧⲥⲟⲛ</rdg></app> ϩⲁ ⲙⲁ <gap reason="lost" extent="unknown" unit="character"/>
 
