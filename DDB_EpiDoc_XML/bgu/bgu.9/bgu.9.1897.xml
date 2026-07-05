@@ -35,35 +35,35 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
-          <change when="2021-07-09T05:31:58-04:00"
+         <change when="2021-07-09T05:31:58-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Finalized - Ready.</change>
-          <change when="2021-07-08T12:54:29-04:00"
+         <change when="2021-07-08T12:54:29-04:00"
                  who="https://papyri.info/editor/users/ThomasBackhuys">Vote - Accept-Straight-to-Finalization - Fine.</change>
-          <change when="2021-07-07T04:54:49-04:00"
+         <change when="2021-07-07T04:54:49-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Submit - Col. 1 l. 17: Ἀπολλ[ώνιου] --&gt; Ἀπολλ[ωνίου].</change>
-          <change when="2021-07-06T07:59:57-04:00"
+         <change when="2021-07-06T07:59:57-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Commit - Col. 1 l. 17: Ἀπολλ[ώνιου] --&gt; Ἀπολλ[ωνίου]</change>
-          <change when="2020-03-15T15:10:40-04:00"
+         <change when="2020-03-15T15:10:40-04:00"
                  who="https://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
-          <change when="2020-03-15T12:46:58-04:00"
+         <change when="2020-03-15T12:46:58-04:00"
                  who="https://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - The form Ἀσκλατάρ(ον) is actually what is to be found in the edition on p. 150. The indices, however, have the form Ἀσκλατάρ(ιον), which, indeed, must be correct. </change>
-          <change when="2020-03-15T09:41:46-04:00"
+         <change when="2020-03-15T09:41:46-04:00"
                  who="https://papyri.info/editor/users/YanneBroux">Submit - Col. 1, l. 21: I corrected the hapax Ἀσκλατάρ(ον) into Ἀσκλατάρ(ιον), as read in BGU, must have been a typo </change>
-          <change when="2020-03-15T09:41:34-04:00"
+         <change when="2020-03-15T09:41:34-04:00"
                  who="https://papyri.info/editor/users/YanneBroux">Commit - Col. 1, l. 21: I corrected the hapax Ἀσκλατάρ(ον) into Ἀσκλατάρ(ιον), as read in BGU, must have been a typo </change>
-          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
-          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
-          <change when="2011-11-09" who="https://papyri.info/editor/users/Faith">Third automated transfer of accents across reg-orig pairs</change>
-          <change when="2011-10-24" who="https://papyri.info/editor/users/Faith">Automated correction of misconstructed accents causing misplaced letters</change>
-          <change when="2011-10-21" who="https://papyri.info/editor/users/Faith">Second automated transfer of accents across reg-orig pairs</change>
-          <change when="2011-10-04" who="https://papyri.info/editor/users/Faith">Automatically updated revision description</change>
-          <change when="2011-09-20" who="https://papyri.info/editor/users/Faith">Automated transfer of accents across reg-orig pairs</change>
-          <change when="2011-03-27" who="https://papyri.info/editor/users/gabrielbodard">updated markup for fractions (rend=tick)</change>
-          <change when="2011-03-02" who="https://papyri.info/editor/users/gabrielbodard">batch converted all tei:sic to tei:orig and tei:corr to tei:reg</change>
-          <change when="2010-05-05" who="https://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
-          <change when="2009-11-12" who="https://papyri.info/editor/users/gabrielbodard">Added language la-Grek; tagged num rend=fraction</change>
-          <change when="2009-06-27" who="https://papyri.info/editor/users/gabrielbodard">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema)</change>
-          <change when="2008-12-22" who="http://papyri.info/about">Automated split from transcoder files</change>
+         <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
+         <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
+         <change when="2011-11-09" who="https://papyri.info/editor/users/Faith">Third automated transfer of accents across reg-orig pairs</change>
+         <change when="2011-10-24" who="https://papyri.info/editor/users/Faith">Automated correction of misconstructed accents causing misplaced letters</change>
+         <change when="2011-10-21" who="https://papyri.info/editor/users/Faith">Second automated transfer of accents across reg-orig pairs</change>
+         <change when="2011-10-04" who="https://papyri.info/editor/users/Faith">Automatically updated revision description</change>
+         <change when="2011-09-20" who="https://papyri.info/editor/users/Faith">Automated transfer of accents across reg-orig pairs</change>
+         <change when="2011-03-27" who="https://papyri.info/editor/users/gabrielbodard">updated markup for fractions (rend=tick)</change>
+         <change when="2011-03-02" who="https://papyri.info/editor/users/gabrielbodard">batch converted all tei:sic to tei:orig and tei:corr to tei:reg</change>
+         <change when="2010-05-05" who="https://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
+         <change when="2009-11-12" who="https://papyri.info/editor/users/gabrielbodard">Added language la-Grek; tagged num rend=fraction</change>
+         <change when="2009-06-27" who="https://papyri.info/editor/users/gabrielbodard">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema)</change>
+         <change when="2008-12-22" who="http://papyri.info/about">Automated split from transcoder files</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -106,7 +106,7 @@
 
     <lb n="16"/>Ἀντώνιος <gap reason="lost" quantity="3" unit="character"/><unclear>ιμ</unclear>ος <expan>Ῥω<ex>μαῖος</ex></expan> <supplied reason="lost"><expan>πρὸ<ex>ς</ex></expan></supplied> <expan>Λούκ<ex>ιον</ex></expan> υἱὸν 
 
-    <lb n="17"/>Ἄρτεμις Ἀπολλ<supplied reason="lost">ωνίου</supplied> <expan>πρὸ<ex>ς</ex></expan> Πτολλᾶν <expan>Μύσθ<ex>ου</ex></expan> 
+    <lb n="17"/>Ἄρτεμις Ἀπολλ<supplied reason="lost">ωνίου</supplied> <expan>πρὸ<ex>ς</ex></expan> Πτολλᾶν <app type="editorial"><lem resp="BL 12.22"><expan>Μυσθ<ex>αρίωνος</ex></expan></lem><rdg><expan>Μύσθ<ex>ου</ex></expan></rdg></app>  
 
     <lb n="18"/><g type="check"/> <handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> <num value="6">ϛ</num> <expan><ex>ἔτους</ex></expan> Τῦβι <expan><ex>ὀκταδράχμου</ex></expan> <num value="5">ε</num> <expan><ex>ἔτους</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> 
 
@@ -121,21 +121,21 @@
 
     <lb n="23"/>Ἀταρίας <supplied reason="lost">Δι</supplied><unclear>οσ</unclear>κόρου <expan>πρὸ<ex>ς</ex></expan> <choice><reg>Ἡρὼ</reg><orig>Ἡρὼι</orig></choice> <expan>Ἀταρίο<ex>υ</ex></expan> 
 
-    <lb n="24"/><expan>απολ<supplied reason="lost">λώ</supplied><unclear>νιο</unclear><ex>ς</ex></expan> <abbr>Ἡρακ</abbr> <expan>πρὸ<ex>ς</ex></expan> <expan>Γάιο<ex>ν</ex></expan> <expan>χρυσοχ<ex>όον</ex></expan> 
+    <lb n="24"/><expan>Ἀπολ<supplied reason="lost">λώ</supplied><unclear>νιο</unclear><ex>ς</ex></expan> <abbr>Ἡρακ</abbr> <expan>πρὸ<ex>ς</ex></expan> <expan>Γάιο<ex>ν</ex></expan> <expan>χρυσοχ<ex>όον</ex></expan> 
 
     <lb n="25"/><supplied reason="lost">Ἀμ</supplied>μωνοῦς Σαραπίωνος 
 
     <lb n="26"/><g type="check"/> <handShift new="m2"/> <expan><unclear>τρα</unclear><ex>πέζης</ex></expan> <expan>ἀριθ<ex>μήσεως</ex></expan> Παχὼν <expan>μητ<unclear>ρ</unclear>ο<unclear>π</unclear><ex>όλεως</ex></expan> εἰς <expan><unclear>α</unclear><ex>ὑτὴν</ex></expan> <expan><ex>ὀκταδράχμου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> 
 
-    <lb n="27"/><handShift new="m1"/> Ἀπολλώνιος Σαβείνου <expan>πρὸ<ex>ς</ex></expan> <expan>Ἰσίδ<ex>ωρον</ex></expan> <expan>ἐξηγ<ex>ητήν</ex></expan> 
+    <lb n="27"/><handShift new="m1"/> Ἀπολλώνιος Σαβείνου <expan>πρὸ<ex>ς</ex></expan> <expan>Ἰσίδ<ex>ωρον</ex></expan> <app type="editorial"><lem resp="BL 12.22"><expan>ἐξηγ<ex>ητεύσαντα</ex></expan></lem><rdg><expan>ἐξηγ<ex>ητήν</ex></expan></rdg></app> 
 
-    <lb n="28"/><g type="check"/> <expan>Ἀθηνάριο<ex>ν</ex></expan> <expan>π<unclear>ρ</unclear>εσβ<ex>υτέρα</ex></expan> <gap reason="lost" quantity="3" unit="character"/> <abbr>δ</abbr> <expan>πρὸ<ex>ς</ex></expan> <expan>Ἀθη<ex>νάριον</ex></expan> <expan>Ἡρακλ<ex>είδου</ex></expan> 
+    <lb n="28"/><g type="check"/> <expan>Ἀθηνάριο<ex>ν</ex></expan> <expan>π<unclear>ρ</unclear>εσβ<ex>υτέρα</ex></expan> <app type="editorial"><lem resp="BL 7.22"><expan><supplied reason="lost">Ἡρώ</supplied>δ<ex>ου</ex></expan></lem><rdg><gap reason="lost" quantity="3" unit="character"/> <abbr>δ</abbr></rdg></app> <expan>πρὸ<ex>ς</ex></expan> <expan>Ἀθη<ex>νάριον</ex></expan> <expan>Ἡρακλ<ex>είδου</ex></expan> 
 
     <lb n="29"/><handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> <num value="6">ϛ</num> <expan><ex>ἔτους</ex></expan> Τῦβι <expan><ex>ὀκταδράχμου</ex></expan> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num></supplied> 
 
     <lb n="30"/><handShift new="m1"/> Διδύμη Δείου <expan>π<supplied reason="lost">ρὸ<ex>ς</ex></supplied></expan> <expan><supplied reason="lost">Ἀλί</supplied>νη<ex>ν</ex></expan> τὸ <num value="1/2">𐅵</num> <abbr>Ἡρω</abbr> <abbr>Ἀπει</abbr> τὸ <num value="1/2">𐅵</num> 
 
-    <lb n="31"/><handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> Μεχεὶρ <num value="12">ιβ</num> <expan>δι<ex>ὰ</ex></expan> <abbr>Τε<unclear>μ</unclear>νας</abbr> <expan><unclear>Ἰ</unclear><supplied reason="lost">σί</supplied>δ<ex>ωρον</ex></expan> <expan>ἀδ<ex>ελφὸν</ex></expan> 
+    <lb n="31"/><handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> Μεχεὶρ <num value="12">ιβ</num> <expan>δι<ex>ὰ</ex></expan> <app type="editorial"><lem resp="BL 12.22"><expan>Τκεννᾶτ<ex>ος</ex></expan></lem><rdg><abbr>Τε<unclear>μ</unclear>νασ</abbr></rdg></app> <expan><unclear>Ἰ</unclear><supplied reason="lost">σί</supplied>δ<ex>ωρον</ex></expan> <expan>ἀδ<ex>ελφὸν</ex></expan> 
 
     <lb n="32"/><handShift new="m1"/> <expan>Διονύσιο<ex>ς</ex></expan> <expan>Ἥρων<ex>ος</ex></expan> τοῦ <expan>Ἡρακλ<ex>είδου</ex></expan> <expan>πρὸ<ex>ς</ex></expan> <expan>Θε<unclear>β</unclear>ενίδ<ex>α</ex></expan> 
 
@@ -237,7 +237,6 @@
 
     <lb n="80"/><handShift new="m1"/> Ἡρακ<unclear>λ</unclear>είδης Πρωτάρχου τοῦ <expan>Πτολεμ<ex>αίου</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <expan>Ταμάρω<ex>νος</ex></expan> 
 
-
     <lb n="81"/><expan>πρὸ<ex>ς</ex></expan> Ἄ<supplied reason="lost">γα</supplied>θον τὸν καὶ <expan>Πολυδ<ex>εύκην</ex></expan> ὁ τῆς <expan>Θρακιδιανῆ<ex>ς</ex></expan> 
 
     <lb n="82"/>Ἡ<supplied reason="lost">ρ</supplied>ωῒς Φιλίππου <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="11" unit="character"/> <expan><supplied reason="lost">Ἀ</supplied>θηνί<unclear>ω</unclear><ex>νος</ex></expan> 
@@ -324,7 +323,7 @@
 
     <lb n="123"/><g type="check"/> <handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> <expan>Παῦ<ex>νι</ex></expan> <num value="15">ιε</num> <expan><ex>ὀκταδράχμου</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num> 
 
-    <lb n="124"/><handShift new="m1"/> Μαρκί<unclear>α</unclear> <supplied reason="lost">Ε</supplied><unclear>ὐ</unclear>δήμου <expan><unclear>π</unclear><supplied reason="lost">ρὸ<ex>ς</ex></supplied></expan> <choice><reg>Ἡρὼ</reg><orig>Ἡρὼι</orig></choice> Ἀταρίου 
+    <lb n="124"/><handShift new="m1"/> Μαρκί<unclear>α</unclear> <app type="editorial"><lem resp="BL 12.22"><supplied reason="lost">Δ</supplied>ιδύμου</lem><rdg><supplied reason="lost">Ε</supplied><unclear>ὐ</unclear>δήμου</rdg></app> <expan><unclear>π</unclear><supplied reason="lost">ρὸ<ex>ς</ex></supplied></expan> <choice><reg>Ἡρὼ</reg><orig>Ἡρὼι</orig></choice> Ἀταρίου 
 
     <lb n="125"/>Μυσθαρίων ὁ καὶ <expan>Σαραπίω<ex>ν</ex></expan> <expan>Ζήνωνο<ex>ς</ex></expan> τοῦ <expan>Ἀκουσιλ<ex>άου</ex></expan> 
 
@@ -353,7 +352,7 @@
 
     <lb n="137"/>Πάπος Σωτηρίχου 
 
-    <lb n="138"/>Πτολέμα Σ<unclear>αβ</unclear><supplied reason="lost">εί</supplied>νου τοῦ <expan>Πρωτάρχ<ex>ου</ex></expan> <expan>πρὸ<ex>ς</ex></expan> <expan>Ἰσίδ<ex>ωρον</ex></expan> <expan>ἐξηγ<ex>ητήν</ex></expan> 
+    <lb n="138"/>Πτολέμα Σ<unclear>αβ</unclear><supplied reason="lost">εί</supplied>νου τοῦ <expan>Πρωτάρχ<ex>ου</ex></expan> <expan>πρὸ<ex>ς</ex></expan> <expan>Ἰσίδ<ex>ωρον</ex></expan> <app type="editorial"><lem resp="BL 12.22"><expan>ἐξηγ<ex>ητεύσαντα</ex></expan></lem><rdg><expan>ἐξηγ<ex>ητήν</ex></expan></rdg></app> 
 
     <lb n="139"/><supplied reason="lost">Σά</supplied><unclear>μ</unclear>βιον Ἀ<supplied reason="lost">ταρί</supplied>ου <supplied reason="lost">το</supplied>ῦ <expan>Φιλίπ<ex>που</ex></expan> <expan>μη<ex>τρὸς</ex></expan> <choice><reg>Ἡροῦτος</reg><orig>Ἥρους</orig></choice> <expan>πρὸ<ex>ς</ex></expan> Ἥρω<supplied reason="lost">να</supplied> 
 
