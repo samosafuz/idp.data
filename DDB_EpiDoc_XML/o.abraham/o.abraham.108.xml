@@ -52,13 +52,13 @@
 
     <lb n="6"/>ⲁⲩⲱ ⲟⲛ ⲕⲥⲟⲟⲩⲛ ϫⲉ<gap reason="lost" extent="unknown" unit="character"/>  
 
-    <lb n="7"/>ⲙⲡⲉⲓⲧⲛⲛⲟⲟⲩ <gap reason="lost" extent="unknown" unit="character"/>  
+    <lb n="7"/>ⲙⲡⲉⲓⲧ<hi rend="supraline">ⲛ</hi>ⲛⲟⲟⲩ <gap reason="lost" extent="unknown" unit="character"/>  
 
-    <lb n="8"/>ⲙⲉϩ ⲙⲡⲉⲕ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="8"/>ⲙⲉϩ <hi rend="supraline">ⲙ</hi>ⲡⲉⲕ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="9"/>ⲡⲉⲛϩⲱ<gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="10"/>ϯ<gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="10"/>ϯ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 </ab></div>
 <div n="v" type="textpart"><ab>
 <lb n="11"/><gap reason="ellipsis" quantity="8" unit="line"><desc>non transcribed</desc></gap>
