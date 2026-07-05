@@ -44,7 +44,7 @@
 
     <lb n="2" break="no"/>ⲛⲉⲓ</orig></choice> ⲙⲡⲁⲙⲉⲣⲓⲧ ⲛⲉⲓⲱⲧ <supplied reason="lost">ⲁⲡⲁ ⲁⲃⲣⲁϩⲁⲙ</supplied>
 
-    <lb n="3"/>ⲡ<choice><reg xml:lang="grc">ἐπίσκοπος</reg><orig>ⲉⲡⲓⲥⲕⲟⲡⲟⲥ</orig></choice> ⲙⲛ <app type="editorial"><lem resp="PN F. Krueger (photograph)"><hi rend="supraline">ⲡ</hi><choice><reg xml:lang="grc">πρεσβύτερος</reg><orig>ⲡ<supplied reason="lost">ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</supplied></orig></choice></lem><rdg>ⲡⲡ<supplied reason="lost">ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</supplied></rdg></app> <supplied reason="lost">ⲁⲡⲁ</supplied>  
+    <lb n="3"/>ⲡ<choice><reg xml:lang="grc">ἐπίσκοπος</reg><orig>ⲉⲡⲓⲥⲕⲟⲡⲟⲥ</orig></choice> ⲙⲛ <app type="editorial"><lem resp="PN F. Krueger (photograph)"><hi rend="supraline">ⲡ</hi><choice><reg xml:lang="grc">πρεσβύτερος</reg><orig>ⲡ<supplied reason="lost">ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ</supplied></orig></choice></lem><rdg>ⲡ<expan>ⲡ<supplied reason="lost" cert="low">ⲣⲉⲥⲃ<ex>ⲩⲧⲉⲣⲟⲥ</ex></supplied></expan></rdg></app> <supplied reason="lost">ⲁⲡⲁ</supplied>  
 
     <lb n="4"/>ⲃⲓⲕⲧⲱⲣ ⲡⲉⲧⲉϣϣⲉ ⲧ<gap reason="lost" extent="unknown" unit="character"/>   
 
