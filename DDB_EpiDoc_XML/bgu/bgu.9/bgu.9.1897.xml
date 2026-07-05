@@ -133,7 +133,7 @@
 
     <lb n="29"/><handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> <num value="6">ϛ</num> <expan><ex>ἔτους</ex></expan> Τῦβι <expan><ex>ὀκταδράχμου</ex></expan> <supplied reason="lost"><expan><ex>δραχμαὶ</ex></expan> <num value="8">η</num></supplied> 
 
-    <lb n="30"/><handShift new="m1"/> Διδύμη Δείου <expan>π<supplied reason="lost">ρὸ<ex>ς</ex></supplied></expan> <expan><supplied reason="lost">Ἀλί</supplied>νη<ex>ν</ex></expan> τὸ <num value="1/2">𐅵</num> <abbr>Ἡρω</abbr> <abbr>Ἀπει</abbr> τὸ <num value="1/2">𐅵</num> 
+    <lb n="30"/><handShift new="m1"/> Διδύμη Δείου <expan>π<supplied reason="lost">ρὸ<ex>ς</ex></supplied></expan> <expan><supplied reason="lost">Ἀλί</supplied>νη<ex>ν</ex></expan> τὸ <num value="1/2">𐅵</num> <app type="editorial"><lem resp="H.C. Youtie, TAPA 69 (1938) 91"><expan>Ἥρω<ex>ν</ex></expan> Ἄπει</lem><rdg><abbr>Ἡρω</abbr> <abbr>Ἀπει</abbr></rdg></app> τὸ <num value="1/2">𐅵</num> 
 
     <lb n="31"/><handShift new="m2"/> <expan>τρα<ex>πέζης</ex></expan> Μεχεὶρ <num value="12">ιβ</num> <expan>δι<ex>ὰ</ex></expan> <app type="editorial"><lem resp="BL 12.22"><expan>Τκεννᾶτ<ex>ος</ex></expan></lem><rdg><abbr>Τε<unclear>μ</unclear>νασ</abbr></rdg></app> <expan><unclear>Ἰ</unclear><supplied reason="lost">σί</supplied>δ<ex>ωρον</ex></expan> <expan>ἀδ<ex>ελφὸν</ex></expan> 
 
