@@ -48,7 +48,7 @@
 
     <lb n="4"/>ⲃⲓⲕⲧⲱⲣ ⲡⲉⲧⲉϣϣⲉ ⲧ<gap reason="lost" extent="unknown" unit="character"/>   
 
-    <lb n="5"/>ⲱⲧ <choice><reg xml:lang="grc">μέν</reg><orig>ⲙⲉⲛ</orig></choice> ⲙⲡⲉⲥⲛⲁ<gap reason="lost" extent="unknown" unit="character"/> 
+    <lb n="5"/>ⲱⲧ <choice><reg xml:lang="grc">μέν</reg><orig>ⲙⲉ<hi rend="supraline">ⲛ</hi></orig></choice> <hi rend="supraline">ⲙ</hi>ⲡⲉⲥⲛⲁ<gap reason="lost" extent="unknown" unit="character"/> 
 
     <lb n="6"/>ⲁⲩⲱ ⲟⲛ ⲕⲥⲟⲟⲩⲛ ϫⲉ<gap reason="lost" extent="unknown" unit="character"/>  
 
