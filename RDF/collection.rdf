@@ -1667,4 +1667,7 @@
     <rdf:Description rdf:about="http://papyri.info/ddbdp/p.chept">
         <dcterms:bibliographicCitation>P.Chept.</dcterms:bibliographicCitation>
     </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.palau.rib.copt">
+        <dcterms:bibliographicCitation>P.Palau Rib.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
 </rdf:RDF>
