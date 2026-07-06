@@ -31,6 +31,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-06T09:26:32-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-07-06T05:53:41-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Vote - Accept-Straight-to-Finalization - Accept text, with following correction: lin4: ⲫⲓⲗⲟⲑⲉⲟⲥ [.?] add space&#xD;
+</change>
+         <change when="2026-06-16T14:59:35-04:00"
+                 who="http://papyri.info/editor/users/M.J.Albarran">Submit - Coptic Text</change>
          <change when="2026-06-16T14:39:07-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
    </teiHeader>
