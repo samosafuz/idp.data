@@ -37,18 +37,22 @@
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
-<lb n="2"/><g type="dot"/> ⲉⲛⲱⲭ <app type="editorial"><lem>ⲡⲁⲗ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲡⲁⲗ<unclear>ⲉ</unclear></rdg></app>
-<lb n="3"/><g type="dot"/> ⲡⲉϭⲱϣ ⲫ<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="4"/><g type="dot"/> ⲫⲓⲗⲟⲑⲉⲟⲥ<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="5"/>ⲑⲱⲙⲁ<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="6"/><app type="editorial"><lem>ⲓⲁⲕⲕⲟⲃⲟ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲓⲁⲕⲕⲱⲃⲟ<unclear>ⲥ</unclear></rdg></app>
-<lb n="6"/> <gap reason="lost" extent="unknown" unit="line"/>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
 
+    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"><desc>vestiges</desc></gap>
 
-</ab>
-      </div>
+    <lb n="2"/><g type="dot"/> ⲉⲛⲱⲭ <app type="editorial"><lem>ⲡⲁⲗ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲡⲁⲗ<unclear>ⲉ</unclear></rdg></app>
+
+    <lb n="3"/><g type="dot"/> ⲡⲉϭⲱϣ ⲫ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="4"/><g type="dot"/> ⲫⲓⲗⲟⲑⲉⲟⲥ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="5"/>ⲑⲱⲙⲁ<gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="6"/><app type="editorial"><lem>ⲓⲁⲕⲕⲟⲃⲟ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲓⲁⲕⲕⲱⲃⲟ<unclear>ⲥ</unclear></rdg></app>
+
+    <lb n="6"/> <gap reason="lost" extent="unknown" unit="line"/>
+</ab></div>
       </body>
    </text>
 </TEI>
