@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sosol.2026.0714</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
+            <idno type="filename">sosol.2026.0714</idno>
+            <idno type="ddb-hybrid">sosol;2026;0714</idno>
+            <idno type="HGV">82973</idno>
+            <idno type="TM">82973</idno>
+            <availability>
+               <p>© Duke Databank of Documentary Papyri. This work is licensed under a
+          <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative 
+          Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="cop">Coptic</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-07-05T07:30:17-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head xml:lang="en"/>
+         <div xml:lang="cop" type="edition" xml:space="preserve">
+<ab>
+    <lb n="1"/><supplied reason="lost">ⲁ</supplied>ⲛⲟⲕ ⲙⲏⲛⲁ<unclear>ⲥ</unclear> ϯⲟ ⲙⲙⲛ
+
+    <lb n="2" break="no"/>ⲧⲣⲉ ϫⲉ ⲁⲡⲉⲥⲛⲧⲉ ϫⲟⲟϥ
+
+    <lb n="3"/>ϫⲁⲁⲛϫⲛⲟⲩϥ ⲉⲧⲃⲉ ⲧ<choice><reg xml:lang="grc">ἡμέρα</reg><orig>ϩⲉ<lb n="4" break="no"/>ⲙⲏⲣⲁ</orig></choice> ⲁϥϫⲟⲟⲥ ϫⲉ ϯⲟ ⲛ
+
+    <lb n="5" break="no"/><choice><reg xml:lang="grc">διάκονος</reg><orig><expan>ⲇⲓⲁⲕⲟ<ex>ⲛⲟⲥ</ex></expan></orig></choice> ⲁⲛ ⲁⲩⲱ ⲙⲁⲓⲉⲓ
+
+    <lb n="6" break="no"/><unclear>ⲣ</unclear>ⲉ ⲉⲛⲉϩ ⲁϥϫⲟⲟⲥ ϫⲉ
+
+    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><unclear>ⲣ</unclear> ⲅⲉⲱⲣⲅⲓⲟⲥ ⲙⲙⲁ
+
+    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲥⲱ</supplied>ⲧⲙ ⲉⲛⲉⲓϣⲁϫⲉ
+
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲉⲓⲥ ϩ</supplied>ⲏⲏⲧⲉ ⲟⲩⲛ ⲁϥ
+
+    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>ⲛ<choice><reg xml:lang="grc">ἀπόκληρος</reg><orig><expan>ⲁⲡⲟⲕⲗⲏ<ex>ⲣⲟⲥ</ex></expan></orig></choice>
+
+    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>ⲁⲩ
+</ab>
+      </div>
+      </body>
+   </text>
+</TEI>
