@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-07T09:52:13-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-07-06T08:26:10-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Vote - Accept-Straight-to-Finalization - Good to go</change>
+         <change when="2026-07-06T07:30:12-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added space &amp; loanword</change>
+         <change when="2026-07-06T07:30:04-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin5=&gt; ⲙ̣ⲛ̣̄ &lt;#ⲥⲟ=6#&gt; (added space); lin6=&gt; added loanword reg</change>
          <change when="2023-10-11T12:04:38-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2023-10-11T11:06:27-04:00"
