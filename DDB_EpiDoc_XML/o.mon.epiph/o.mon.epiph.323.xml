@@ -28,6 +28,7 @@
          <langUsage>
             <language ident="en">English</language>
             <language ident="cop">Coptic</language>
+            <language ident="grc">Greek</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>
@@ -54,7 +55,7 @@
 
     <lb n="3"/><supplied reason="lost"><hi rend="supraline">ⲛ</hi></supplied>ⲧⲉⲧⲛⲙⲛⲧⲉⲓⲱⲧ ϯ ⲟⲩⲁⲓⲡⲉ
 
-    <lb n="4"/>ⲛⲟⲣⲁⲝ ⲛⲁϥ ϩⲛ ⲛⲟⲣⲁⲝ
+    <lb n="4"/>ⲛ<choice><reg xml:lang="grc">ἄραξ</reg><orig>ⲟⲣⲁⲝ</orig></choice> ⲛⲁϥ ϩⲛ ⲛ<choice><reg xml:lang="grc">ἄραξ</reg><orig>ⲟⲣⲁⲝ</orig></choice>
 
     <lb n="5"/>ⲉⲧϩⲓ ⲡⲕⲁϩ ⲁⲩⲱ ⲛⲥϩⲁ
 
