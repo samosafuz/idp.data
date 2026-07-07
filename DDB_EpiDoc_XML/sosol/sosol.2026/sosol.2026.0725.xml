@@ -41,19 +41,19 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><handShift new="m1"/><expan>διαγέγρα<ex>φε</ex></expan> <expan>Πετεμε<ex>νῶφις</ex></expan> Παμώνθου <expan>ὑπ<ex>ὲρ</ex></expan>
+    <lb n="1"/><handShift new="m1"/><expan>διαγέγρα<ex>φε</ex></expan> <expan>Πετεμε<ex>νῶφις</ex></expan> Παμώνθου <expan>ὑπ<ex>ὲρ</ex></expan>
 
-<lb n="2"/><expan>φοιν<ex>ικώνων</ex></expan> <expan>ἱερα<ex>τικῶν</ex></expan> <num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> <expan>ἀργυ<ex>ρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="15">δέκα πέντε</num> 
+    <lb n="2"/><expan>φοιν<ex>ικώνων</ex></expan> <expan>ἱερα<ex>τικῶν</ex></expan> <num value="12">ιβ</num> <expan><ex>ἔτους</ex></expan> <expan>ἀργυ<ex>ρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="15">δέκα πέντε</num> 
 
-<lb n="3"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαί</ex></expan> <num value="15">ιε</num> καὶ τά τούτων <expan>προσδ<ex>ιαγραφόμενα</ex></expan> ἐξ <expan><ex>ὀβολοῦ</ex></expan> <expan><ex>ἡμιωβελίου</ex></expan>
+    <lb n="3"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαί</ex></expan> <num value="15">ιε</num> καὶ τά τούτων <expan>προσδ<ex>ιαγραφόμενα</ex></expan> ἐξ <expan><ex>ὀβολοῦ</ex></expan> <expan><ex>ἡμιωβελίου</ex></expan>
 
-<lb n="4"/><expan><ex>ἔτους</ex></expan> <num value="12">ιβ</num> Τιβερίου Κλαυδίου Καίσαρος
+    <lb n="4"/><expan><ex>ἔτους</ex></expan> <num value="12">ιβ</num> Τιβερίου Κλαυδίου Καίσαρος
 
-<lb n="5"/>Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
+    <lb n="5"/>Σεβαστοῦ Γερμανικοῦ Αὐτοκράτορος
 
-<lb n="6"/><handShift new="m2"/>Νέου Σε<unclear>β</unclear>αστοῦ <num value="21"><hi rend="supraline">κα</hi></num> 
+    <lb n="6"/><handShift new="m2"/>Νέου Σε<unclear>β</unclear>αστοῦ <num value="21"><hi rend="supraline">κα</hi></num> 
 
-<lb n="7"/><abbr>Ἀπολ</abbr> <expan>τρα<ex>πεζίτης</ex></expan>
+    <lb n="7"/><abbr>Ἀπολ</abbr> <expan>τρα<ex>πεζίτης</ex></expan>
 </ab></div>
       </body>
    </text>
