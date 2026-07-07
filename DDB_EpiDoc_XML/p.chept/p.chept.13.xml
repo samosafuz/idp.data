@@ -67,7 +67,7 @@
     <lb n="7" break="no"/>τος ἀπὸ κώμης Νειλουπό<unclear>λεω</unclear><supplied reason="lost">ς</supplied> 
 
     <lb n="8"/>ὄνον <choice><reg>θηλείαν</reg><orig>θηλίαν</orig></choice> <choice><reg>μελαίναν</reg><orig>μελάνην</orig></choice>
-<choice><reg>τε<lb n="9" break="no"/>λείαν</reg><orig>τε<lb n="9" break="no"/>λίαν</orig></choice> <app type="editorial"><lem resp="BL 8.415">μίαν</lem><rdg><choice><reg>γραῖαν</reg><orig>γρηαν</orig></choice></rdg></app> τιμῆς τῆς 
+<choice><reg>τε<lb n="9" break="no"/>λείαν</reg><orig>τε<lb n="9" break="no"/>λίαν</orig></choice> <app type="editorial"><lem resp="BL 8.415">μίαν</lem><rdg><choice><reg>γραῖαν</reg><orig>γρῆαν</orig></choice></rdg></app> τιμῆς τῆς 
 
     <lb n="10"/><supplied reason="lost">σ</supplied>υμπ<unclear>ε</unclear>φωνημέν<unclear>ης</unclear> <unclear>πρὸς</unclear>
 
@@ -91,7 +91,7 @@
 
     <lb n="20"/>Μάρκου Αὐρηλίου Πρόβου 
 
-    <lb n="21"/><unclear>Σε</unclear>βα<supplied reason="lost">στο</supplied><unclear>ῦ</unclear> Φαῶφι <num value="13"><hi rend="supraline">ιγ</hi></num> </ab></div>
+    <lb n="21"/><unclear>Σε</unclear>βα<supplied reason="lost">στο</supplied><unclear>ῦ</unclear> Φαωφὶ <num value="13"><hi rend="supraline">ιγ</hi></num> </ab></div>
       </body>
    </text>
 </TEI>
