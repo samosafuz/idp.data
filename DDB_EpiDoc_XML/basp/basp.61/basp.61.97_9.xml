@@ -35,6 +35,12 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-07T09:49:57-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-07-07T09:22:01-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - Looks good.</change>
+         <change when="2026-07-07T09:14:32-04:00"
+                 who="http://papyri.info/editor/users/aldrin">Submit - Entered text from Edition.</change>
          <change when="2026-07-07T08:55:42-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
    </teiHeader>
