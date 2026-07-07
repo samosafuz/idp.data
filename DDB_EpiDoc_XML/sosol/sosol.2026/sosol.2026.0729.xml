@@ -37,17 +37,17 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><expan>διαγέγρα<ex>φε</ex></expan> <expan>Πετεμε<ex>νῶφις</ex></expan> <expan>Παμώνθ<ex>ου</ex></expan>
+    <lb n="1"/><expan>διαγέγρα<ex>φε</ex></expan> <expan>Πετεμε<ex>νῶφις</ex></expan> <expan>Παμώνθ<ex>ου</ex></expan>
 
-<lb n="2"/><expan>ὑ<ex>πὲρ</ex></expan> <expan>φοι<ex>νίκωνων</ex></expan> <expan>ἱερα<ex>τικῶν</ex></expan> <num value="2">β</num> <expan><ex>ἔτους</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμάς</ex></expan> <num value="3">τρῖς</num> <expan>ὀβολ<ex>ὸν</ex></expan>
+    <lb n="2"/><expan>ὑ<ex>πὲρ</ex></expan> <expan>φοι<ex>νίκωνων</ex></expan> <expan>ἱερα<ex>τικῶν</ex></expan> <num value="2">β</num> <expan><ex>ἔτους</ex></expan> <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμάς</ex></expan> <num value="3">τρῖς</num> <num value="1"><expan>ὀβολ<ex>ὸν</ex></expan></num>
 
-<lb n="3"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαί</ex></expan> <num value="3">γ</num> <expan><ex>ὀβολὸς</ex></expan> <expan>κ<ex>αὶ</ex></expan> <expan>τού<ex>των</ex></expan> <expan>προ<ex>σδιαγραφόμενα</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="3">γ</num> Νέρωνος
+    <lb n="3"/><expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαί</ex></expan> <num value="3">γ</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num> <expan>κ<ex>αὶ</ex></expan> <expan>τού<ex>των</ex></expan> <expan>προ<ex>σδιαγραφόμενα</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="3">γ</num> Νέρωνος
 
-<lb n="4"/>Κλαυδίου Καίσαρος Σεβάστου
+    <lb n="4"/>Κλαυδίου Καίσαρος Σεβάστου
 
-<lb n="5"/>Γερμανικοῦ Αὐτοκράτορος
+    <lb n="5"/>Γερμανικοῦ Αὐτοκράτορος
 
-<lb n="6"/><expan>μη<ex>νός</ex></expan> Νέου Σεβαστοῦ <num value="33"><hi rend="supraline">λγ</hi></num>. <expan>Ἀπίω<ex>ν</ex></expan> <expan><ex>σε</ex>ση<ex>μείωμαι</ex></expan>.
+    <lb n="6"/><expan>μη<ex>νός</ex></expan> Νέου Σεβαστοῦ <num value="33"><hi rend="supraline">λγ</hi></num>. <expan>Ἀπίω<ex>ν</ex></expan> <expan><ex>σε</ex>ση<ex>μείωμαι</ex></expan>.
 </ab></div>
       </body>
    </text>
