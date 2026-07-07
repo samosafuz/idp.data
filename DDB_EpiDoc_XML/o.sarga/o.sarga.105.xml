@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>o.sarga.105</title>
@@ -32,18 +32,18 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-          <change when="2023-10-11T15:32:12-04:00"
+         <change when="2023-10-11T15:32:12-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
-          <change when="2023-10-11T15:03:45-04:00"
+         <change when="2023-10-11T15:03:45-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - AcceptText - See Boudhors' comments.</change>
-          <change when="2023-10-11T12:12:52-04:00"
+         <change when="2023-10-11T12:12:52-04:00"
                  who="http://papyri.info/editor/users/anne.boudhors">Vote - AcceptText - lin1 ⲁⲡ̣[ⲁ ][.?]=&gt; &lt;:ⲁⲡ̣[.?]|alt|ⲁⲡ̣[ⲁ] [.?]:&gt;; lin3 correct to &lt;:ⲡⲥⲁ ⲛ̄ϣⲃⲛⲛ[ⲉ] [.?]|alt|ⲡⲥⲁ ⲛ̄ ϣⲃⲛⲛ[ⲉ] [.?] [ⲁⲣⲓ ⲧ&lt;:ἀγάπη=grc|reg|ⲁⲅⲁⲡⲏ:&gt;]:&gt;</change>
-          <change when="2023-09-25T17:43:15-04:00"
+         <change when="2023-09-25T17:43:15-04:00"
                  who="http://papyri.info/editor/users/thomaslaver">Submit - New text (fixing diaereses)</change>
-          <change when="2023-09-21T15:13:16-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+         <change when="2023-09-21T15:13:16-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
@@ -62,9 +62,9 @@
 
     <lb n="7" break="no"/>ϭⲛⲧⲟⲩ <hi rend="supraline">ⲛ</hi>ⲕⲁⲙ ⲧ<hi rend="supraline">ⲛ</hi>ⲟⲟⲩ
 
-    <lb n="8"/>ⲥⲟⲩ ⲉⲩⲧⲏⲕ <g type="stauros"/>
+    <lb n="8" break="no"/>ⲥⲟⲩ ⲉⲩⲧⲏⲕ <g type="stauros"/>
 </ab>
       </div>
       </body>
-  </text>
+   </text>
 </TEI>
