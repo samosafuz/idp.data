@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>o.mon.epiph.308</title>
@@ -32,16 +32,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-          <change when="2024-11-22T12:21:32-05:00"
+         <change when="2024-11-22T12:21:32-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
-          <change when="2024-11-22T08:33:35-05:00"
+         <change when="2024-11-22T08:33:35-05:00"
                  who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - lin4=&gt; &lt;:&lt;ⲉ&gt;ⲧⲁϣ|reg|ⲧⲁϣ:&gt;; the rest of the text is fine to me</change>
-          <change when="2024-10-04T16:09:59-04:00"
+         <change when="2024-10-04T16:09:59-04:00"
                  who="http://papyri.info/editor/users/thomaslaver">Submit - New text</change>
-          <change when="2024-10-04T10:02:27-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+         <change when="2024-10-04T10:02:27-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
@@ -52,9 +52,9 @@
 
     <lb n="3" break="no"/>ⲃⲱⲕ ⲉⲕⲁⲗⲃⲁ ⲁⲓϫⲛⲟⲩ ⲇⲓⲟⲥ
 
-    <lb n="4" break="no"/>ⲕⲟⲣⲟⲥ<g type="word-sep-apostrophe"/> ⲡⲉϫⲁⲓ ϫⲉ<g type="word-sep-apostrophe"/> <hi rend="supraline">ⲛ</hi>ⲧⲟⲕ<g type="word-sep-apostrophe"/> <supplied reason="omitted">ⲉ</supplied>ⲧⲁϣ
+    <lb n="4" break="no"/>ⲕⲟⲣⲟⲥ<g type="word-sep-apostrophe"/> ⲡⲉϫⲁⲓ ϫⲉ<g type="word-sep-apostrophe"/> <hi rend="supraline">ⲛ</hi>ⲧⲟⲕ<g type="word-sep-apostrophe"/> <choice><reg>ⲛⲧⲁϩϥⲓ</reg><orig>ⲧⲁϣ
 
-    <lb n="5"/>ⲃⲓ <choice><reg>ⲡ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig>ϩⲟⲗⲟⲕⲟⲧⲥⲉ</orig></choice></reg><orig>ⲫⲟⲗⲟⲕⲟⲧⲥⲉ</orig></choice><g type="word-sep-apostrophe"/> <hi rend="supraline">ⲛ</hi>ⲥⲟⲩⲟ<g type="word-sep-apostrophe"/> ⲁⲣⲓ ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁ
+    <lb n="5"/>ⲃⲓ</orig></choice> <choice><reg>ⲡ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig>ϩⲟⲗⲟⲕⲟⲧⲥⲉ</orig></choice></reg><orig>ⲫⲟⲗⲟⲕⲟⲧⲥⲉ</orig></choice><g type="word-sep-apostrophe"/> <hi rend="supraline">ⲛ</hi>ⲥⲟⲩⲟ<g type="word-sep-apostrophe"/> ⲁⲣⲓ ⲧ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲅⲁ
 
     <lb n="6" break="no"/>ⲡⲏ</orig></choice> <hi rend="supraline">ⲛⲅ</hi>ⲧⲁⲁϥ <hi rend="supraline">ⲙⲡⲁⲩⲥⲁ</hi> <hi rend="supraline">ⲛϥ</hi>ⲧⲁⲁϥ 
 
@@ -68,5 +68,5 @@
 </ab>
       </div>
       </body>
-  </text>
+   </text>
 </TEI>
