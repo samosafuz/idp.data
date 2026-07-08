@@ -47,13 +47,13 @@
 
     <lb n="2" break="no"/>ⲁⲁⲃ ⲁⲡⲁ ⲁⲛⲁⲛⲓⲁⲥ ⲡ<choice><reg xml:lang="grc">ἐπίσκοπος</reg><orig>ⲉⲡⲓⲥⲕⲟⲡⲟ<supplied reason="lost">ⲥ</supplied></orig></choice> <supplied reason="lost">ⲛⲣⲙⲟ</supplied>
 
-    <lb n="3" break="no"/>ⲛⲧ ⲡⲣⲱⲙⲉ ⲉⲧ<choice><reg xml:lang="grc">φορεῖν</reg><orig>ⲫⲟⲣⲉⲓ</orig></choice> <app type="editorial"><lem>ⲙ<supplied reason="lost">ⲡⲉ<choice><reg xml:lang="grc">χριστός</reg><orig><expan>ⲭ<ex>ⲣⲓⲥⲧⲟ</ex>ⲥ</expan></orig></choice> ϩⲛ ⲟⲩⲙⲉ</supplied></lem><rdg>ⲙ<gap reason="lost" extent="unknown" unit="character"/></rdg></app>
+    <lb n="3" break="no"/>ⲛⲧ ⲡⲣⲱⲙⲉ ⲉⲧ<choice><reg xml:lang="grc">φορεῖν</reg><orig>ⲫⲟⲣⲉⲓ</orig></choice> ⲙ<supplied reason="lost">ⲡⲉ<choice><reg xml:lang="grc">χριστός</reg><orig><expan>ⲭ<ex>ⲣⲓⲥⲧⲟ</ex>ⲥ</expan></orig></choice> ϩⲛ ⲟⲩⲙⲉ</supplied>
 
     <lb n="4"/>ⲡⲉ<choice><reg xml:lang="grc">πνευματοφόρος</reg><orig>ⲡⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ</orig></choice>  ⲡϣⲏⲣⲉ <supplied reason="lost">ⲛⲛ</supplied><choice><reg xml:lang="grc">ἀπόστολος</reg><orig><supplied reason="lost">ⲁⲡⲟⲥ</supplied>
 
-    <lb n="5" break="no"/>ⲧⲟⲗⲟⲥ</orig></choice> ⲁⲩⲱ ⲡⲣⲱⲙⲉ ⲛ<choice><reg>ϣⲟⲩⲟⲩⲁϣϥ</reg><orig>ϣⲟⲩⲁϣϥ</orig></choice> <app type="editorial"><lem><unclear>ⲛ</unclear><supplied reason="lost">ⲧϩⲉ ⲛ</supplied>
+    <lb n="5" break="no"/>ⲧⲟⲗⲟⲥ</orig></choice> ⲁⲩⲱ ⲡⲣⲱⲙⲉ ⲛ<choice><reg>ϣⲟⲩⲟⲩⲁϣϥ</reg><orig>ϣⲟⲩⲁϣϥ</orig></choice> <unclear>ⲛ</unclear><supplied reason="lost">ⲧϩⲉ ⲛ</supplied>
 
-    <lb n="6" break="no"/><supplied reason="lost">ⲇ</supplied>ⲁⲛⲓⲏⲗ</lem><rdg><unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/><lb n="6"/>ⲁⲛⲓⲏⲗ</rdg></app> ⲛⲧⲁϥⲧⲁⲁⲩ ⲉⲧⲟⲟⲧⲟⲩ <app type="editorial"><lem resp=" PN L. Vanderheyden (photograph)">ⲛ
+    <lb n="6" break="no"/><supplied reason="lost">ⲇ</supplied>ⲁⲛⲓⲏⲗ ⲛⲧⲁϥⲧⲁⲁⲩ ⲉⲧⲟⲟⲧⲟⲩ <app type="editorial"><lem resp=" PN L. Vanderheyden (photograph)">ⲛ
 
     <lb n="7" break="no"/><supplied reason="lost">ⲛ</supplied><choice><reg xml:lang="grc">ἐκκλησία</reg><orig>ⲉⲕⲕⲗⲏⲥⲓⲁ</orig></choice></lem><rdg><app type="alternative"><lem>ⲛ<gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲛ<supplied reason="lost">ⲛ</supplied></rdg></app><lb n="7" break="no"/><choice><reg xml:lang="grc">ἐκκλησία</reg><orig>ⲉⲕⲕⲗⲏⲥⲓⲁ</orig></choice></rdg></app> ⲉⲧⲣⲉⲩⲁⲣⲉϩ ⲉⲣⲟⲟⲩ
 </ab>
