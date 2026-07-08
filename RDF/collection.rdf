@@ -1697,4 +1697,19 @@
     <rdf:Description rdf:about="http://papyri.info/ddbdp/p.sorb.copt">
         <dcterms:bibliographicCitation>P.Sorb.Copt.</dcterms:bibliographicCitation>
     </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/bku">
+        <dcterms:bibliographicCitation>BKU</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.mich.copt">
+        <dcterms:bibliographicCitation>P.Mich.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.mich.copt">
+        <dcterms:bibliographicCitation>O.Mich.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.fay.copt">
+        <dcterms:bibliographicCitation>P.Fay.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.bawit">
+        <dcterms:bibliographicCitation>O.Bawit</dcterms:bibliographicCitation>
+    </rdf:Description>
 </rdf:RDF>
