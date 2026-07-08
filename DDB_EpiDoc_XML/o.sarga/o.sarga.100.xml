@@ -32,6 +32,15 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T07:34:19-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T10:05:26-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - Krueger's correction does reflect the original edition, but one expects a name, particularly coming after pason (often a title). Moreover, I read ⲡⲁ̣[ on the image, thus change to &lt;:ⲡⲁ̣[.?]=PN L. Vanderheyden (photograph)|ed|ⲡ&lt;:διάκονος (?)=grc|reg|ⲇ[.?]:&gt;:&gt;&#xD;
+</change>
+         <change when="2026-07-06T09:43:30-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added loanword</change>
+         <change when="2026-07-06T09:43:20-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin1=&gt; added loanword reg</change>
          <change when="2023-10-11T15:20:55-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2023-10-11T15:02:37-04:00"
