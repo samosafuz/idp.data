@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:46:48-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:29:26-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - Accept Krueger's corr, except lin12 where change to &lt;:ⲛ̄ⲧⲉⲩⲛⲟⲩ (?)|reg|ⲉ̣ⲛ̄ⲧⲉⲩ:&gt; (add space before question mark)</change>
+         <change when="2026-06-29T10:52:16-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - space &amp; regs</change>
+         <change when="2026-06-29T10:52:09-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin2=&gt; added space in ϫⲉ ⲛⲧⲁϥϫⲓ; lin3=&gt; added reg; lin5=&gt; added reg; lin12=&gt; changed alt to reg</change>
          <change when="2026-02-11T09:33:52-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready. </change>
          <change when="2026-02-06T08:35:42-05:00"
