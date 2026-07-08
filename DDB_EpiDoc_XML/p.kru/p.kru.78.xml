@@ -39,6 +39,12 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T17:36:29-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-07-08T09:20:02-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - ok</change>
+         <change when="2026-07-08T08:12:02-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Submit - lin43: added reg on κατα</change>
          <change when="2020-11-04T06:13:14-05:00"
                  who="https://papyri.info/editor/users/esthergarel">Finalized - Ready. Lines 38-44 renumbered. </change>
          <change when="2019-11-07T10:53:21-05:00"
