@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:41:04-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:31:19-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-29T11:03:26-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added space</change>
+         <change when="2026-06-29T11:03:18-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin9=&gt; added space in ⲁϣ ⲛⲉ</change>
          <change when="2026-05-09T05:38:57-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-05-08T09:14:50-04:00"
@@ -64,7 +72,7 @@
 
     <lb n="8"/>ⲙⲁⲩⲁⲁⲩ<g type="middot"/> ⲛⲟⲩ<hi rend="diaeresis">ⲓ</hi> ⲟⲛ <hi rend="supraline">ⲙⲛ</hi> <app type="alternative"><lem>ⲡ<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ⲉ</unclear></lem><rdg>ⲡ<gap reason="lost" quantity="2" unit="character"/><unclear>ϣⲉ</unclear></rdg></app> ⲙⲁⲣⲟⲩ ⲙⲁⲩ
 
-    <lb n="9" break="no"/>ⲁⲁⲩ <app type="alternative"><lem><hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ⲧ<unclear>ⲁⲗ</unclear><gap reason="lost" quantity="6" unit="character"/>ⲟⲩ</lem><rdg><hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ⲧ<unclear>ⲥⲁ</unclear><supplied reason="lost">ⲃⲟⲓ ⲉⲣⲱ</supplied>ⲟⲩ</rdg></app> ϫⲉ ⲁϣⲛⲉ
+    <lb n="9" break="no"/>ⲁⲁⲩ <app type="alternative"><lem><hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ⲧ<unclear>ⲁⲗ</unclear><gap reason="lost" quantity="6" unit="character"/>ⲟⲩ</lem><rdg><hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛ</hi>ⲧ<unclear>ⲥⲁ</unclear><supplied reason="lost">ⲃⲟⲓ ⲉⲣⲱ</supplied>ⲟⲩ</rdg></app> ϫⲉ ⲁϣ ⲛⲉ
 
     <lb n="10"/>ⲟⲩϫⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ϩⲙ</hi> <supplied reason="lost">ⲡϫⲟⲉⲓⲥ <g type="stauros"/> ϣ</supplied>ⲗⲏⲗ ⲉϫⲱ<hi rend="diaeresis">ⲓ</hi> 
 </ab>
