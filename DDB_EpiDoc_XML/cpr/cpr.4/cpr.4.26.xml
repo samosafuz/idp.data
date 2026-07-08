@@ -106,15 +106,24 @@ Z. 64 &lt;:μαρτυρεῖν=grc|reg|ⲙⲁⲣⲧ:&gt;&#xD;
 <lb n="28"/>ⲉⲃⲟⲗ ⲉⲣⲟⲕ ⲛⲧⲟⲕ ⲡ<choice><reg xml:lang="grc">λαμπρότατος</reg><orig><expan>ⲗⲁⲙⲡⲣ<ex>ⲟⲧⲁⲧⲟⲥ</ex></expan></orig></choice> ⲡⲁⲡⲛⲟⲩⲑⲓⲟⲥ ⲡϣⲏⲣⲉ 
 <lb n="29"/>ⲛⲥⲧⲉⲫⲁⲛⲟⲥ ⲡⲉⲛⲧⲁⲓϣⲣⲡ <choice><reg xml:lang="grc">δηλοῦν</reg><orig>ⲇⲏⲗⲟⲩ</orig></choice> ⲙⲙⲟϥ ⲛⲧⲡⲉ 
 <lb n="30"/><choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ⲁⲛⲟⲛ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ⲥⲟⲛ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ⲥⲱⲛⲉ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϣⲛⲟⲩⲁ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> 
-<lb n="31"/>ϣⲛⲥⲛⲁⲩ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϫⲱϩ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϫⲱϩ ⲛϫⲱϩ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice>
-<lb n="32"/>ϣⲛⲟⲩⲁ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ⲣⲙⲉⲛⲏⲓ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϩⲁ ⲡⲁⲉⲓⲱⲧ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> 
-<lb n="33"/>ϩⲁ ⲧⲁⲙⲁⲁⲩ ⲛϥ<choice><reg xml:lang="grc">ἐνάγειν</reg><orig>ⲉⲛⲁⲅⲉ</orig></choice> ⲛⲁⲕ ϩⲛ <choice><reg xml:lang="grc">δικαστήριον</reg><orig>ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ</orig></choice> 
-<lb n="34"/><choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ ⲛ<choice><reg xml:lang="grc">δικαστήριον</reg><orig>ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ϩⲛ ⲧⲟϣ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ 
-<lb n="35"/>ⲛⲧⲟϣ ϩⲙ ⲡⲉ<choice><reg xml:lang="grc">πραιτώριον</reg><orig>ⲡⲣⲁⲓⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ ⲛ<choice><reg xml:lang="grc">πραιτώριον</reg><orig>ⲡⲣⲁ<supplied reason="lost">ⲓ</supplied>
-<lb n="36" break="no"/>ⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲥⲙⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">προσέλευσις</reg><orig>ⲡⲣⲟⲥⲉⲗⲉⲩⲥⲓⲥ</orig></choice> <choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁ
-<lb n="37" break="no"/>ⲣⲟ</orig></choice>ⲕ ϩⲁϩⲧⲏⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">ἐξουσία</reg><orig>ⲉⲝⲟⲩⲥⲓⲁ</orig></choice> ⲛⲓⲙ ⲉⲩϫⲟⲥⲉ 
-<lb n="38"/>ⲉⲩϩⲁ ⲉⲟⲟⲩ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁ<choice><reg xml:lang="grc">ἐγκαλεῖν</reg><orig>ⲉⲅⲕⲁⲗⲉⲓ</orig></choice> ⲛⲁⲕ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲧⲙ
-<lb n="39" break="no"/><choice><reg xml:lang="grc">ἐγκαλεῖν</reg><orig>ⲉⲅⲕⲁⲗⲉⲓ</orig></choice> ⲉⲧⲃⲉ ⲧ<unclear>ⲉⲓ</unclear><choice><reg xml:lang="grc">πρᾶσις</reg><orig>ⲡⲣⲁⲥⲓⲥ</orig></choice> ⲧⲁⲓ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> <choice><reg xml:lang="grc">μέρος</reg><orig>ⲙⲉⲣⲟⲥ</orig></choice> ⲛⲧⲁⲥ
+
+    <lb n="31"/>ϣⲛⲥⲛⲁⲩ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϫⲱϩ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϫⲱϩ ⲛϫⲱϩ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice>
+
+    <lb n="32"/>ϣⲛⲟⲩⲁ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ⲣⲙⲉⲛⲏⲓ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> ϩⲁ ⲡⲁⲉⲓⲱⲧ <choice><reg xml:lang="grc">οὔτε</reg><orig>ⲟⲩⲇⲉ</orig></choice> 
+
+    <lb n="33"/>ϩⲁ ⲧⲁⲙⲁⲁⲩ ⲛϥ<choice><reg xml:lang="grc">ἐνάγειν</reg><orig>ⲉⲛⲁⲅⲉ</orig></choice> ⲛⲁⲕ ϩⲛ <choice><reg xml:lang="grc">δικαστήριον</reg><orig>ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ</orig></choice> 
+
+    <lb n="34"/><choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ ⲛ<choice><reg xml:lang="grc">δικαστήριον</reg><orig>ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ϩⲛ ⲧⲟϣ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ 
+
+    <lb n="35"/>ⲛⲧⲟϣ ϩⲙ ⲡⲉ<choice><reg xml:lang="grc">πραιτώριον</reg><orig>ⲡⲣⲁⲓⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ ⲛ<choice><reg xml:lang="grc">πραιτώριον</reg><orig>ⲡⲣⲁ<supplied reason="lost">ⲓ</supplied>
+
+    <lb n="36" break="no"/>ⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲥⲙⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">προσέλευσις</reg><orig>ⲡⲣⲟⲥⲉⲗⲉⲩⲥⲓⲥ</orig></choice> <choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁ
+
+    <lb n="37" break="no"/>ⲣⲟ</orig></choice>ⲕ ϩⲁϩⲧⲏⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">ἐξουσία</reg><orig>ⲉⲝⲟⲩⲥⲓⲁ</orig></choice> ⲛⲓⲙ ⲉⲩϫⲟⲥⲉ 
+
+    <lb n="38"/>ⲉⲩϩⲁ ⲉⲟⲟⲩ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁ<choice><reg xml:lang="grc">ἐγκαλεῖν</reg><orig>ⲉⲅⲕⲁⲗⲉⲓ</orig></choice> ⲛⲁⲕ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲧⲙ
+
+    <lb n="39" break="no"/><choice><reg xml:lang="grc">ἐγκαλεῖν</reg><orig>ⲉⲅⲕⲁⲗⲉⲓ</orig></choice> ⲉⲧⲃⲉ ⲧ<unclear>ⲉⲓ</unclear><choice><reg xml:lang="grc">πρᾶσις</reg><orig>ⲡⲣⲁⲥⲓⲥ</orig></choice> ⲧⲁⲓ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> <choice><reg xml:lang="grc">μέρος</reg><orig>ⲙⲉⲣⲟⲥ</orig></choice> ⲛⲧⲁⲥ
 
     <lb n="40"/>ⲉⲡⲧⲏⲣϥ ⲛⲧⲛⲕⲓⲙ ⲉⲣⲟⲕ ϩⲁϩⲧⲏⲛ ⲗⲁⲁⲩ 
 
