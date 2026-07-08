@@ -75,7 +75,6 @@ lin3=&gt; ⲡⲉⲙⲛⲧ (ⲁⲛⲁⲛ(ⲓⲁⲥ)) (cf. recto 31-32) ;lin11, 14
          </head>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <div n="r" type="textpart"><ab> 
-
     <lb n="1"/><foreign xml:lang="grc"><supplied reason="lost"><g type="stauros"/> ἐν ὀνόματι τῆς ἁγία</supplied>ς καὶ ζωοποιοῦ ὁμοουσίου τριάδος πατρὸς 
 
     <lb n="2"/>καὶ υἱοῦ καὶ ἁγίου <expan>πνεύμ<ex>ατος</ex></expan>. <expan>ἐγρ<ex>άφη</ex></expan> <expan>μ<ex>ηνὸς</ex></expan> <expan>Φαμ<ex>ενὼ</ex>θ</expan> <num value="28">κη</num>, <expan>ἰνδ<ex>ικτίωνος</ex></expan> πρώτης</foreign><g type="stauros"/>
@@ -217,13 +216,8 @@ lin3=&gt; ⲡⲉⲙⲛⲧ (ⲁⲛⲁⲛ(ⲓⲁⲥ)) (cf. recto 31-32) ;lin11, 14
     <lb n="70"/>ⲙⲛ ⲃⲓⲕⲧⲱⲣ <g type="stauros"/>
 
     <lb n="71"/><handShift new="m1"/><g type="stauros"/> <foreign xml:lang="grc">διʼ ἐμοῦ Δαυεὶδ <expan>υ<ex>ἱ</ex>οῦ</expan> Ψάτε <expan>ἐγρ<ex>άφη</ex></expan></foreign><g type="stauros"/>
-
-
 </ab></div> 
-
 <div n="v" type="textpart"><ab> 
-
-
     <lb n="1"/><expan>ⲃⲓⲕ<ex>ⲧⲱⲣ</ex></expan> ⲡⲉⲗⲥⲧⲁⲣⲉ <choice><reg xml:lang="grc">υἰός</reg><orig><expan>ⲩ<ex>ⲓ</ex>ⲟ<ex>ⲥ</ex></expan></orig></choice>  <expan>ϣⲉⲛⲟⲩ<ex>ⲧⲉ</ex></expan>
 
     <lb n="2"/><gap reason="illegible" quantity="3" unit="character"/> ⲡϩⲏⲧ ⲥⲧⲉ<unclear>ⲫⲁⲛⲟⲥ</unclear> ⲡⲣⲏⲥ ⲧⲃⲏⲕ ⲡϩⲓⲣ ⲛⲉⲛⲣⲙⲟⲩ<unclear>ⲇ</unclear>ⲉ
@@ -267,7 +261,6 @@ lin3=&gt; ⲡⲉⲙⲛⲧ (ⲁⲛⲁⲛ(ⲓⲁⲥ)) (cf. recto 31-32) ;lin11, 14
     <lb n="20"/>ⲏⲣⲡ ⲕⲁⲕⲉ ⲁϥ ⲧⲉⲣϩⲁⲙ . <gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="21"/>ⲡⲉⲛⲧⲁⲓϫⲟⲟⲩϥ ⲉⲃⲟⲗ ⲉⲣⲟⲓ ϩⲛ ⲡⲁⲃⲉⲗⲱⲛ <unclear>ⲁϥ</unclear>  . <gap reason="lost" extent="unknown" unit="character"/>
-
 </ab></div> </div>
       </body>
    </text>
