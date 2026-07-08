@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T07:52:32-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T08:27:07-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - lin1=&gt; correct Krueger's reg &lt;:ⲙⲡⲁ2.- ϣⲁϫⲉ|reg|ⲡⲁ2.- ⲁϣⲁϫⲉ:&gt; by deleting 2 space before line breaks; the rest of the text is fine to me</change>
+         <change when="2026-06-26T10:55:37-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added regs &amp; alts, thereby reversing emendations</change>
+         <change when="2026-06-26T10:54:56-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin1=&gt; corrected reg and removed old emendations (those were mine anyway, the text seems to be based on my DDGLC version, not the edition itself); lin8=&gt; added reg, removed emendation (again, that was mine anyway); lin12=&gt; added alt; lin13=&gt; added reg</change>
          <change when="2024-10-23T10:39:05-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2024-10-23T09:36:34-04:00"
