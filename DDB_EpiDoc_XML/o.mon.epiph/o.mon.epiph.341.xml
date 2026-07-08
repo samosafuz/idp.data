@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:40:20-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:12:34-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-29T10:32:41-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added space</change>
+         <change when="2026-06-29T10:32:34-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin10=&gt; added space in ⲉⲧⲃⲉ &lt;:ⲡϩⲱⲃ|reg|ⲫⲱⲃ:&gt;</change>
          <change when="2025-08-08T04:53:54-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2025-08-07T09:52:58-04:00"
