@@ -60,7 +60,7 @@ lin11: add space after [.?]</change>
 <lb n="6"/>ϣⲁⲛⲉⲣ <choice><reg xml:lang="grc">χρεία </reg><orig>ⲭⲣⲓⲁ</orig></choice> ⲡϭⲟⲗⲉⲡ <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/>ϫⲓⲛⲉⲧⲡⲉ ⲛ<num value="4">ϥⲧⲟⲟ<supplied reason="lost">ⲩ</supplied></num> <supplied reason="lost"> ⲛ</supplied><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="8"/>ⲉⲡⲕⲱⲧ ⲉⲙⲟⲛ ⲉⲓⲥ ⲡⲉⲱ<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> ⲙⲡⲉⲛϭⲉⲛ <choice><reg>ⲑⲉ</reg><orig>ⲑⲩ</orig></choice> ⲕⲱⲧ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> ⲙⲡⲉⲛϭⲉⲛ <choice><reg>ⲧϩⲉ</reg><orig>ⲑⲩ</orig></choice> ⲕⲱⲧ<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>ⲥ ⲕⲉ<num value="50">ⲧⲁⲓⲟⲩ</num> ⲛϥ
 <lb n="11" break="no"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲙⲡ</supplied><unclear>ⲣ</unclear>ϭⲱⲡⲉ ⲛⲓ
 <lb n="11"/><gap reason="lost" extent="unknown" unit="line"/> 
