@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:47:31-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:30:32-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-29T10:56:26-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - deleted space</change>
+         <change when="2026-06-29T10:56:18-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin4=&gt; deleted space after ⲙ̄ⲡⲁⲧⲉ</change>
          <change when="2026-02-11T09:44:08-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready. </change>
          <change when="2026-02-06T09:18:26-05:00"
@@ -55,7 +63,7 @@
 
     <lb n="3"/>ϯⲓⲛⲟⲩ <choice><reg xml:lang="grc">ἀλλά</reg><orig>ⲁⲗⲗⲁ</orig></choice> ⲁⲉⲓϭ<unclear>ⲓ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="4"/>ϣⲏ <hi rend="supraline">ⲙ</hi>ⲡⲕⲁⲙⲟⲩⲗ <hi rend="supraline">ⲙ</hi>ⲡⲁⲧⲉ ⲡⲣ
+    <lb n="4"/>ϣⲏ <hi rend="supraline">ⲙ</hi>ⲡⲕⲁⲙⲟⲩⲗ <hi rend="supraline">ⲙ</hi>ⲡⲁⲧⲉⲡⲣ
 
     <lb n="5" break="no"/>ⲱⲙⲉ ⲃⲱⲕ ϩⲓⲱϥ ⲁⲉⲓⲧⲉⲛⲛ
 
