@@ -47,13 +47,13 @@
 
     <lb n="2" break="no"/>ⲁⲁⲃ ⲁⲡⲁ ⲁⲛⲁⲛⲓⲁⲥ ⲡ<choice><reg xml:lang="grc">ἐπίσκοπος</reg><orig>ⲉⲡⲓⲥⲕⲟⲡⲟ<supplied reason="lost">ⲥ</supplied></orig></choice> <supplied reason="lost">ⲛⲣⲙⲟ</supplied>
 
-    <lb n="3" break="no"/>ⲛⲧ ⲡⲣⲱⲙⲉ ⲉⲧ<choice><reg xml:lang="grc">φορεῖν</reg><orig>ⲫⲟⲣⲉⲓ</orig></choice> <app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲙ<supplied reason="lost">ⲡⲉ<choice><reg xml:lang="grc">χριστός</reg><orig><expan>ⲭ<ex>ⲣⲓⲥⲧⲟ</ex>ⲥ</expan></orig></choice> ϩⲛ ⲟⲩⲙⲉ</supplied></lem><rdg>ⲙ<gap reason="illegible" extent="unknown" unit="character"/></rdg></app>
+    <lb n="3" break="no"/>ⲛⲧ ⲡⲣⲱⲙⲉ ⲉⲧ<choice><reg xml:lang="grc">φορεῖν</reg><orig>ⲫⲟⲣⲉⲓ</orig></choice> <app type="editorial"><lem resp="PN F. Krueger (DDGLC)">ⲙ<supplied reason="lost">ⲡⲉ<choice><reg xml:lang="grc">χριστός</reg><orig><expan>ⲭ<ex>ⲣⲓⲥⲧⲟ</ex>ⲥ</expan></orig></choice> ϩⲛ ⲟⲩⲙⲉ</supplied></lem><rdg>ⲙ<gap reason="lost" extent="unknown" unit="character"/></rdg></app>
 
     <lb n="4"/>ⲡⲉ<choice><reg xml:lang="grc">πνευματοφόρος</reg><orig>ⲡⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ</orig></choice>  ⲡϣⲏⲣⲉ <supplied reason="lost">ⲛⲛ</supplied><choice><reg xml:lang="grc">ἀπόστολος</reg><orig><supplied reason="lost">ⲁⲡⲟⲥ</supplied>
 
     <lb n="5" break="no"/>ⲧⲟⲗⲟⲥ</orig></choice> ⲁⲩⲱ ⲡⲣⲱⲙⲉ ⲛ<choice><reg>ϣⲟⲩⲟⲩⲁϣϥ</reg><orig>ϣⲟⲩⲁϣϥ</orig></choice> <app type="editorial"><lem resp="PN F. Krueger (DDGLC)"><unclear>ⲛ</unclear><supplied reason="lost">ⲧϩⲉ ⲛⲇ</supplied>
 
-    <lb n="6" break="no"/>ⲁⲛⲓⲏⲗ</lem><rdg><unclear>ⲛ</unclear><gap reason="illegible" extent="unknown" unit="character"/> <lb n="6"/>ⲁⲛⲓⲏⲗ</rdg></app> ⲛⲧⲁϥⲧⲁⲁⲩ ⲉⲧⲟⲟⲧⲟⲩ ⲛ
+    <lb n="6" break="no"/>ⲁⲛⲓⲏⲗ</lem><rdg><unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/> <lb n="6"/>ⲁⲛⲓⲏⲗ</rdg></app> ⲛⲧⲁϥⲧⲁⲁⲩ ⲉⲧⲟⲟⲧⲟⲩ ⲛ
 
     <lb n="7"/><choice><reg xml:lang="grc">ἐκκλησία</reg><orig>ⲉⲕⲕⲗⲏⲥⲓⲁ</orig></choice> ⲉⲧⲣⲉⲩⲁⲣⲉϩ ⲉⲣⲟⲟⲩ
 </ab>
