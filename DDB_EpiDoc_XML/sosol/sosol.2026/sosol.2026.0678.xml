@@ -38,30 +38,53 @@
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><g type="stauros"/> ⲁⲛⲟⲕ ⲡⲓⲗⲁⲧⲉ<unclear>ⲥ</unclear>
-<lb n="2"/><unclear>ⲙⲛ</unclear> <app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/><unclear>ⲟ</unclear>ϫ</lem><rdg>ⲟⲟϫ</rdg><rdg>ϩⲟϫ</rdg><rdg>ⲱϫ</rdg></app> <choice><reg>ⲧⲉϥ</reg><orig><unclear>ⲧ</unclear>ⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓ
-<lb n="3" break="no"/>ⲙⲉ</orig></choice> <unclear>ⲛ</unclear><choice><reg>ⲣⲱⲙⲉ</reg><orig>ⲣⲉⲙ</orig></choice> ⲡⲉ
-<lb n="4" break="no"/>ⲇⲉⲙⲟⲩⲧ ϫⲉ ⲧⲓ
-<lb n="5" break="no"/><choice><reg xml:lang="grc">χρεωστεῖν</reg><orig>ⲭⲣⲱⲱⲥⲧⲉ</orig></choice> ⲙⲁ
-<lb n="6" break="no"/>ⲧ<unclear>ⲧ</unclear>ⲓⲧⲟⲩⲁ ⲛⲟⲩ
-<lb n="7" break="no"/>ⲡⲉϣⲉ ⲛ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig>ⲁⲗ<unclear>ⲁ</unclear>
-<lb n="8" break="no"/>ⲕⲕ<unclear>ⲟ</unclear>ⲧ<unclear>ⲧⲥ</unclear>ⲉ</orig></choice>
-<lb n="9"/>ⲉⲣⲉ ⲡⲛⲟⲩⲧⲉ
-<lb n="10"/>ⲟⲩⲱϣ ⲧⲁ<unclear>ⲃ</unclear><supplied reason="lost">ⲱ</supplied>ⲕ
-<lb n="11"/>ⲉϩⲏⲧ ⲧⲁⲓ ⲉⲣⲏⲥ
-<lb n="12"/><unclear>ⲧ</unclear>ⲁⲧⲁⲁⲥ ⲛⲁⲕ
-<lb n="13"/>ⲛⲁⲧⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">ἀμφιβολία</reg><orig><unclear>ⲁⲙ</unclear>ⲫⲟ
-<lb n="14" break="no"/>ⲃⲟⲗ<unclear>ⲓ</unclear>ⲁ</orig></choice> ⲁⲛⲟⲕ <add place="above">ⲡⲓⲗⲁⲧⲉⲥ</add> ⲙ<supplied reason="lost">ⲛ</supplied>
-<lb n="15"/><choice><reg>ⲧⲉϥ</reg><orig><unclear>ⲧ</unclear>ⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓⲙⲉ</orig></choice> <unclear>ⲧⲛ</unclear><choice><reg xml:lang="grc">στοιχεῖν</reg><orig><unclear>ⲥ</unclear><supplied reason="lost">ⲧⲟⲓ</supplied>
-<lb n="16" break="no"/>ⲭⲩ</orig></choice> <choice><reg xml:lang="grc">ἀσφαλές</reg><orig>ⲉⲡⲓ<unclear>ⲁⲥⲫⲁ</unclear><supplied reason="lost">ⲗⲉⲥ</supplied></orig></choice>
-<lb n="17"/>ⲁⲛⲟⲕ ⲃⲓⲕⲧⲱⲣ <supplied reason="lost">ⲛ</supplied>
-<lb n="18" break="no"/><unclear>ⲧ</unclear>ⲁⲡⲓⲗⲁⲧⲉⲥ ⲙ<supplied reason="lost">ⲛ</supplied>
-<lb n="19"/><choice><reg>ⲧⲉϥ</reg><orig>ⲧⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓⲙⲉ</orig></choice> <choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲗⲁ
-<lb n="20" break="no"/>ⲕⲁ<unclear>ⲗ</unclear>ⲉ</orig></choice> ⲙ<unclear>ⲟ</unclear>ⲓ <choice><reg>ⲁⲓⲥϩⲁⲓ</reg><orig>ⲁ<supplied reason="lost">ⲓ</supplied>
-<lb n="21" break="no"/>ⲥⲁⲓ</orig></choice> ⲁ<unclear>ⲩⲱ</unclear>
-<lb n="22"/>ⲧ<unclear>ⲓⲟ</unclear> <unclear>ⲙⲙⲛⲧⲣⲉ</unclear>
-<lb n="23"/><expan><unclear>ἐγ</unclear>ρά<unclear>φ</unclear><ex>η</ex></expan> Ἁθυρ
-<lb n="24"/><num value="24">κδ</num> <expan>ἰνδ<ex>ικτίωνος</ex></expan> <num value="12">ιβ</num>
+    <lb n="1"/><g type="stauros"/> ⲁⲛⲟⲕ ⲡⲓⲗⲁⲧⲉ<unclear>ⲥ</unclear>
+
+    <lb n="2"/><unclear>ⲙⲛ</unclear> <app type="alternative"><lem><gap reason="illegible" quantity="1" unit="character"/><unclear>ⲟ</unclear>ϫ</lem><rdg>ⲟⲟϫ</rdg><rdg>ϩⲟϫ</rdg><rdg>ⲱϫ</rdg></app> <choice><reg>ⲧⲉϥ</reg><orig><unclear>ⲧ</unclear>ⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓ
+
+    <lb n="3" break="no"/>ⲙⲉ</orig></choice> <unclear>ⲛ</unclear><choice><reg>ⲣⲱⲙⲉ</reg><orig>ⲣⲉⲙ</orig></choice> ⲡⲉ
+
+    <lb n="4" break="no"/>ⲇⲉⲙⲟⲩⲧ ϫⲉ ⲧⲓ
+
+    <lb n="5" break="no"/><choice><reg xml:lang="grc">χρεωστεῖν</reg><orig>ⲭⲣⲱⲱⲥⲧⲉ</orig></choice> ⲙⲁ
+
+    <lb n="6" break="no"/>ⲧ<unclear>ⲧ</unclear>ⲓⲧⲟⲩⲁ ⲛⲟⲩ
+
+    <lb n="7" break="no"/>ⲡⲉϣⲉ ⲛ<choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig>ⲁⲗ<unclear>ⲁ</unclear>
+
+    <lb n="8" break="no"/>ⲕⲕ<unclear>ⲟ</unclear>ⲧ<unclear>ⲧⲥ</unclear>ⲉ</orig></choice>
+
+    <lb n="9"/>ⲉⲣⲉ ⲡⲛⲟⲩⲧⲉ
+
+    <lb n="10"/>ⲟⲩⲱϣ ⲧⲁ<unclear>ⲃ</unclear><supplied reason="lost">ⲱ</supplied>ⲕ
+
+    <lb n="11"/>ⲉϩⲏⲧ ⲧⲁⲓ ⲉⲣⲏⲥ
+
+    <lb n="12"/><unclear>ⲧ</unclear>ⲁⲧⲁⲁⲥ ⲛⲁⲕ
+
+    <lb n="13"/>ⲛⲁⲧⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">ἀμφιβολία</reg><orig><unclear>ⲁⲙ</unclear>ⲫⲟ
+
+    <lb n="14" break="no"/>ⲃⲟⲗ<unclear>ⲓ</unclear>ⲁ</orig></choice> ⲁⲛⲟⲕ <add place="above">ⲡⲓⲗⲁⲧⲉⲥ</add> ⲙ<supplied reason="lost">ⲛ</supplied>
+
+    <lb n="15"/><choice><reg>ⲧⲉϥ</reg><orig><unclear>ⲧ</unclear>ⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓⲙⲉ</orig></choice> <unclear>ⲧⲛ</unclear><choice><reg xml:lang="grc">στοιχεῖν</reg><orig><unclear>ⲥ</unclear><supplied reason="lost">ⲧⲟⲓ</supplied>
+
+    <lb n="16" break="no"/>ⲭⲩ</orig></choice> <choice><reg xml:lang="grc">ἀσφαλές</reg><orig>ⲉⲡⲓ<unclear>ⲁⲥⲫⲁ</unclear><supplied reason="lost">ⲗⲉⲥ</supplied></orig></choice>
+
+    <lb n="17"/>ⲁⲛⲟⲕ ⲃⲓⲕⲧⲱⲣ <supplied reason="lost">ⲛ</supplied>
+
+    <lb n="18" break="no"/><unclear>ⲧ</unclear>ⲁⲡⲓⲗⲁⲧⲉⲥ ⲙ<supplied reason="lost">ⲛ</supplied>
+
+    <lb n="19"/><choice><reg>ⲧⲉϥ</reg><orig>ⲧⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓⲙⲉ</orig></choice> <choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲗⲁ
+
+    <lb n="20" break="no"/>ⲕⲁ<unclear>ⲗ</unclear>ⲉ</orig></choice> ⲙ<unclear>ⲟ</unclear>ⲓ <choice><reg>ⲁⲓⲥϩⲁⲓ</reg><orig>ⲁ<supplied reason="lost">ⲓ</supplied>
+
+    <lb n="21" break="no"/>ⲥⲁⲓ</orig></choice> ⲁ<unclear>ⲩⲱ</unclear>
+
+    <lb n="22"/>ⲧ<unclear>ⲓⲟ</unclear> <unclear>ⲙⲙⲛⲧⲣⲉ</unclear>
+
+    <lb n="23"/><expan><unclear>ἐγ</unclear>ρά<unclear>φ</unclear><ex>η</ex></expan> Ἁθυρ
+
+    <lb n="24"/><num value="24">κδ</num> <expan>ἰνδ<ex>ικτίωνος</ex></expan> <num value="12">ιβ</num>
 </ab>
       </div>
       </body>
