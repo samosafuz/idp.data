@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:17:53-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Finalized - ready</change>
+         <change when="2026-07-07T09:31:01-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Vote - Accept-Straight-to-Finalization - Good correction.</change>
+         <change when="2026-07-06T10:51:35-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - deleted hyphen based on word separation</change>
+         <change when="2026-07-06T10:51:24-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - deleted hyphen after 6.</change>
          <change when="2023-10-03T07:09:02-04:00"
                  who="http://papyri.info/editor/users/berkes.lajos">Finalized - ready</change>
          <change when="2023-09-29T10:06:46-04:00"
