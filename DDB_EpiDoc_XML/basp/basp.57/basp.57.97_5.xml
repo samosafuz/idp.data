@@ -42,7 +42,7 @@
 <ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
 
-    <lb n="1"/>ⲉ<unclear>ⲓⲛ</unclear>.<gap reason="lost" quantity="9" unit="character" precision="low"/>
+    <lb n="1"/>ⲉ<unclear>ⲓⲛ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="9" unit="character" precision="low"/>
 
     <lb n="2"/>Ϯ ⲟⲩ<choice><reg xml:lang="grc">λιβυκός</reg><orig>ⲗⲓⲃⲓⲕⲟⲥ</orig></choice> ⲛⲁ<unclear>ⲩ</unclear>
 
