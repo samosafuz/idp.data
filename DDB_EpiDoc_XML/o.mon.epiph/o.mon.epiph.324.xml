@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:37:00-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:05:37-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - Correct Kruegers' corr to &lt;:ⲛⲁⲡ&lt;:Πέρσης=grc|reg|ⲡⲉⲣⲥ̣ⲟⲥ:&gt;|reg|ⲛ̄ⲁⲡⲉⲣⲥⲟⲥ:&gt; according to Crum's reading on the apparatus</change>
+         <change when="2026-06-29T08:23:41-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added alt, reg, space</change>
+         <change when="2026-06-29T08:23:30-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin2=&gt; added reg; lin3=&gt; added space in ⲉⲧϩ̣ⲛ̣ ⲛⲏ; lin6=&gt; added alt</change>
          <change when="2026-02-07T13:39:32-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-02-06T08:28:39-05:00"
@@ -51,15 +59,15 @@
 <ab>
     <lb n="1"/>ⲁⲓ<choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲣⲁⲕⲁⲗⲉ</orig></choice> <hi rend="supraline">ⲙ</hi>ⲙⲟϥ
 
-    <lb n="2"/>ⲁϥ<unclear>ⲥϩⲁ</unclear><hi rend="diaeresis">ⲓ</hi> ⲛⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲁ<choice><reg xml:lang="grc">Πέρσης</reg><orig>ⲡⲉⲣ<unclear>ⲥ</unclear>ⲟⲥ</orig></choice>
+    <lb n="2"/>ⲁϥ<unclear>ⲥϩⲁ</unclear><hi rend="diaeresis">ⲓ</hi> ⲛⲁ<hi rend="diaeresis">ⲓ</hi> <choice><reg>ⲛⲁ ⲡ<choice><reg xml:lang="grc">Πέρσης</reg><orig>ⲡⲉⲣ<unclear>ⲥ</unclear>ⲟⲥ</orig></choice></reg><orig><hi rend="supraline">ⲛ</hi>ⲁⲡⲉⲣⲥⲟⲥ</orig></choice>
 
-    <lb n="3"/>ⲉⲧ<unclear>ϩⲛ</unclear>ⲛⲏ ⲉⲧⲣⲉϥⲕⲁⲁⲧ
+    <lb n="3"/>ⲉⲧ<unclear>ϩⲛ</unclear> ⲛⲏ ⲉⲧⲣⲉϥⲕⲁⲁⲧ
 
     <lb n="4"/><hi rend="supraline">ⲛ</hi>ⲧⲁⲃⲱⲕ ⲉⲣⲏⲥ <hi rend="supraline">ⲛ</hi>ⲧⲁⲉ<hi rend="supraline">ⲙ</hi> ⲡϣ
 
     <lb n="5" break="no"/>ⲱ<hi rend="supraline">ϥⲧ</hi> <choice><reg>ⲥⲟⲩⲟ</reg><orig>ⲥⲱⲟ</orig></choice> ⲉϣⲱⲡⲉ ⲡⲛⲟⲩⲧⲉ
 
-    <lb n="6"/>ⲙ<hi rend="supraline">ⲛ</hi> ⲛⲉⲕϣⲗⲏⲗ ⲛⲁ<unclear>ⲥ</unclear>ⲟⲟ<unclear>ϣ</unclear>ⲧ
+    <lb n="6"/>ⲙ<hi rend="supraline">ⲛ</hi> ⲛⲉⲕϣⲗⲏⲗ ⲛⲁ<app type="alternative"><lem>ⲥⲟⲟⲩⲧ<supplied reason="lost">ⲛ</supplied></lem><rdg><unclear>ⲥ</unclear>ⲟⲟ<unclear>ϣ</unclear>ⲧ</rdg></app>
 </ab>
       </div>
       </body>
