@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:40:20-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:12:34-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-29T10:32:41-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - added space</change>
+         <change when="2026-06-29T10:32:34-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin10=&gt; added space in ⲉⲧⲃⲉ &lt;:ⲡϩⲱⲃ|reg|ⲫⲱⲃ:&gt;</change>
          <change when="2025-08-08T04:53:54-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2025-08-07T09:52:58-04:00"
@@ -68,7 +76,7 @@
 
     <lb n="9"/><hi rend="supraline">ⲛ</hi>ⲧⲁⲧ<hi rend="supraline">ⲛ</hi>ⲛⲟⲟⲩ <hi rend="supraline">ⲛ</hi>ϣⲉ ⲛⲁⲕ
 
-    <lb n="10"/>ⲉⲧⲃⲉ<choice><reg>ⲡϩⲱⲃ</reg><orig>ⲫⲱⲃ</orig></choice> <choice><reg xml:lang="grc">δέ</reg><orig>ⲇⲉ</orig></choice> ⲛⲧ<choice><reg xml:lang="grc">ἐπιστολή</reg><orig>ⲉⲡⲓⲥ
+    <lb n="10"/>ⲉⲧⲃⲉ <choice><reg>ⲡϩⲱⲃ</reg><orig>ⲫⲱⲃ</orig></choice> <choice><reg xml:lang="grc">δέ</reg><orig>ⲇⲉ</orig></choice> ⲛⲧ<choice><reg xml:lang="grc">ἐπιστολή</reg><orig>ⲉⲡⲓⲥ
 
     <lb n="11" break="no"/>ⲧⲟⲗⲏ</orig></choice> ⲉⲓⲥ ϩⲏⲧⲉ ⲁⲓϯ ⲡ<choice><reg xml:lang="grc">ἴσον</reg><orig><expan>ϩⲓⲥⲟ<ex>ⲛ</ex></expan></orig></choice>
 
