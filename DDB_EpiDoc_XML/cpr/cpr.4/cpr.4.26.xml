@@ -73,11 +73,12 @@ Z. 64 &lt;:μαρτυρεῖν=grc|reg|ⲙⲁⲣⲧ:&gt;&#xD;
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <div n="A" subtype="part" type="textpart"><ab>
-<lb n="1"/><g type="stauros"/> <foreign xml:lang="grc"> Ἐν ὀνόματι τῆς ἁγίας κ<unclear>αὶ</unclear> <unclear>ζῳοποιοῦ</unclear> <unclear>ὁμοουσίου</unclear>
-<lb n="2"/>τριάδος πατρὸς κ<supplied reason="lost">αὶ</supplied> υἱοῦ καὶ <unclear>ἁγίου</unclear> <supplied reason="lost"><expan><hi rend="supraline">πν</hi><ex>εύμ</ex><hi rend="supraline">α</hi>τος</expan></supplied></foreign>
+    <lb n="1"/><g type="stauros"/> <foreign xml:lang="grc"> Ἐν ὀνόματι τῆς ἁγίας κ<unclear>αὶ</unclear> <unclear>ζῳοποιοῦ</unclear> <unclear>ὁμοουσίου</unclear>
+
+    <lb n="2"/>τριάδος πατρὸς κ<supplied reason="lost">αὶ</supplied> υἱοῦ καὶ <unclear>ἁγίου</unclear> <supplied reason="lost"><expan><hi rend="supraline">πν</hi><ex>εύμ</ex><hi rend="supraline">α</hi>τος</expan></supplied></foreign>
 </ab></div>
 <div n="B" subtype="part" type="textpart"><ab>
-<lb n="3"/>ⲉⲧⲉⲓⲛⲁⲟⲩⲱⲛϩ ⲛ<supplied reason="lost">ⲛⲉϥ</supplied><choice><reg xml:lang="grc">θέσις</reg><orig><supplied reason="lost">ⲑⲉⲥⲓ</supplied>ⲥ</orig></choice> ⲛ<choice><reg xml:lang="grc">ἀρχαῖον</reg><orig>ⲁⲣⲭⲁⲓⲟⲛ</orig></choice> ⲉⲃⲟⲗ 
+    <lb n="3"/>ⲉⲧⲉⲓⲛⲁⲟⲩⲱⲛϩ ⲛ<supplied reason="lost">ⲛⲉϥ</supplied><choice><reg xml:lang="grc">θέσις</reg><orig><supplied reason="lost">ⲑⲉⲥⲓ</supplied>ⲥ</orig></choice> ⲛ<choice><reg xml:lang="grc">ἀρχαῖον</reg><orig>ⲁⲣⲭⲁⲓⲟⲛ</orig></choice> ⲉⲃⲟⲗ 
 <lb n="4"/>ⲛⲁⲕ ⲧⲉⲛⲟⲩ <foreign xml:lang="grc">ἐκ τετραγώνου</foreign> ⲡⲉⲙⲛⲧⲉ ⲧ<choice><reg xml:lang="grc">καθολικός</reg><orig>ⲕⲁⲑⲟⲗⲓⲕⲏ</orig></choice> 
 <lb n="5"/><choice><reg xml:lang="grc">ἐκκλησία</reg><orig>ⲉⲕⲕⲗⲏⲥⲓⲁ</orig></choice> ⲡⲉⲓⲉⲃⲧⲉ ⲥⲧⲉⲫⲁⲛⲟⲥ ⲡϣⲏⲣⲉ ⲙⲡⲁ
 <lb n="6" break="no"/>ⲡⲛⲟⲩⲧⲉ ⲡϩⲏⲧ ⲡⲏⲓ ⲛⲥⲧⲉⲫⲁⲛⲟⲥ <expan>ⲡⲁⲡ<ex>ⲛⲟⲩ</ex>ⲑ<ex>ⲓⲟⲥ</ex></expan> ⲡⲣⲏⲥ ⲡϩⲓⲣ <choice><reg xml:lang="grc">δημόσιον</reg><orig><expan>ⲇⲏⲙⲟ<ex>ⲥⲓⲟⲛ</ex></expan></orig></choice> 
@@ -134,18 +135,30 @@ Z. 64 &lt;:μαρτυρεῖν=grc|reg|ⲙⲁⲣⲧ:&gt;&#xD;
 <lb n="57"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> ⲧ<choice><reg xml:lang="grc">ἀκολουθία</reg><orig>ⲁⲕⲟⲗⲗⲟⲑⲓⲁ</orig></choice> ⲛ<choice><reg xml:lang="grc">νόμος</reg><orig>ⲛⲟⲙⲟⲥ</orig></choice> <g type="stauros"/>
 <lb n="58"/><handShift new="m2"/><g type="stauros"/> ⲁⲛⲟⲕ ⲑⲉⲩⲧⲟ<unclear>ⲣⲁⲕⲉ</unclear> <choice><reg>ⲡϣⲏⲣⲉ ⲉⲍⲉⲕⲓⲏⲗ</reg><orig>ⲡϣⲏⲣⲉⲍⲉⲕⲓⲏⲗ</orig></choice> ⲧⲓⲱ ⲙ<supplied reason="lost">ⲛ</supplied>
 <lb n="59" break="no"/>ⲧⲣⲉ <choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲱ</orig></choice> <choice><reg xml:lang="grc">αἴτησις</reg><orig>ⲧⲏⲟⲥ</orig></choice> ⲙⲁⲣⲓⲁ <unclear>ϯⲟ</unclear>
-<lb n="60"/><handShift new="m3"/><g type="stauros"/> ⲁⲛⲟⲕ ⲥⲟⲩⲁⲓ ⲡϣⲏⲣⲉ ⲙⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕ<ex>ⲁⲣⲓⲟⲥ</ex></expan></orig></choice> <expan>ⲫⲓⲗⲟⲑ<ex>ⲉⲟⲥ</ex></expan> ϯⲟ ⲙⲛⲧⲣⲉ 
-<lb n="61"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="62"/><handShift new="m4"/><g type="stauros"/> ⲁⲛⲟⲕ ⲇⲓⲙⲏⲧⲣⲓⲟ<add place="above">ⲩ</add> ⲡϣⲛ ⲡⲙⲁⲓ ⲧⲓⲟ ⲛⲙ<supplied reason="lost">ⲛⲧⲣⲉ</supplied>   
-<lb n="63"/><handShift new="m5"/><g type="rho-cross"/> ⲁⲛⲟⲕ ϭⲁⲙⲟⲩ<add place="above">ⲗ</add> ⲡϣⲏⲣⲉ ⲙⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕⲁⲣ<ex>ⲓⲟⲥ</ex></expan></orig></choice> <expan>ⲡⲉⲧⲣ<ex>ⲟ</ex>ⲩ</expan> ⲧⲉⲱ ⲙⲛⲧⲣⲉ <g type="stauros"/> 
-<lb n="64"/><handShift new="m6"/><g type="stauros"/> ⲁⲛⲟⲕ ⲥⲉⲩⲏⲣⲟⲥ ⲡϣⲏⲣⲉ ⲛⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕ<ex>ⲁⲣⲓⲟⲥ</ex></expan></orig></choice> ⲡⲉⲧⲣ<add place="above">ⲉ</add> <choice><reg xml:lang="grc">μαρτυρεῖν</reg><orig>ⲙⲁⲣⲧ</orig></choice> <g type="stauros"/> 
-<lb n="65"/><handShift new="m7"/><g type="stauros"/> ⲁⲛⲟⲕ ⲙⲁⲕⲁⲣⲉ <gap reason="illegible" quantity="2" unit="character"/>ⲉ<unclear>ⲩ</unclear> ⲧⲓⲟ <unclear>ⲛⲙ</unclear><supplied reason="lost">ⲛⲧⲣⲉ</supplied>   
-<lb n="66"/><handShift new="m8"/><g type="stauros"/> ⲁⲛⲟⲕ ⲧⲁⲛⲟⲥ ⲕⲟⲥⲙⲁ 
-<lb n="67"/>ϯⲱ ⲙⲉⲛⲧⲣⲉ <g type="stauros"/>
-<lb n="68"/><handShift new="m9"/><g type="stauros"/> ⲁⲛⲟⲕ ⲭⲁⲏⲗ ⲡϣⲏⲣⲉ <choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕ<ex>ⲁⲣⲓⲟⲥ</ex></expan></orig></choice> ⲁⲃⲣⲓⲁⲙ 
-<lb n="69"/>ⲧⲓⲟ ⲛⲙⲉⲧⲣⲉ ⲁⲛ<supplied reason="lost">ⲟⲕ</supplied> ⲕⲟⲙⲟⲥ ⲓⲱϩⲁⲛⲛⲏ<supplied reason="lost">ⲥ</supplied>
-<lb n="70"/>ⲁⲓⲥϩⲁⲓ ϩⲁⲣⲟϥ ϫⲉ ⲙⲉϥ<choice><reg xml:lang="grc">νοεῖν</reg><orig>ⲛⲟⲓ</orig></choice> ⲁⲩⲱ ⲧⲉ
-<lb n="71" break="no"/><choice><reg xml:lang="grc">στοιχεῖν</reg><orig>ⲥⲧⲉⲭⲉ</orig></choice> <g type="stauros"/>
+
+    <lb n="60"/><handShift new="m3"/><g type="stauros"/> ⲁⲛⲟⲕ ⲥⲟⲩⲁⲓ ⲡϣⲏⲣⲉ ⲙⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕ<ex>ⲁⲣⲓⲟⲥ</ex></expan></orig></choice> <expan>ⲫⲓⲗⲟⲑ<ex>ⲉⲟⲥ</ex></expan> ϯⲟ ⲙⲛⲧⲣⲉ 
+
+    <lb n="61"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+
+    <lb n="62"/><handShift new="m4"/><g type="stauros"/> ⲁⲛⲟⲕ ⲇⲓⲙⲏⲧⲣⲓⲟ<add place="above">ⲩ</add> ⲡϣⲛ ⲡⲙⲁⲓ ⲧⲓⲟ ⲛⲙ<supplied reason="lost">ⲛⲧⲣⲉ</supplied>   
+
+    <lb n="63"/><handShift new="m5"/><g type="rho-cross"/> ⲁⲛⲟⲕ ϭⲁⲙⲟⲩ<add place="above">ⲗ</add> ⲡϣⲏⲣⲉ ⲙⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕⲁⲣ<ex>ⲓⲟⲥ</ex></expan></orig></choice> <expan>ⲡⲉⲧⲣ<ex>ⲟ</ex>ⲩ</expan> ⲧⲉⲱ ⲙⲛⲧⲣⲉ <g type="stauros"/> 
+
+    <lb n="64"/><handShift new="m6"/><g type="stauros"/> ⲁⲛⲟⲕ ⲥⲉⲩⲏⲣⲟⲥ ⲡϣⲏⲣⲉ ⲛⲡ<choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕ<ex>ⲁⲣⲓⲟⲥ</ex></expan></orig></choice> ⲡⲉⲧⲣ<add place="above">ⲉ</add> <choice><reg xml:lang="grc">μαρτυρεῖν</reg><orig>ⲙⲁⲣⲧ</orig></choice> <g type="stauros"/> 
+
+    <lb n="65"/><handShift new="m7"/><g type="stauros"/> ⲁⲛⲟⲕ ⲙⲁⲕⲁⲣⲉ <gap reason="illegible" quantity="2" unit="character"/>ⲉ<unclear>ⲩ</unclear> ⲧⲓⲟ <unclear>ⲛⲙ</unclear><supplied reason="lost">ⲛⲧⲣⲉ</supplied>   
+
+    <lb n="66"/><handShift new="m8"/><g type="stauros"/> ⲁⲛⲟⲕ ⲧⲁⲛⲟⲥ ⲕⲟⲥⲙⲁ 
+
+    <lb n="67"/>ϯⲱ ⲙⲉⲛⲧⲣⲉ <g type="stauros"/>
+
+    <lb n="68"/><handShift new="m9"/><g type="stauros"/> ⲁⲛⲟⲕ ⲭⲁⲏⲗ ⲡϣⲏⲣⲉ <choice><reg xml:lang="grc">μακάριος</reg><orig><expan>ⲙⲁⲕ<ex>ⲁⲣⲓⲟⲥ</ex></expan></orig></choice> ⲁⲃⲣⲓⲁⲙ 
+
+    <lb n="69"/>ⲧⲓⲟ ⲛⲙⲉⲧⲣⲉ ⲁⲛ<supplied reason="lost">ⲟⲕ</supplied> ⲕⲟⲙⲟⲥ ⲓⲱϩⲁⲛⲛⲏ<supplied reason="lost">ⲥ</supplied>
+
+    <lb n="70"/>ⲁⲓⲥϩⲁⲓ ϩⲁⲣⲟϥ ϫⲉ ⲙⲉϥ<choice><reg xml:lang="grc">νοεῖν</reg><orig>ⲛⲟⲓ</orig></choice> ⲁⲩⲱ ⲧⲉ
+
+    <lb n="71" break="no"/><choice><reg xml:lang="grc">στοιχεῖν</reg><orig>ⲥⲧⲉⲭⲉ</orig></choice> <g type="stauros"/>
 </ab></div></div>
       </body>
    </text>
