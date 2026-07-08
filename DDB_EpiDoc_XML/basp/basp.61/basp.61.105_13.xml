@@ -4,12 +4,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>sosol.2026.0724</title>
+            <title>basp.61.105_13</title>
          </titleStmt>
          <publicationStmt>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
-            <idno type="filename">sosol.2026.0724</idno>
-            <idno type="ddb-hybrid">sosol;2026;0724</idno>
+            <idno type="filename">basp.61.105_13</idno>
+            <idno type="ddb-hybrid">basp;61;105_13</idno>
             <idno type="HGV">1000270</idno>
             <idno type="TM">1000270</idno>
             <availability>
@@ -19,7 +19,9 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p/>
+            <p>
+               <bibl>BASP 61 105_13</bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
