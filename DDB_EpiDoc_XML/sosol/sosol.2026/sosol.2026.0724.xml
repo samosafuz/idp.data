@@ -38,13 +38,19 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><expan>διαγέγρα<ex>φεν</ex></expan> ἐπὶ <expan>τὴ<ex>ν</ex></expan> <expan>Ψενμ<ex>ώνθου</ex></expan> <expan>κολ<ex>λυβιστικὴν</ex></expan> <expan>τράπ<ex>εζαν</ex></expan> <expan>Πετεμενῶ<ex>φις</ex></expan> <expan>Παμώ<ex>νθου</ex></expan>
-<lb n="2"/><expan>ὑπ<ex>ὲρ</ex></expan> στεφάνου Καίσαρος <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="2">δύο</num> <choice><reg><expan>τριώβολ<ex>ον</ex></expan></reg><orig><expan>τριόβολ<ex>ον</ex></expan></orig></choice>
-<lb n="3"/><expan><ex>ἔτους</ex></expan> <num value="2">β</num> Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
-<lb n="4"/>Γερμανικοῦ Αὐτοκράτορος Ἐπεὶφ <num value="7"><hi rend="supraline">ζ</hi></num> <abbr>Ἀνδ</abbr>
-<lb n="5"/><foreign xml:lang="egy-Egyd">sẖ n Pa-ỉpy sꜢ Pa-mnṱ
-<lb n="6"/><unclear>h</unclear>ḏ-<unclear>k</unclear>t 1.t ḏbꜢt ¼
-<lb n="7"/><unclear>h</unclear>ḏ <unclear>k</unclear>lm</foreign>
+    <lb n="1"/><expan>διαγέγρα<ex>φεν</ex></expan> ἐπὶ <expan>τὴ<ex>ν</ex></expan> <expan>Ψενμ<ex>ώνθου</ex></expan> <expan>κολ<ex>λυβιστικὴν</ex></expan> <expan>τράπ<ex>εζαν</ex></expan> <expan>Πετεμενῶ<ex>φις</ex></expan> <expan>Παμώ<ex>νθου</ex></expan>
+
+    <lb n="2"/><expan>ὑπ<ex>ὲρ</ex></expan> στεφάνου Καίσαρος <expan>ἀργ<ex>υρίου</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="2">δύο</num> <choice><reg><expan>τριώβολ<ex>ον</ex></expan></reg><orig><expan>τριόβολ<ex>ον</ex></expan></orig></choice>
+
+    <lb n="3"/><expan><ex>ἔτους</ex></expan> <num value="2">β</num> Τιβερίου Κλαυδίου Καίσαρος Σεβαστοῦ
+
+    <lb n="4"/>Γερμανικοῦ Αὐτοκράτορος Ἐπεὶφ <num value="7"><hi rend="supraline">ζ</hi></num> <abbr>Ἀνδ</abbr>
+
+    <lb n="5"/><foreign xml:lang="egy-Egyd">sẖ n Pa-ỉpy sꜢ Pa-mnṱ
+
+    <lb n="6"/><unclear>h</unclear>ḏ-<unclear>k</unclear>t 1.t ḏbꜢt ¼
+
+    <lb n="7"/><unclear>h</unclear>ḏ <unclear>k</unclear>lm</foreign>
 </ab>
       </div>
       </body>
