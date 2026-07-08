@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>o.sarga.109</title>
@@ -32,18 +32,26 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-          <change when="2023-10-11T15:29:05-04:00"
+         <change when="2026-07-08T08:30:51-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Finalized - ready</change>
+         <change when="2026-07-07T09:27:15-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Vote - Accept-Straight-to-Finalization - Good to go</change>
+         <change when="2026-07-06T11:52:41-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - space, abbreviation, reg</change>
+         <change when="2026-07-06T11:52:31-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin6=&gt; ⲉⲧⲉ ⲟⲩⲉⲛ7. ⲧⲏⲧ̄ⲛ̄ⲥ̄ (added space); lin9=&gt; ⲉⲧ(ⲧⲁ(ⲓⲏⲩ)) (solved abbreviation); lin10=&gt; ⲡⲓ&lt;:ⲕⲉ|reg|ⲕⲁⲓ:&gt;ϩⲱⲃ (added reg)</change>
+         <change when="2023-10-11T15:29:05-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
-          <change when="2023-10-11T15:04:10-04:00"
+         <change when="2023-10-11T15:04:10-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - See Boudhors' comments.</change>
-          <change when="2023-10-11T12:20:32-04:00"
+         <change when="2023-10-11T12:20:32-04:00"
                  who="http://papyri.info/editor/users/anne.boudhors">Vote - AcceptText - lin1 ⲛ̄ⲧⲉ ⲧⲛ̄ =&gt; ⲛ̄ⲧⲉⲧⲛ̄; lin6 ⲧⲉⲧⲛⲛⲟⲥ =&gt; &lt;:ⲧⲉⲧⲛⲛⲟϭ|reg|ⲧⲉⲧⲛⲛⲟⲥ:&gt;; lin7 ⲉ ⲧⲁⲙⲉⲧ =&gt; ⲉⲧⲁⲙⲉⲧ; lin8 correct τόλμην to τολμᾶν</change>
-          <change when="2023-09-25T17:46:58-04:00"
+         <change when="2023-09-25T17:46:58-04:00"
                  who="http://papyri.info/editor/users/thomaslaver">Submit - New text (fixing diaereses)</change>
-          <change when="2023-09-25T13:36:01-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+         <change when="2023-09-25T13:36:01-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
@@ -58,15 +66,15 @@
 
     <lb n="5" break="no"/>ⲕⲁⲓ ⲧⲉⲧⲛϫⲱⲕ ⲡⲉ<hi rend="supraline">ⲧⲛⲛⲁ</hi> ⲉⲃⲟⲗ
 
-    <lb n="6"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> <choice><reg>ⲧⲉⲧⲛⲛⲟϭ</reg><orig>ⲧⲉⲧⲛⲛⲟⲥ</orig></choice> ⲛ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲕⲁⲡⲉ</orig></choice> ⲉⲧⲉⲟⲩⲉⲛ
+    <lb n="6"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> <choice><reg>ⲧⲉⲧⲛⲛⲟϭ</reg><orig>ⲧⲉⲧⲛⲛⲟⲥ</orig></choice> ⲛ<choice><reg xml:lang="grc">ἀγάπη</reg><orig>ⲁⲕⲁⲡⲉ</orig></choice> ⲉⲧⲉ ⲟⲩⲉⲛ
 
     <lb n="7"/>ⲧⲏ<hi rend="supraline">ⲧⲛⲥ</hi> ⲉϩⲟⲩ<hi rend="supraline">ⲛ</hi> ⲉⲧⲁⲙⲉⲧ<choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan>ⲉⲗⲁⲭⲓ<ex>ⲥⲧⲟⲥ</ex></expan></orig></choice>
 
     <lb n="8"/>ϯ<choice><reg xml:lang="grc">νοεῖν</reg><orig>ⲛⲟ<hi rend="diaeresis">ⲓ</hi></orig></choice> <choice><reg xml:lang="grc">γάρ</reg><orig>ⲅⲁⲣ</orig></choice> ϫⲉ ⲛⲧⲁ<hi rend="diaeresis">ⲓ</hi><choice><reg xml:lang="grc">τολμᾶν</reg><orig>ⲧⲟⲗⲙⲁ</orig></choice> ⲁ<hi rend="diaeresis">ⲓ</hi>ⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲧⲉⲧⲛ
 
-    <lb n="9" break="no"/><choice><reg xml:lang="grc">ὁσιώτατος</reg><orig><expan>ϩⲟⲥⲓⲱⲧ<ex>ⲁⲧⲟⲥ</ex></expan></orig></choice> ⲛⲉⲓⲱⲧ ⲉⲧⲧⲁ <choice><reg xml:lang="grc">παρά</reg><orig>ⲡⲁⲣⲁ</orig></choice> ⲡⲁⲉⲙⲡϣⲁ
+    <lb n="9" break="no"/><choice><reg xml:lang="grc">ὁσιώτατος</reg><orig><expan>ϩⲟⲥⲓⲱⲧ<ex>ⲁⲧⲟⲥ</ex></expan></orig></choice> ⲛⲉⲓⲱⲧ ⲉⲧ<expan>ⲧⲁ<ex>ⲓⲏⲩ</ex></expan> <choice><reg xml:lang="grc">παρά</reg><orig>ⲡⲁⲣⲁ</orig></choice> ⲡⲁⲉⲙⲡϣⲁ
 
-    <lb n="10"/><choice><reg xml:lang="grc">ἀλλά</reg><orig>ⲁⲗⲗⲁ</orig></choice> ϯ <choice><reg xml:lang="grc">συγγνώμη</reg><orig>ⲥⲛⲅⲛⲱⲙⲏ</orig></choice> ⲛⲁ<hi rend="diaeresis">ⲓ</hi> ϩⲛ ⲡⲓⲕⲁⲓϩⲱⲃ ⲡⲁⲓ
+    <lb n="10"/><choice><reg xml:lang="grc">ἀλλά</reg><orig>ⲁⲗⲗⲁ</orig></choice> ϯ <choice><reg xml:lang="grc">συγγνώμη</reg><orig>ⲥⲛⲅⲛⲱⲙⲏ</orig></choice> ⲛⲁ<hi rend="diaeresis">ⲓ</hi> ϩⲛ ⲡⲓ<choice><reg>ⲕⲉ</reg><orig>ⲕⲁⲓ</orig></choice>ϩⲱⲃ ⲡⲁⲓ
 
     <lb n="11"/>ⲁⲩⲱ ⲧⲉⲧⲛ<choice><reg xml:lang="grc">διδάσκειν</reg><orig>ⲧⲓⲧⲁⲥⲕⲉ</orig></choice> ⲛⲁ<hi rend="diaeresis">ⲓ</hi> ⲉⲡⲉⲧⲉϣϣⲉ
 
@@ -76,5 +84,5 @@
 </ab>
       </div>
       </body>
-  </text>
+   </text>
 </TEI>
