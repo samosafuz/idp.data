@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:47:59-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:33:05-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine</change>
+         <change when="2026-06-29T11:07:40-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - corrected typo</change>
+         <change when="2026-06-29T11:07:30-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin5=&gt; corrected typo ⲙ̄ⲛ̄ to ⲙ̄ⲡ̄</change>
          <change when="2026-04-17T10:25:19-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-04-17T09:24:19-04:00"
@@ -54,7 +62,7 @@
 
     <lb n="4"/>ⲉⲛⲱⲭ ⲉⲓⲥ ⲧⲉⲡⲁⲣ<hi rend="supraline">ϩⲥ</hi> <hi rend="supraline">ⲛ</hi>ⲧⲓⲥ
 
-    <lb n="5"/>ⲉⲣⲱϥ <hi rend="supraline">ⲙⲛ</hi><choice><reg xml:lang="grc">πίθος</reg><orig>ⲡⲓⲑⲟⲥ</orig></choice> <hi rend="supraline">ⲛ</hi><choice><reg xml:lang="grc">λαψάνη </reg><orig>ⲗⲁⲯⲁⲛ<unclear>ⲏ</unclear></orig></choice>
+    <lb n="5"/>ⲉⲣⲱϥ <hi rend="supraline">ⲙⲡ</hi><choice><reg xml:lang="grc">πίθος</reg><orig>ⲡⲓⲑⲟⲥ</orig></choice> <hi rend="supraline">ⲛ</hi><choice><reg xml:lang="grc">λαψάνη</reg><orig>ⲗⲁⲯⲁⲛ<unclear>ⲏ</unclear></orig></choice>
 
     <lb n="6"/>ⲁ<hi rend="diaeresis">ⲓ</hi>ϫⲟⲟⲩⲥ ⲛⲁⲕ <hi rend="supraline">ⲛ</hi>ⲧⲟⲟ<hi rend="supraline">ⲧϥ</hi>
 
