@@ -53,9 +53,9 @@
 
     <lb n="5" break="no"/>ⲧⲟⲗⲟⲥ</orig></choice> ⲁⲩⲱ ⲡⲣⲱⲙⲉ ⲛ<choice><reg>ϣⲟⲩⲟⲩⲁϣϥ</reg><orig>ϣⲟⲩⲁϣϥ</orig></choice> <app type="editorial"><lem><unclear>ⲛ</unclear><supplied reason="lost">ⲧϩⲉ ⲛ</supplied>
 
-    <lb n="6" break="no"/><supplied reason="lost">ⲇ</supplied>ⲁⲛⲓⲏⲗ</lem><rdg><unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/><lb n="6"/>ⲁⲛⲓⲏⲗ</rdg></app> ⲛⲧⲁϥⲧⲁⲁⲩ ⲉⲧⲟⲟⲧⲟⲩ <app type="editorial"><lem resp=" PN L. Vanderheyden (photograph)">ⲛ
+    <lb n="6" break="no"/><supplied reason="lost">ⲇ</supplied>ⲁⲛⲓⲏⲗ</lem><rdg><unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/><lb n="6"/>ⲁⲛⲓⲏⲗ</rdg></app> ⲛⲧⲁϥⲧⲁⲁⲩ ⲉⲧⲟⲟⲧⲟⲩ <app type="alternative"><lem>ⲛ
 
-    <lb n="7" break="no"/><supplied reason="lost">ⲛ</supplied></lem><rdg><app type="alternative"><lem>ⲛ<supplied reason="lost">ⲛ</supplied> 7.</lem><rdg>ⲛ<gap reason="lost" extent="unknown" unit="character"/> 7.</rdg></app></rdg></app><choice><reg xml:lang="grc">ἐκκλησία</reg><orig>ⲉⲕⲕⲗⲏⲥⲓⲁ</orig></choice> ⲉⲧⲣⲉⲩⲁⲣⲉϩ ⲉⲣⲟⲟⲩ
+   <lb n="7" break="no"/><supplied reason="lost">ⲛ</supplied></lem><rdg>ⲛ<gap reason="lost" extent="unknown" unit="character"/></rdg></app><choice><reg xml:lang="grc">ἐκκλησία</reg><orig>ⲉⲕⲕⲗⲏⲥⲓⲁ</orig></choice> ⲉⲧⲣⲉⲩⲁⲣⲉϩ ⲉⲣⲟⲟⲩ
 </ab>
       </div>
       </body>
