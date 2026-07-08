@@ -48,7 +48,7 @@
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <ab>
-    <lb n="1"/>ⲡⲁⲧⲏⲣⲙⲟⲩⲧⲉ ⲡⲉϥⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲙ</hi>ⲡⲁⲥⲟⲛ ⲡ<choice><reg xml:lang="grc" cert="low">διάκονος</reg><orig>ⲇ<gap reason="lost" extent="unknown" unit="character"/></orig></choice> <gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="1"/>ⲡⲁⲧⲏⲣⲙⲟⲩⲧⲉ ⲡⲉϥⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲙ</hi>ⲡⲁⲥⲟⲛ <app type="editorial"><lem resp="PN L. Vanderheyden (photograph)">ⲡ<unclear>ⲁ</unclear><gap reason="lost" extent="unknown" unit="character"/></lem><rdg>ⲡ<choice><reg xml:lang="grc" cert="low">διάκονος </reg><orig>ⲇ<gap reason="lost" extent="unknown" unit="character"/></orig></choice></rdg></app> <gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="2"/>ⲛϣⲓⲛⲉ ⲉⲣⲟⲕ ⲁⲩⲱ ⲙⲁⲣⲉⲡⲕⲛⲁ ⲧⲁϩⲟ<unclear>ⲛ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
 
