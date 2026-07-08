@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>cpr.4.26</title>
@@ -42,19 +42,19 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
-          <change when="2022-05-11T09:22:03-04:00"
+         <change when="2022-05-11T09:22:03-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Finalized - Ready.</change>
-          <change when="2022-05-11T09:20:19-04:00"
+         <change when="2022-05-11T09:20:19-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Vote - Accept-Straight-to-Finalization - Fine.</change>
-          <change when="2022-05-11T09:19:41-04:00"
+         <change when="2022-05-11T09:19:41-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Submit - lin1: ὀ̣μ̣ο̣ο̣υ̣σ̣ί̣ο̣υ̣ -&gt; ὁμ̣ο̣ο̣υ̣σ̣ί̣ο̣υ̣ (typo)</change>
-          <change when="2022-05-11T09:18:59-04:00"
+         <change when="2022-05-11T09:18:59-04:00"
                  who="https://papyri.info/editor/users/mgerhardt">Commit - lin1: ὀ̣μ̣ο̣ο̣υ̣σ̣ί̣ο̣υ̣ -&gt; ὁμ̣ο̣ο̣υ̣σ̣ί̣ο̣υ̣ (typo)</change>
-          <change when="2014-12-01T04:38:57.454-05:00"
+         <change when="2014-12-01T04:38:57.454-05:00"
                  who="https://papyri.info/editor/users/esthergarel">Finalized - Ready.</change>
-          <change when="2014-12-01T04:38:57.448-05:00"
+         <change when="2014-12-01T04:38:57.448-05:00"
                  who="https://papyri.info/editor/users/anne.boudhors">Vote - AcceptText - Lin4=&gt; I would keep ἐκ τετραγώνου as a Greek sequence ; καθολικός ; lin 7=&gt; write Αὐθέντες to mark it as a proper name, but keep the regularization ? lin11=&gt; &lt;#&lt;:δύο|reg|δύω:&gt;=2#&gt; ; lin43=&gt; ⲛⲛⲉⲡⲉⲧⲙⲙⲁⲁⲩ</change>
-          <change when="2014-12-01T04:38:57.44-05:00"
+         <change when="2014-12-01T04:38:57.44-05:00"
                  who="https://papyri.info/editor/users/Georg">Vote - AcceptText - Z. 4: &lt;:ἐκ=grc|reg|ⲉⲕ:&gt; &lt;:τετράγωνος=grc|reg|ⲧⲉⲧⲣⲁⲅⲱⲛⲟⲩ:&gt;&#xD;
 Z. 7 Authentes-Tor, kein Lehnwort, sondern Eigenname - nicht markieren?&#xD;
 Z. 14+25f. OK, griech. Ausdruck&#xD;
@@ -63,12 +63,12 @@ Z. 47 (ϩⲟⲗⲟⲕ(ⲟⲧⲧⲓⲛⲟⲥ))&#xD;
 Z. 64 &lt;:μαρτυρεῖν=grc|reg|ⲙⲁⲣⲧ:&gt;&#xD;
 70. ⲧⲉ&#xD;
 71.- &lt;:στοιχεῖν=grc|reg|ⲥⲧⲉⲭⲉ:&gt;</change>
-          <change when="2013-11-18T06:26:06.827-05:00"
+         <change when="2013-11-18T06:26:06.827-05:00"
                  who="https://papyri.info/editor/users/esthergarel">Texte copte entré.</change>
-          <change when="2013-11-18T03:51:00-05:00" who="http://papyri.info/editor">Automated creation from template</change>
+         <change when="2013-11-18T03:51:00-05:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
@@ -110,8 +110,8 @@ Z. 64 &lt;:μαρτυρεῖν=grc|reg|ⲙⲁⲣⲧ:&gt;&#xD;
 <lb n="33"/>ϩⲁ ⲧⲁⲙⲁⲁⲩ ⲛϥ<choice><reg xml:lang="grc">ἐνάγειν</reg><orig>ⲉⲛⲁⲅⲉ</orig></choice> ⲛⲁⲕ ϩⲛ <choice><reg xml:lang="grc">δικαστήριον</reg><orig>ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ</orig></choice> 
 <lb n="34"/><choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ ⲛ<choice><reg xml:lang="grc">δικαστήριον</reg><orig>ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ϩⲛ ⲧⲟϣ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ 
 <lb n="35"/>ⲛⲧⲟϣ ϩⲙ ⲡⲉ<choice><reg xml:lang="grc">πραιτώριον</reg><orig>ⲡⲣⲁⲓⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲡⲃⲟⲗ ⲛ<choice><reg xml:lang="grc">πραιτώριον</reg><orig>ⲡⲣⲁ<supplied reason="lost">ⲓ</supplied>
-<lb n="36" break="no"/>ⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲥⲙⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">προσέλευσις</reg><orig>ⲡⲣⲟⲥⲉⲗⲉⲩⲥⲓⲥ</orig></choice> <choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁ</orig></choice>
-<lb n="37" break="no"/>ⲣⲟⲕ ϩⲁϩⲧⲏⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">ἐξουσία</reg><orig>ⲉⲝⲟⲩⲥⲓⲁ</orig></choice> ⲛⲓⲙ ⲉⲩϫⲟⲥⲉ 
+<lb n="36" break="no"/>ⲧⲟⲣⲓⲟⲛ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲥⲙⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">προσέλευσις</reg><orig>ⲡⲣⲟⲥⲉⲗⲉⲩⲥⲓⲥ</orig></choice> <choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁ
+<lb n="37" break="no"/>ⲣⲟ</orig></choice>ⲕ ϩⲁϩⲧⲏⲛ ⲗⲁⲁⲩ ⲛ<choice><reg xml:lang="grc">ἐξουσία</reg><orig>ⲉⲝⲟⲩⲥⲓⲁ</orig></choice> ⲛⲓⲙ ⲉⲩϫⲟⲥⲉ 
 <lb n="38"/>ⲉⲩϩⲁ ⲉⲟⲟⲩ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁ<choice><reg xml:lang="grc">ἐγκαλεῖν</reg><orig>ⲉⲅⲕⲁⲗⲉⲓ</orig></choice> ⲛⲁⲕ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲁⲧⲙ
 <lb n="39" break="no"/><choice><reg xml:lang="grc">ἐγκαλεῖν</reg><orig>ⲉⲅⲕⲁⲗⲉⲓ</orig></choice> ⲉⲧⲃⲉ ⲧ<unclear>ⲉⲓ</unclear><choice><reg xml:lang="grc">πρᾶσις</reg><orig>ⲡⲣⲁⲥⲓⲥ</orig></choice> ⲧⲁⲓ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> <choice><reg xml:lang="grc">μέρος</reg><orig>ⲙⲉⲣⲟⲥ</orig></choice> ⲛⲧⲁⲥ
 <lb n="40"/>ⲉⲡⲧⲏⲣϥ ⲛⲧⲛⲕⲓⲙ ⲉⲣⲟⲕ ϩⲁϩⲧⲏⲛ ⲗⲁⲁⲩ 
@@ -149,5 +149,5 @@ Z. 64 &lt;:μαρτυρεῖν=grc|reg|ⲙⲁⲣⲧ:&gt;&#xD;
 </ab></div>
       </div>
       </body>
-  </text>
+   </text>
 </TEI>
