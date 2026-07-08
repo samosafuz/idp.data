@@ -38,13 +38,19 @@
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/>ⲉ<unclear>ⲓⲛ</unclear>.<gap reason="lost" quantity="9" unit="character" precision="low"/>
-<lb n="2"/>Ϯ ⲟⲩ<choice><reg xml:lang="grc">λιβυκός</reg><orig>ⲗⲓⲃⲓⲕⲟⲥ</orig></choice> ⲛⲁ<unclear>ⲩ</unclear>
-<lb n="3"/>ⲧⲁⲁⲥ <hi rend="supraline">ⲙ</hi>ⲡⲁϣⲏⲣⲉ
-<lb n="4"/>ⲃⲓⲕⲧⲱⲣ ⲡ<choice><reg xml:lang="grc">διάκονος</reg><orig><expan>ⲇⲓⲁⲕ<ex>ⲟⲛⲟⲥ</ex></expan></orig></choice>
-<lb n="5"/>ϩⲓⲧ<hi rend="supraline">ⲛ</hi> ⲁⲃⲣⲁϩⲁⲙ
-<lb n="6"/><supplied reason="lost">ⲡ</supplied><unclear>ⲉⲓ</unclear><choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><supplied reason="lost">ⲉ</supplied><unclear>ⲗ</unclear>ⲁ<supplied reason="lost">ⲭⲓⲥⲧⲟⲥ</supplied></orig></choice>
+    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
+    <lb n="1"/>ⲉ<unclear>ⲓⲛ</unclear>.<gap reason="lost" quantity="9" unit="character" precision="low"/>
+
+    <lb n="2"/>Ϯ ⲟⲩ<choice><reg xml:lang="grc">λιβυκός</reg><orig>ⲗⲓⲃⲓⲕⲟⲥ</orig></choice> ⲛⲁ<unclear>ⲩ</unclear>
+
+    <lb n="3"/>ⲧⲁⲁⲥ <hi rend="supraline">ⲙ</hi>ⲡⲁϣⲏⲣⲉ
+
+    <lb n="4"/>ⲃⲓⲕⲧⲱⲣ ⲡ<choice><reg xml:lang="grc">διάκονος</reg><orig><expan>ⲇⲓⲁⲕ<ex>ⲟⲛⲟⲥ</ex></expan></orig></choice>
+
+    <lb n="5"/>ϩⲓⲧ<hi rend="supraline">ⲛ</hi> ⲁⲃⲣⲁϩⲁⲙ
+
+    <lb n="6"/><supplied reason="lost">ⲡ</supplied><unclear>ⲉⲓ</unclear><choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><supplied reason="lost">ⲉ</supplied><unclear>ⲗ</unclear>ⲁ<supplied reason="lost">ⲭⲓⲥⲧⲟⲥ</supplied></orig></choice>
 </ab>
       </div>
       </body>
