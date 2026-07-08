@@ -37,10 +37,13 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><expan>διαγέγρα<ex>φε</ex></expan> <expan>Πετεχῶ<ex>νσις</ex></expan> <expan>Πετεμε<ex>νώφιος</ex></expan> <expan>Παμώ<ex>νθου</ex></expan>
-<lb n="2"/><expan>μη<ex>τρὸς</ex></expan> <expan>Σενφθουμ<ex>ίνιος</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>χω<ex>ματικοῦ</ex></expan> <expan>Χά<ex>ρακος</ex></expan> <expan><ex>ἔτους</ex></expan> <num value="13">ιγ</num> <expan><ex>δραχμὰς</ex></expan> <num value="6">ϛ</num> <expan>τετρ<ex>ώβολον</ex></expan>
-<lb n="3"/><expan>βαλ<ex>ανευτικοῦ</ex></expan> <expan><ex>τετρώβολον</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="7">ζ</num> <expan><ex>διώβολον</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> καὶ <expan>το<ex>ύτων</ex></expan> <expan>προ<ex>σδιαγραφόμενα</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="13">ιγ</num> Νέρωνος
-<lb n="4"/>τοῦ κυρίου Ἐπείφ <num value="31"><hi rend="supraline">λα</hi></num>. <expan>Ἀπίω<ex>ν</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan>.
+    <lb n="1"/><expan>διαγέγρα<ex>φε</ex></expan> <expan>Πετεχῶ<ex>νσις</ex></expan> <expan>Πετεμε<ex>νώφιος</ex></expan> <expan>Παμώ<ex>νθου</ex></expan>
+
+    <lb n="2"/><expan>μη<ex>τρὸς</ex></expan> <expan>Σενφθουμ<ex>ίνιος</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>χω<ex>ματικοῦ</ex></expan> <expan>Χά<ex>ρακος</ex></expan> <expan><ex>ἔτους</ex></expan> <num value="13">ιγ</num> <expan><ex>δραχμὰς</ex></expan> <num value="6">ϛ</num> <expan>τετρ<ex>ώβολον</ex></expan>
+
+    <lb n="3"/><expan>βαλ<ex>ανευτικοῦ</ex></expan> <expan><ex>τετρώβολον</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="7">ζ</num> <expan><ex>διώβολον</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> καὶ <expan>το<ex>ύτων</ex></expan> <expan>προ<ex>σδιαγραφόμενα</ex></expan>. <expan><ex>ἔτους</ex></expan> <num value="13">ιγ</num> Νέρωνος
+
+    <lb n="4"/>τοῦ κυρίου Ἐπείφ <num value="31"><hi rend="supraline">λα</hi></num>. <expan>Ἀπίω<ex>ν</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan>.
 </ab>
       </div>
       </body>
