@@ -4,12 +4,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>sosol.2026.0715</title>
+            <title>o.crum.85</title>
          </titleStmt>
          <publicationStmt>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
-            <idno type="filename">sosol.2026.0715</idno>
-            <idno type="ddb-hybrid">sosol;2026;0715</idno>
+            <idno type="filename">o.crum.85</idno>
+            <idno type="ddb-hybrid">o.crum;;85</idno>
             <idno type="HGV">82976</idno>
             <idno type="TM">82976</idno>
             <availability>
@@ -19,7 +19,9 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p/>
+            <p>
+               <bibl>O.Crum 85</bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
