@@ -31,13 +31,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
-          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
-          <change when="2011-10-31" who="https://papyri.info/editor/users/gabrielbodard">changed type=inWord to break=no</change>
-          <change when="2010-05-05" who="https://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
-          <change when="2009-11-12" who="https://papyri.info/editor/users/gabrielbodard">Added language la-Grek</change>
-          <change when="2009-06-27" who="https://papyri.info/editor/users/gabrielbodard">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema)</change>
-          <change when="2008-12-22" who="http://papyri.info/about">Automated split from transcoder files</change>
+         <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
+         <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
+         <change when="2011-10-31" who="https://papyri.info/editor/users/gabrielbodard">changed type=inWord to break=no</change>
+         <change when="2010-05-05" who="https://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
+         <change when="2009-11-12" who="https://papyri.info/editor/users/gabrielbodard">Added language la-Grek</change>
+         <change when="2009-06-27" who="https://papyri.info/editor/users/gabrielbodard">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema)</change>
+         <change when="2008-12-22" who="http://papyri.info/about">Automated split from transcoder files</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -52,7 +52,7 @@
 
     <lb n="2" break="no"/>σινόηι <expan>τρά<ex>πεζαν</ex></expan> θέμα εἰς <expan>τι<ex>μὴν</ex></expan> <expan>ἐγγαί<ex>ων</ex></expan> τῶν ἐπι
 
-    <lb n="3" break="no"/><expan>καταβεβλη<ex>μένων</ex></expan> ἐν τῶι <num value="34">λδ</num> <expan><ex>ἔτει</ex></expan> πρὸς τὰ <expan>πρ<unclear>οτ</unclear>α<ex>χθέντα</ex></expan> 
+    <lb n="3" break="no"/><expan>καταβεβλη<ex>μένων</ex></expan> ἐν τῶι <num value="34">λδ</num> <expan><ex>ἔτει</ex></expan> πρὸς τὰ <app type="editorial"><lem resp="K. Vandorpe, D. J. Thompson, ZPE 190 (2014) 195f."><expan>προστα<ex>χθέντα</ex></expan></lem><rdg><expan>πρ<unclear>οτ</unclear>α<ex>χθέντα</ex></expan></rdg></app> 
 
     <lb n="4"/>τοῦ <num value="29">κθ</num> <expan><ex>ἔτους</ex></expan> Παχόις Παραῦτος <expan>χα<ex>λκοῦ</ex></expan> 
 
