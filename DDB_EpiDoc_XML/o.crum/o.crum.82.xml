@@ -45,7 +45,7 @@
 
     <lb n="2" break="no"/>ⲧⲣⲉ ϫⲉ ⲁⲡⲉⲥⲛⲧⲉ ϫⲟⲟϥ
 
-    <lb n="3"/>ϫⲁⲁⲛϫⲛⲟⲩϥ ⲉⲧⲃⲉ ⲧ<choice><reg xml:lang="grc">ἡμέρα</reg><orig>ϩⲉ<lb n="4" break="no"/>ⲙⲏⲣⲁ</orig></choice> ⲁϥϫⲟⲟⲥ ϫⲉ ϯⲟ ⲛ
+    <lb n="3"/><choice><reg>ϫⲉ</reg><orig>ϫⲁ</orig></choice> ⲁⲛϫⲛⲟⲩϥ ⲉⲧⲃⲉ ⲧ<choice><reg xml:lang="grc">ἡμέρα</reg><orig>ϩⲉ<lb n="4" break="no"/>ⲙⲏⲣⲁ</orig></choice> ⲁϥϫⲟⲟⲥ ϫⲉ ϯⲟ ⲛ
 
     <lb n="5" break="no"/><choice><reg xml:lang="grc">διάκονος</reg><orig><expan>ⲇⲓⲁⲕⲟ<ex>ⲛⲟⲥ</ex></expan></orig></choice> ⲁⲛ ⲁⲩⲱ ⲙⲁⲓⲉⲓ
 
@@ -55,11 +55,9 @@
 
     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲥⲱ</supplied>ⲧⲙ ⲉⲛⲉⲓϣⲁϫⲉ
 
-    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲉⲓⲥ ϩ</supplied>ⲏⲏⲧⲉ ⲟⲩⲛ ⲁϥ
+    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲉⲓⲥ ϩ</supplied>ⲏⲏⲧⲉ <choice><reg xml:lang="grc">οὖν</reg><orig>ⲟⲩⲛ</orig></choice> ⲁϥ
 
-    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>ⲛ<choice><reg xml:lang="grc">ἀπόκληρος</reg><orig><expan>ⲁⲡⲟⲕⲗⲏ<ex>ⲣⲟⲥ</ex></expan></orig></choice>
-
-    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>ⲁⲩ
+    <lb n="10"/><app type="editorial"><lem resp="PN F. Krueger (DDGLC)"><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">ⲟ</supplied> ⲛ<choice><reg xml:lang="grc">ἀπόκληρος</reg><orig>ⲁⲡⲟⲕⲗⲏ<lb n="11" break="no"/><supplied reason="lost">ⲣⲟⲥ</supplied></orig></choice></lem><rdg><gap reason="lost" extent="unknown" unit="character"/>ⲛⲁⲡⲟⲕⲗⲏ<lb n="11" break="no"/><gap reason="lost" extent="unknown" unit="character"/></rdg></app> <gap reason="lost" extent="unknown" unit="character"/> ⲁⲩ
 </ab>
       </div>
       </body>
