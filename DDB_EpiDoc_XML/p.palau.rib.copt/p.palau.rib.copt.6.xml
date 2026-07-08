@@ -76,7 +76,7 @@
 
     <lb n="18" break="no"/><unclear>ⲧ</unclear>ⲁⲡⲓⲗⲁⲧⲉⲥ ⲙ<supplied reason="lost">ⲛ</supplied>
 
-    <lb n="19"/><choice><reg>ⲧⲉϥ</reg><orig>ⲧⲉⲃ</orig></choice><choice><reg>ⲥϩⲓⲙⲉ</reg><orig>ⲥⲓⲙⲉ</orig></choice> <choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲗⲁ
+    <lb n="19"/>ⲧⲉⲃⲥⲓⲙⲉ <choice><reg xml:lang="grc">παρακαλεῖν</reg><orig>ⲡⲁⲗⲁ
 
     <lb n="20" break="no"/>ⲕⲁ<unclear>ⲗ</unclear>ⲉ</orig></choice> ⲙ<unclear>ⲟ</unclear>ⲓ <choice><reg>ⲁⲓⲥϩⲁⲓ</reg><orig>ⲁ<supplied reason="lost">ⲓ</supplied>
 
@@ -84,9 +84,9 @@
 
     <lb n="22"/>ⲧ<unclear>ⲓⲟ</unclear> <unclear>ⲙⲙⲛⲧⲣⲉ</unclear>
 
-    <lb n="23"/><expan><unclear>ἐγ</unclear>ρά<unclear>φ</unclear><ex>η</ex></expan> Ἁθυρ
+    <lb n="23"/><foreign xml:lang="grc"><expan><unclear>ἐγ</unclear>ρά<unclear>φ</unclear><ex>η</ex></expan> Ἁθυρ
 
-    <lb n="24"/><num value="24">κδ</num> <expan>ἰνδ<ex>ικτίωνος</ex></expan> <num value="12">ιβ</num>
+    <lb n="24"/><num value="24">κδ</num> <expan>ἰνδ<ex>ικτίωνος</ex></expan> <num value="12">ιβ</num></foreign>
 </ab>
       </div>
       </body>
