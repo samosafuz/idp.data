@@ -37,19 +37,19 @@
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
 <ab>
-<lb n="1"/><expan>διαγεγρά<ex>φε</ex></expan> Παμώνθης Πετε
+    <lb n="1"/><expan>διαγεγρά<ex>φε</ex></expan> Παμώνθης Πετε
 
-<lb n="2" break="no"/>μενώφιος τοῦ <expan>Παμώ<ex>νθου</ex></expan> <expan>μη<ex>τρὸς</ex></expan>
+    <lb n="2" break="no"/>μενώφιος τοῦ <expan>Παμώ<ex>νθου</ex></expan> <expan>μη<ex>τρὸς</ex></expan>
 
-<lb n="3"/><expan>Σενφ<unclear>θ</unclear>ουμ<ex>ίνιος</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>χω<ex>ματικοῦ</ex></expan> <expan>Χά<ex>ρακος</ex></expan> ια <expan><ex>ἔτους</ex></expan>
+    <lb n="3"/><expan>Σενφ<unclear>θ</unclear>ουμ<ex>ίνιος</ex></expan> <expan>ὑπ<ex>ὲρ</ex></expan> <expan>χω<ex>ματικοῦ</ex></expan> <expan>Χά<ex>ρακος</ex></expan> <num value="11">ια</num> <expan><ex>ἔτους</ex></expan>
 
-<lb n="4"/><expan><ex>δραχμὰς</ex></expan> ϛ <expan><ex>τετρώβολον</ex></expan> <expan>βα<ex>λανευτικοῦ</ex></expan> <expan><ex>τετρώβολον</ex></expan> <expan><ex>ἡμιωβέλιον</ex></expan> καὶ <expan>τούτω<ex>ν</ex></expan> <expan>προσδ<ex>ιαγραφόμενα</ex></expan>.
+    <lb n="4"/><expan><ex>δραχμὰς</ex></expan> ϛ <expan><ex>τετρώβολον</ex></expan> <expan>βα<ex>λανευτικοῦ</ex></expan> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num> καὶ <expan>τούτω<ex>ν</ex></expan> <expan>προσδ<ex>ιαγραφόμενα</ex></expan>.
 
-<lb n="5"/><expan><ex>ἔτους</ex></expan> ια Νέρωνος τοῦ
+    <lb n="5"/><expan><ex>ἔτους</ex></expan> <num value="11">ια</num> Νέρωνος τοῦ
 
-<lb n="6"/>κυρίου Ἐπεὶφ <hi rend="supraline">λ</hi>.
+    <lb n="6"/>κυρίου Ἐπεὶφ <num value="30"><hi rend="supraline">λ</hi></num>.
 
-<lb n="7"/><space extent="unknown" unit="character"/> <expan>Βάσσο<ex>ς</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan>
+    <lb n="7"/><space extent="unknown" unit="character"/> <expan>Βάσσο<ex>ς</ex></expan> <expan>σεση<ex>μείωμαι</ex></expan>
 </ab></div>
       </body>
    </text>
