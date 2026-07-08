@@ -52,7 +52,7 @@
 
     <lb n="2"/>ⲙⲉⲣⲓⲧ <unclear>ⲛ</unclear><gap reason="lost" extent="unknown" unit="character"/>
 
-    <lb n="3"/>ϩⲁⲑⲏ <choice><reg xml:lang="grc">μέν</reg><orig>ⲙⲉⲛ</orig></choice> <supplied reason="lost">ⲛϩⲱⲃ ⲛⲓⲙ</supplied><gap reason="lost" extent="unknown" unit="character"/>
+    <lb n="3"/>ϩⲁⲑⲏ <choice><reg xml:lang="grc">μέν</reg><orig>ⲙⲉⲛ</orig></choice> <supplied reason="lost">ⲛϩⲱⲃ ⲛⲓⲙ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="4"/>ⲉⲧⲉⲕⲙⲛⲧ<hi rend="diaeresis">ⲓ</hi>ⲱ<supplied reason="lost">ⲧ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 
