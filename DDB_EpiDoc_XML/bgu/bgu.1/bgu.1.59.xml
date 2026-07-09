@@ -61,17 +61,17 @@
             <placeName>Arsinoite</placeName>
          </head>
          <div xml:lang="grc" type="edition" xml:space="preserve"><ab>
-    <lb n="1"/>Ποτάμ<supplied reason="lost">ωνι <expan>στρα<ex>τηγῷ</ex></expan> <expan>Ἀρσι<ex>νοίτου</ex></expan></supplied> 
+    <lb n="1" rend="outdent"/> Ποτά<unclear>μ</unclear><supplied reason="lost">ωνι <expan>στρα<ex>τηγῷ</ex></expan> <expan>Ἀρσι<ex>νοίτου</ex></expan></supplied> 
 
     <lb n="2"/><expan>Ἡρακλ<ex>είδου</ex></expan> <expan>μ<supplied reason="lost">ερίδ<ex>ος</ex></supplied></expan><supplied reason="lost"> καὶ Ἀσκληπιάδῃ</supplied> 
 
     <lb n="3"/><expan>βασιλ<ex>ικῷ</ex></expan> <expan><unclear>γρα</unclear><ex>μματεῖ</ex></expan> τ<supplied reason="lost">ῆς αὐτῆς μερίδος</supplied> 
 
-    <lb n="4"/>καὶ <expan>κωμογρα<ex>μματεῖ</ex></expan> <supplied reason="lost">Καρανίδος</supplied><supplied reason="lost"> καὶ λαο</supplied>
+    <lb n="4"/>καὶ <expan>κωμογρα<ex>μματεῖ</ex></expan> <supplied reason="lost">Καρανίδος καὶ </supplied><expan><supplied reason="lost">λαο</supplied>
 
-    <lb n="5" break="no"/><expan>γρά<ex>φοις</ex></expan> τῆς αὐ<supplied reason="lost">τῆς κώμης</supplied> 
+    <lb n="5" break="no"/>γρά<ex>φοις</ex></expan> τῆς αὐ<supplied reason="lost">τῆς κώμης</supplied> 
 
-    <lb n="6"/>παρὰ Δι<supplied reason="lost">οδώρας Πεθέως τοῦ</supplied>
+    <lb n="6" rend="outdent"/> παρὰ Δι<supplied reason="lost">οδώρας Πεθέως τοῦ</supplied>
 
     <lb n="7"/>Πεθέως μη<supplied reason="lost">τρὸς Ἀφροδοῦτος</supplied>
 
@@ -113,7 +113,7 @@
 
     <lb n="26" break="no"/>δου <expan>κωμογρα<ex>μματέων</ex></expan>. δι<supplied reason="lost">ὸ ἐπιδίδωμι.</supplied> 
 
-    <lb n="27"/><expan><ex>ἔτους</ex></expan> ιε Αὐρηλίου Ἀ<supplied reason="lost">ντωνίνου Καίσαρος</supplied> 
+    <lb n="27" rend="outdent"/> <expan><ex>ἔτους</ex></expan> ιε Αὐρηλίου Ἀ<supplied reason="lost">ντωνίνου Καίσαρος</supplied> 
 
     <lb n="28"/>τοῦ <supplied reason="lost">κυρίου </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>
       </body>
