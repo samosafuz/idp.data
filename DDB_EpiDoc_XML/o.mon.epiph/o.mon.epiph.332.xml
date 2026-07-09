@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T08:39:41-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T09:11:06-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - I agree with Krueger's corr and new reading. Fine to me</change>
+         <change when="2026-06-29T09:30:46-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - corrected reading, added space, changed emendation to reg</change>
+         <change when="2026-06-29T09:30:22-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin2=&gt; corrected reading; lin4=&gt; added space in ϫⲛ̄ ⲉϥϣⲁϩ; lin10=&gt; changed emendation to reg</change>
          <change when="2026-01-27T09:52:04-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-01-27T09:14:19-05:00"
@@ -48,11 +56,11 @@
 <div n="r" type="textpart"><ab>
     <lb n="1"/><g type="rho-cross"/> ϯⲧⲁⲙⲟ ⲙⲙⲟⲕ ϫⲉ ⲉⲕ
 
-    <lb n="2" break="no"/>ϣⲁⲛⲃⲱⲕ ϫⲉ ⲕⲛⲁϫ ⲡⲥⲓ
+    <lb n="2" break="no"/>ϣⲁⲛⲃⲱⲕ ϫⲉ <app type="editorial"><lem resp="PN F. Krueger (photograph)">ⲕⲛⲁϫⲓ</lem><rdg>ⲕⲛⲁϫ</rdg></app> ⲡⲥⲓ
 
     <lb n="3" break="no"/>ⲙ<g type="middot"/>ⲥⲓⲙ<g type="middot"/> ⲙ<hi rend="supraline">ⲟϣⲧϥ</hi> <choice><reg xml:lang="grc">καλῶς</reg><orig>ⲕⲁⲗⲱⲥ</orig></choice> ϫⲉ
 
-    <lb n="4"/>ⲉϥⲟ<hi rend="supraline">ⲩ</hi> <hi rend="supraline">ⲛ</hi>ⲃⲁⲣ <g type="middot"/> ϫ<hi rend="supraline">ⲛ</hi>ⲉϥϣⲁϩ
+    <lb n="4"/>ⲉϥⲟ<hi rend="supraline">ⲩ</hi> <hi rend="supraline">ⲛ</hi>ⲃⲁⲣ <g type="middot"/> ϫ<hi rend="supraline">ⲛ</hi> ⲉϥϣⲁϩ
 
     <lb n="5"/>ⲉⲧⲃⲉ ⲡⲛⲟⲩⲧⲉ <hi rend="supraline">ⲙⲛ</hi> ⲡ<choice><reg xml:lang="grc">τόπος</reg><orig>ⲧⲟⲡⲟ<supplied reason="lost">ⲥ</supplied></orig></choice> <gap reason="lost" quantity="1" unit="character"/>
 
@@ -65,7 +73,7 @@
 
     <lb n="9"/><hi rend="supraline">ⲙ</hi>ⲡⲁⲥⲟ<hi rend="supraline">ⲛ</hi> ⲁ<unclear>ⲣ</unclear>ⲱⲛ <unclear>ϩⲓ</unclear>ⲧⲛ ⲕⲁ
 
-    <lb n="10" break="no"/>ⲙⲏ ⲡⲉⲓ<choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan><supplied reason="omitted">ⲉ</supplied>ⲗⲁⲭ<ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice>
+    <lb n="10" break="no"/>ⲙⲏ <choice><reg>ⲡⲉⲓ<choice><reg xml:lang="grc">ἐλάχιστος</reg><orig><expan>ⲉⲗⲁⲭ<ex>ⲓⲥⲧⲟⲥ</ex></expan></orig></choice></reg><orig>ⲡⲉⲓⲗⲁⲭ</orig></choice>
 </ab></div>
       </div>
       </body>

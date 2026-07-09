@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-02T10:50:43-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Finalized - ready</change>
+         <change when="2026-06-26T04:35:10-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-25T05:50:20-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - space &amp; reg in l. 7</change>
+         <change when="2026-06-25T05:50:08-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin7=&gt; deleted space after ⲉⲣϣⲁⲛ, added reg</change>
          <change when="2026-01-23T11:05:47-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-01-23T10:18:11-05:00"
@@ -61,9 +69,9 @@
 
     <lb n="6"/><choice><reg xml:lang="grc">πρός</reg><orig>ⲡⲣⲟⲥ</orig></choice> ⲑⲉ <hi rend="supraline">ⲛ</hi>ⲧⲁⲛⲥϩⲁ<hi rend="diaeresis">ⲓ</hi> <hi rend="supraline">ⲛ</hi>ⲧⲉ<hi rend="supraline">ⲧⲛⲙⲛⲧ</hi>ⲉⲓⲱⲧ ϫⲉ
 
-    <lb n="7"/>ⲉⲣϣⲁⲛ ⲡ<choice><reg xml:lang="grc">ἀρχιμανδρίτης</reg><orig><expan>ⲁⲣⲭⲏⲙⲁⲛⲧ<ex>ⲣⲓⲧⲏⲥ</ex></expan></orig></choice> ⲃⲱⲕ ⲛⲁϥ ϣⲁ<hi rend="diaeresis">ⲓ</hi>
+    <lb n="7"/>ⲉⲣϣⲁⲛⲡ<choice><reg xml:lang="grc">ἀρχιμανδρίτης</reg><orig><expan>ⲁⲣⲭⲏⲙⲁⲛⲧ<ex>ⲣⲓⲧⲏⲥ</ex></expan></orig></choice> ⲃⲱⲕ ⲛⲁϥ <choice><reg>ϣⲁ<hi rend="diaeresis">ⲓ</hi><hi rend="supraline">ⲛ</hi></reg><orig>ϣⲁ<hi rend="diaeresis">ⲓ</hi>
 
-    <lb n="8" break="no"/>ⲉⲓ<hi rend="supraline">ⲛ</hi> ⲧ<choice><reg xml:lang="grc">ἀπόκρισις</reg><orig>ⲁⲡⲟⲕⲣⲓⲥⲓⲥ</orig></choice> ⲉⲓⲥ ϩⲏⲧⲉ ⲁ<hi rend="diaeresis">ⲓ</hi>ⲉ<hi rend="diaeresis">ⲓ</hi> ⲁ<hi rend="diaeresis">ⲓ</hi>ϩⲉ
+    <lb n="8" break="no"/>ⲉⲓ<hi rend="supraline">ⲛ</hi></orig></choice> ⲧ<choice><reg xml:lang="grc">ἀπόκρισις</reg><orig>ⲁⲡⲟⲕⲣⲓⲥⲓⲥ</orig></choice> ⲉⲓⲥ ϩⲏⲧⲉ ⲁ<hi rend="diaeresis">ⲓ</hi>ⲉ<hi rend="diaeresis">ⲓ</hi> ⲁ<hi rend="diaeresis">ⲓ</hi>ϩⲉ
 
     <lb n="9"/>ⲉⲣⲟⲥ ⲉⲁϩⲉⲛⲕⲉϣⲁϫⲉ ϣⲱⲡⲉ ⲁ<hi rend="diaeresis">ⲓ</hi>
 

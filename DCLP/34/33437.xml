@@ -47,24 +47,38 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Fundort: Herakleopolites or Arsinoites, Egypt; Schreibort: Herakleopolites or Arsinoites, Egypt</origPlace>
+                     <origPlace>Fundort: Herakleopolites, Egypt oder Arsinoites, Egypt; Schreibort: Herakleopolites, Egypt oder Arsinoites, Egypt</origPlace>
                      <origDate notBefore="0301" notAfter="0500" precision="low">IV - V</origDate>
                   </origin>
                   <provenance n="1" type="found">
-                     <p>
+                     <p n="1" xml:id="geoIAJC99" exclude="#geoFE4BHD">
                         <placeName n="1"
                                    type="ancient"
                                    subtype="nome"
-                                   ref="https://www.trismegistos.org/place/2713">Herakleopolites or Arsinoites</placeName>
+                                   ref="https://www.trismegistos.org/place/2713">Herakleopolites</placeName>
+                        <placeName n="2" type="ancient" subtype="region">Egypt</placeName>
+                     </p>
+                     <p n="2" xml:id="geoFE4BHD" exclude="#geoIAJC99">
+                        <placeName n="1"
+                                   type="ancient"
+                                   subtype="nome"
+                                   ref="https://www.trismegistos.org/place/332">Arsinoites</placeName>
                         <placeName n="2" type="ancient" subtype="region">Egypt</placeName>
                      </p>
                   </provenance>
                   <provenance n="2" type="composed">
-                     <p>
+                     <p n="1" xml:id="geoDJBAG6" exclude="#geoCB1HE4">
                         <placeName n="1"
                                    type="ancient"
                                    subtype="nome"
-                                   ref="https://www.trismegistos.org/place/2713">Herakleopolites or Arsinoites</placeName>
+                                   ref="https://www.trismegistos.org/place/2713">Herakleopolites</placeName>
+                        <placeName n="2" type="ancient" subtype="region">Egypt</placeName>
+                     </p>
+                     <p n="2" xml:id="geoCB1HE4" exclude="#geoDJBAG6">
+                        <placeName n="1"
+                                   type="ancient"
+                                   subtype="nome"
+                                   ref="https://www.trismegistos.org/place/332">Arsinoites</placeName>
                         <placeName n="2" type="ancient" subtype="region">Egypt</placeName>
                      </p>
                   </provenance>

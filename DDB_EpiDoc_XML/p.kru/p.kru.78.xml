@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>p.kru.78</title>
@@ -39,9 +39,15 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
-          <change when="2020-11-04T06:13:14-05:00"
+         <change when="2026-07-08T17:36:29-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-07-08T09:20:02-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - ok</change>
+         <change when="2026-07-08T08:12:02-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Submit - lin43: added reg on κατα</change>
+         <change when="2020-11-04T06:13:14-05:00"
                  who="https://papyri.info/editor/users/esthergarel">Finalized - Ready. Lines 38-44 renumbered. </change>
-          <change when="2019-11-07T10:53:21-05:00"
+         <change when="2019-11-07T10:53:21-05:00"
                  who="https://papyri.info/editor/users/SAMUELCOOK">Vote - AcceptText - lin15=&gt; &lt;#ϣⲟⲙⲧⲉ=23#&gt; to &lt;#ϣⲟⲙⲧⲉ=3#&gt;&#xD;
 lin29=&gt; space before [.?] ?&#xD;
 lin32=&gt; remove hyphen&#xD;
@@ -49,18 +55,20 @@ lin56=&gt; I’d understand the first ⲉⲓⲧⲉ as &lt;:εἰ=grc|reg|ⲉⲓ:
 lin60=&gt; ~| ἐπὶ τῷ |~grc ?&#xD;
 lin79=&gt; ⲙ]ⲛⲟⲥ to ⲙ]ⲙⲟⲥ&#xD;
 </change>
-          <change when="2016-11-07T05:57:13-05:00"
+         <change when="2016-11-07T05:57:13-05:00"
                  who="https://papyri.info/editor/users/anne.boudhors">Vote - AcceptText - General remark: there is a problem with the numbering of the lines after 40; Georg solved it in having two lines 45: is this acceptable or should we correct this numbering?; lin2=&gt; space after ϣⲁ ; lin3=&gt; space after ϩⲛ ; lin5=&gt; space after :&gt;; lin6=&gt; space after ⲡⲣⲙ ; lin7=&gt; space after ϫⲉ; space after ⲉⲧⲉ; ~|(μ(ηνὶ)) Φα[ω]φ̣ι̣ [.?] etc. until line 9 (all this in Greek); lin12=&gt; οἰκονόμος; λιν16=&gt; ϫⲓⲛⲧⲁⲓϫⲡⲟϥ without space; lin18=&gt; add [.?] at the end; lin21=&gt; ⲉⲣϣⲁⲛⲡⲛⲟⲩⲧⲉ without space; ⲛ&lt;:ⲡ&lt;:ἅγιος=grc|reg|ϩⲁⲅⲓⲟⲥ:&gt;|reg|ⲫⲁⲅⲓⲟⲥ:&gt;; lin26=&gt; δεσποτεία ; lin27=&gt; remove hyphen; lin28=&gt; ⲛⲧⲁⲓϣⲣⲡ ⲧⲁⲩⲟϥ ; &lt;:ἀπ᾿ἐντεῦθεν=grc|reg|ⲁⲡⲉⲛⲧⲉⲩⲑⲉⲛ:&gt;; space after ϫⲓⲛ; lin29=&gt; ⲛⲧⲁⲓϣⲣⲡ space ; lin30=&gt; ⲛ&lt;:ⲡ&lt;:ἅγιος=grc|reg|ϩⲁⲅⲓⲟⲥ:&gt;|reg|ⲫⲁⲅⲓⲟⲥ:&gt;; lin32=&gt; ⲟⲓⲕⲟⲛⲟⲙⲟⲥ ; lin33=&gt; ⲉⲧⲣⲉⲃⲓⲕⲧⲱⲣ ; lin36=&gt; [ⲛ .?]; lin37=&gt; remove hyphen; &lt;:εἰ μή τι=grc|reg|ⲉⲙⲏⲧⲉⲓ:&gt; ; (ⲛⲟ(ⲙⲓⲥⲙⲁ)) ; lin38=&gt; I rather understand it as 38. lost.?lin or 38. [.?]; lin39=&gt; ⲙⲛ ϣϭⲟⲙ &lt;:δέ=grc|reg|ⲇⲉ:&gt; ; lin40=&gt; ⲉⲡⲱⲓ ⲡⲉ; lin41=&gt; ἤ without iota; lin44=&gt; space after ϩⲛ ; lin47=&gt; ⲟⲩⲃⲉ ⲧϥϭⲟⲙ ϩⲛ ⲗⲁⲁⲩ ; lin48 et 49=&gt; space after ϩⲛ ; lin49=&gt; ⲉⲕⲕⲗⲏⲥⲓⲁⲥⲧⲓⲕ\ⲏ/ ; lin53=&gt; - &lt;:ἀποσοβεῖν=grc|reg|ⲁⲡⲟⲥⲱⲃⲉ:&gt;; ⲛ&lt;:ⲡ&lt;:ἅγιος=grc|reg|ϩⲁⲅⲓⲟⲥ:&gt;|reg|ⲫⲁⲅⲓⲟⲥ:&gt;; lin57-57=&gt; The Greek words need to be regularized &lt;:ποδη|reg|ποτε:&gt; &lt;:τροπου|reg|τρόπον:&gt;; lin61=&gt; ⲛⲉϥⲣ ⲡⲁⲓ ; &lt;:ϫⲉ ⲛⲛⲉⲡⲣⲱⲙⲉ|reg|ϫⲓⲛⲉⲡⲣⲱⲙⲉ:&gt; ?; &lt;:ὠφελεῖσθαι=grc|reg|(ⲱⲫⲉⲗⲓⲥⲑ(ⲁⲓ)):&gt;?; lin66=&gt; correct ⲡϫⲟⲉⲓⲥ ; lin67=&gt; space after ϩⲛ ; lin68=&gt; ⲉϩⲱⲃ ; lin70=&gt; ⲛ&lt;:ⲡ&lt;:ἅγιος=grc|reg|ϩⲁⲅⲓⲟⲥ:&gt;|reg|ⲫⲁⲅⲓⲟⲥ:&gt;; lin80=&gt; ⲭⲁⲏⲗ ; lin80-82 = Greek? =&gt; (Παμπ(ρεπιος) Χαηλ &lt;:μαρτυρῶ|reg|μαρτυρου:&gt;,  (Θωμα(ς)) (υἱ(ὸς)) .? &lt;:μαρτυρῶ|reg|μαρτυρου:&gt;, (Μηνα(ς)) (υἱ(ὸς)) (μακ(αρίου)) Ιωαννου &lt;:μαρτυρῶ|reg|μαρτυρου:&gt;</change>
-          <change when="2016-08-18T10:09:01-04:00" who="https://papyri.info/editor/users/Georg">Submit - Coptic text</change>
-          <change when="2016-07-17T11:17:46-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+         <change when="2016-08-18T10:09:01-04:00"
+                 who="https://papyri.info/editor/users/Georg">Submit - Coptic text</change>
+         <change when="2016-07-17T11:17:46-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve"> 
 <ab>
     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
+
     <lb n="1"/><g type="stauros"/> ⲡⲉⲓ<choice><reg xml:lang="grc">δωρεαστικόν</reg><orig><expan>ⲇⲱⲣⲉⲁⲥⲧⲓⲕⲱ<ex>ⲛ</ex></expan></orig></choice> ⲛ<choice><reg xml:lang="grc">ἀπαράβατος</reg><orig>ⲁⲡⲁⲣⲁⲃⲁⲧⲱⲛ</orig></choice> ⲛⲁ<gap reason="lost" extent="unknown" unit="character"/>
 
     <lb n="2"/>ⲛ<choice><reg xml:lang="grc">αἰώνιον</reg><orig>ⲁⲓⲱⲛⲓⲟⲛ</orig></choice> ⲛⲁⲧⲃⲱⲗ ⲉⲃⲟⲗ ϣⲁ <supplied reason="lost">ⲉⲛⲉϩ ⲁⲓⲥⲙⲓⲛⲉ</supplied>
@@ -147,7 +155,7 @@ lin79=&gt; ⲙ]ⲛⲟⲥ to ⲙ]ⲙⲟⲥ&#xD;
 
     <lb n="42"/>ⲙⲙⲟⲥ <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲉⲥⲙⲛ ⲟⲩϣⲟϫⲛⲉ ⲛ<choice><reg xml:lang="grc">ἀχαριστία</reg><orig>ⲁⲭⲁⲣⲓⲥⲧⲓⲁ</orig></choice>
 
-    <lb n="43"/>ⲕⲁⲧⲁⲣⲟⲥ ϩⲛ ⲟⲩ<choice><reg xml:lang="grc">καιρός</reg><orig>ⲕⲁⲓⲣⲟⲥ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲟⲩ<choice><reg xml:lang="grc">χρόνος</reg><orig>ⲭⲣⲟⲛⲟⲥ</orig></choice>
+    <lb n="43"/><choice><reg xml:lang="grc">κατά</reg><orig>ⲕⲁⲧⲁⲣⲟ</orig></choice>ⲥ ϩⲛ ⲟⲩ<choice><reg xml:lang="grc">καιρός</reg><orig>ⲕⲁⲓⲣⲟⲥ</orig></choice> <choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲟⲩ<choice><reg xml:lang="grc">χρόνος</reg><orig>ⲭⲣⲟⲛⲟⲥ</orig></choice>
 
     <lb n="44"/><choice><reg xml:lang="grc">ἤ</reg><orig>ⲏ</orig></choice> ⲛⲧⲛϫⲟⲟⲥ ϫⲉ ⲉⲛⲟⲩⲉϣ ⲃ<supplied reason="lost">ⲟ</supplied>ⲗ<unclear>ⲥ</unclear> ⲉⲃⲟⲗ
 
@@ -235,5 +243,5 @@ lin79=&gt; ⲙ]ⲛⲟⲥ to ⲙ]ⲙⲟⲥ&#xD;
             </list>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>

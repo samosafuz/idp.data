@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-02T10:50:26-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Finalized - ready</change>
+         <change when="2026-06-26T04:28:01-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-25T05:33:24-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - deleted space in l. 1</change>
+         <change when="2026-06-25T05:33:14-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin1=&gt; deleted space in ⲉⲣⲉⲧⲁⲟⲩⲉⲣⲏⲧⲉ</change>
          <change when="2026-01-20T10:50:12-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-01-20T10:07:29-05:00"
@@ -49,7 +57,7 @@ But I think there is a problem in lin14-15: ϫⲉ ⲉ15.- ϫⲉⲙⲁⲕⲧⲁ�
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
 <div n="r" type="textpart"><ab>
-    <lb n="1"/><g type="stauros"/> <choice><reg xml:lang="grc">συγχωρεῖν</reg><orig>ⲥⲩⲅⲭⲱⲣⲉⲓ</orig></choice> ⲛⲁⲓ ϫ<supplied reason="lost">ⲉ</supplied> ⲉⲣⲉ ⲧⲁⲟⲩⲉⲣⲏⲧⲉ ϣ<unclear>ⲱ</unclear>
+    <lb n="1"/><g type="stauros"/> <choice><reg xml:lang="grc">συγχωρεῖν</reg><orig>ⲥⲩⲅⲭⲱⲣⲉⲓ</orig></choice> ⲛⲁⲓ ϫ<supplied reason="lost">ⲉ</supplied> ⲉⲣⲉⲧⲁⲟⲩⲉⲣⲏⲧⲉ ϣ<unclear>ⲱ</unclear>
 
     <lb n="2" break="no"/>ⲛⲉ <hi rend="supraline">ⲙ</hi>ⲡⲓ<hi rend="supraline">ϭⲛ</hi> ⲑⲉ <hi rend="supraline">ⲛ</hi>ⲧⲁⲉ<unclear>ⲓ</unclear> ϯ<choice><reg xml:lang="grc">ἀσπάζεσθαι</reg><orig>ⲁⲥⲡⲁⲍⲉ</orig></choice> <hi rend="supraline">ⲛ</hi>ⲧⲉⲕⲙ<hi rend="supraline">ⲛ</hi><supplied reason="lost"><hi rend="supraline">ⲧ</hi></supplied>
 

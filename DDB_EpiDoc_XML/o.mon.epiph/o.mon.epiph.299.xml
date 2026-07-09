@@ -32,6 +32,14 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-08T07:37:00-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-07T06:49:50-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - fine to me</change>
+         <change when="2026-06-26T06:14:09-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - deleted space, corrected loanword</change>
+         <change when="2026-06-26T06:13:56-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - lin15=&gt; deleted space in ⲉⲣ16.- ϣⲁⲛⲡⲛⲟⲩⲧⲉ; lin19=&gt; corrected loanword</change>
          <change when="2026-01-23T08:59:50-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2026-01-23T08:39:35-05:00"
@@ -76,7 +84,7 @@
 
     <lb n="15"/>ⲟⲩⲟⲛ ϭⲁ<hi rend="supraline">ⲗⲡ</hi> ⲉⲣⲟⲛ <g type="middot"/> <choice><reg xml:lang="grc">ἀλλά</reg><orig>ⲁⲗⲗⲁ</orig></choice> ⲉⲣ
 
-    <lb n="16" break="no"/>ϣⲁⲛ ⲡⲛⲟⲩⲧⲉ ⲧⲱϣ<g type="word-sep-apostrophe"/> ⲟⲩⲟⲛ ⲟⲛ <hi rend="supraline">ⲧⲛ</hi>
+    <lb n="16" break="no"/>ϣⲁⲛⲡⲛⲟⲩⲧⲉ ⲧⲱϣ<g type="word-sep-apostrophe"/> ⲟⲩⲟⲛ ⲟⲛ <hi rend="supraline">ⲧⲛ</hi>
 
     <lb n="17" break="no"/>ⲛⲁ<choice><reg xml:lang="grc">διοικεῖν</reg><orig>ⲇⲓⲟⲓⲕⲏ</orig></choice> <hi rend="supraline">ⲙ</hi>ⲙⲟⲟⲩ ⲟⲛ <g type="middot"/> ϫⲉⲕ
 

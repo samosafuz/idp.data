@@ -1667,4 +1667,49 @@
     <rdf:Description rdf:about="http://papyri.info/ddbdp/p.chept">
         <dcterms:bibliographicCitation>P.Chept.</dcterms:bibliographicCitation>
     </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.palau.rib.copt">
+        <dcterms:bibliographicCitation>P.Palau Rib.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.lips.copt">
+        <dcterms:bibliographicCitation>O.Lips.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.crum.st">
+        <dcterms:bibliographicCitation>O.CrumST</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.crum.vc">
+        <dcterms:bibliographicCitation>O.CrumVC</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.vind.copt">
+        <dcterms:bibliographicCitation>O.Vind.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.yale.copt">
+        <dcterms:bibliographicCitation>P.YaleCopt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.saint.marc">
+        <dcterms:bibliographicCitation>O.Saint-Marc</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.ashm.copt">
+        <dcterms:bibliographicCitation>O.Ashm.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.lond.copt">
+        <dcterms:bibliographicCitation>P.Lond.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.sorb.copt">
+        <dcterms:bibliographicCitation>P.Sorb.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/bku">
+        <dcterms:bibliographicCitation>BKU</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.mich.copt">
+        <dcterms:bibliographicCitation>P.Mich.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.mich.copt">
+        <dcterms:bibliographicCitation>O.Mich.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/p.fay.copt">
+        <dcterms:bibliographicCitation>P.Fay.Copt.</dcterms:bibliographicCitation>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://papyri.info/ddbdp/o.bawit">
+        <dcterms:bibliographicCitation>O.Bawit</dcterms:bibliographicCitation>
+    </rdf:Description>
 </rdf:RDF>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>p.koeln.sarapion.8</title>
@@ -29,26 +29,31 @@
             <language ident="en">English</language>
             <language ident="grc">Greek</language>
          </langUsage>
-         
          <handNotes>
             <handNote xml:id="m2"/>
          </handNotes>
       </profileDesc>
       <revisionDesc>
-          <change when="2023-08-21T08:37:42-04:00"
+         <change when="2026-07-03T07:56:13-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Finalized - done</change>
+         <change when="2026-07-03T07:50:27-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Vote - Accept-Straight-to-Finalization - lines 14 &amp; 16 ΕΣπα =&gt; Εσπα</change>
+         <change when="2026-07-03T06:22:51-04:00"
+                 who="http://papyri.info/editor/users/dkaltsas">Submit - l. 18: removed intrusive sigma in διασαφῆσαι.</change>
+         <change when="2023-08-21T08:37:42-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
-          <change when="2023-05-31T11:37:18-04:00"
+         <change when="2023-05-31T11:37:18-04:00"
                  who="http://papyri.info/editor/users/james.cowey">Vote - Accept-Straight-to-Finalization - Looks good</change>
-          <change when="2023-05-31T11:13:10-04:00"
+         <change when="2023-05-31T11:13:10-04:00"
                  who="http://papyri.info/editor/users/RiccardoVecchiato">Submit - I have had some difficulties with this text: &#xD;
 &#xD;
 - in l. 17 the symbol for 1/2 is not displayed correctly when underdotted: what should I do?&#xD;
 - I tried to signal the presence of empty lines between the sections of the document in ll. 6 and 8, but I am not sure if I have done that correctly. &#xD;
 - Finally, I was not able to add "(?)" at the end of l. 5 and in l. 2 verso, but those could also be left out, if you agree. </change>
-          <change when="2023-05-31T10:12:53-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+         <change when="2023-05-31T10:12:53-04:00" who="http://papyri.info/editor">Automated creation from template</change>
       </revisionDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <head xml:lang="en"/>
          <div xml:lang="grc" type="edition" xml:space="preserve">
@@ -80,15 +85,15 @@
 
     <lb n="13"/><unclear>μ</unclear>εῖζον ὂν ταῖς <num value="100">ρ</num> <expan><ex cert="low">πυρῶν</ex></expan> <expan><ex>ἀρτάβαις</ex></expan> <expan><ex>ἀρτάβης</ex></expan> <num value="1">α</num>, ὁ δὲ Δωρί<supplied reason="lost">ων</supplied> <gap reason="lost" quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>σας</unclear> <supplied reason="lost">πρ</supplied>οεφέ<unclear>ρ</unclear>ετ<supplied reason="lost">ο</supplied> <unclear>ἀν</unclear>ε<unclear>ιλη</unclear><supplied reason="lost">φέναι</supplied>
 
-    <lb n="14"/><unclear>ἀρτάβας</unclear> <num value="5281">ΕΣπα</num> <num value="1/2">𐅵</num> <unclear>ὥστ</unclear>’ <unclear>εἶ</unclear>ναι προσαγ<unclear>ομε</unclear><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ρ</unclear><gap reason="lost" quantity="15" unit="character" precision="low"/>
+    <lb n="14"/><unclear>ἀρτάβας</unclear> <num value="5281">Εσπα</num> <num value="1/2">𐅵</num> <unclear>ὥστ</unclear>’ <unclear>εἶ</unclear>ναι προσαγ<unclear>ομε</unclear><gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="8" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>ρ</unclear><gap reason="lost" quantity="15" unit="character" precision="low"/>
 
     <lb n="15"/><gap reason="illegible" quantity="5" unit="character"/> <unclear>ἃ</unclear>ς ἐγεγράφεις <expan><ex>ἀρτάβας</ex></expan> <num value="5334">Ετλδ</num> <num value="1/4" rend="tick">δ</num>, ἐφ᾽οἷς κ<unclear>αὶ</unclear> <unclear>τοῦ</unclear> <unclear>Ψ</unclear>α<unclear>μματί</unclear>χ<unclear>ου</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/>
 
-    <lb n="16"/><unclear>τ</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>ὅτι</unclear> <unclear>ο</unclear>ὐκ ἀνειλήφει ὁ Δωρ<supplied reason="lost">ί</supplied>ων πλεῖον τῶν <num value="5281">ΕΣπα</num> <num value="1/2">𐅵</num> <expan><ex>ἀρταβῶν</ex></expan> καὶ τῶν <gap reason="illegible" quantity="3" unit="character"/><unclear>ν</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character" precision="low"/>
+    <lb n="16"/><unclear>τ</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>ὅτι</unclear> <unclear>ο</unclear>ὐκ ἀνειλήφει ὁ Δωρ<supplied reason="lost">ί</supplied>ων πλεῖον τῶν <num value="5281">Εσπα</num> <num value="1/2">𐅵</num> <expan><ex>ἀρταβῶν</ex></expan> καὶ τῶν <gap reason="illegible" quantity="3" unit="character"/><unclear>ν</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character" precision="low"/>
 
     <lb n="17"/><gap reason="illegible" quantity="5" unit="character"/>θ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="3" unit="character"/> ἐκ τῆς δ<unclear>ι</unclear>’ <unclear>ἡμῶν</unclear> ἐπισκέψεως <expan><ex>ἀρταβῶν</ex></expan> <num value="52"><unclear>νβ</unclear></num> <num value="1/2"><unclear>𐅵</unclear></num><num value="1/4" rend="tick">δ</num>. τῶν δε<gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" quantity="8" unit="character" precision="low"/>
 
-    <lb n="18"/>χειρογραφήσαντος αὐτ<supplied reason="lost">oῦ</supplied> <unclear>τ</unclear>ὸν βασιλικὸν ὅρκον ὠι<supplied reason="lost">όμ</supplied>εθα δεῖ<unclear>ν</unclear> διασαφῆσαις,
+    <lb n="18"/>χειρογραφήσαντος αὐτ<supplied reason="lost">oῦ</supplied> <unclear>τ</unclear>ὸν βασιλικὸν ὅρκον ὠι<supplied reason="lost">όμ</supplied>εθα δεῖ<unclear>ν</unclear> διασαφῆσαι,
 
     <lb n="19"/>ὅπως συν<unclear>ελ</unclear>κυσθῆις τοῖς ὠικονομημένοις. <gap reason="lost" extent="unknown" unit="character"/>
 </ab></div> 
@@ -101,5 +106,5 @@
 
       </div>
       </body>
-  </text>
+   </text>
 </TEI>
