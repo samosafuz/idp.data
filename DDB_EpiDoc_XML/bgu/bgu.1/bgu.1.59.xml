@@ -75,9 +75,9 @@
 
     <lb n="7"/>Πεθέως μη<supplied reason="lost">τρὸς Ἀφροδοῦτος</supplied>
 
-    <lb n="8"/>διὰ φρον<supplied reason="lost">τιστοῦ   <gap reason="illegible" quantity="5" unit="character"/> τοῦ  <gap reason="illegible" quantity="3" unit="character"/></supplied>
+    <lb n="8"/>διὰ φρον<supplied reason="lost">τιστοῦ <gap reason="illegible" quantity="5" unit="character"/> τοῦ <gap reason="illegible" quantity="3" unit="character"/></supplied>
 
-    <lb n="9" break="no"/><unclear>το</unclear>ρος  <gap reason="lost" quantity="18" unit="character" precision="low"/>
+    <lb n="9" break="no"/><unclear>το</unclear>ρος  <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="18" unit="character" precision="low"/>
 
     <lb n="10"/>ἀπὸ κώ<supplied reason="lost">μη</supplied><unclear>ς</unclear> <unclear>Κ</unclear><supplied reason="lost">αρανίδος· <expan>ἀπογρά<ex>φομαι</ex></expan></supplied> 
 
@@ -85,7 +85,7 @@
 
     <lb n="12"/>τοὺς ἐμ<supplied reason="lost">οὺ</supplied><unclear>ς</unclear> ε<supplied reason="lost">ἰς τὴν τοῦ <expan>διεληλ<ex>υθότος</ex></expan></supplied> 
 
-    <lb n="13"/><unclear>ι</unclear>δ <expan><ex>ἔτους</ex></expan> Αὐρηλίο<supplied reason="lost">υ Ἀντωνίνου Καίσαρος</supplied>
+    <lb n="13"/><num value="14"><unclear>ι</unclear>δ</num> <expan><ex>ἔτους</ex></expan> Αὐρηλίο<supplied reason="lost">υ <choice><reg>Ἀντωνίνου</reg><orig>Ἀντωνείνου</orig></choice> Καίσαρος</supplied>
 
     <lb n="14"/>τοῦ κυρίου κ<supplied reason="lost">ατʼ οἰκίαν <expan>ἀπογρα<ex>φὴν</ex></expan> εἰς τὴν</supplied>
 
@@ -113,7 +113,7 @@
 
     <lb n="26" break="no"/>δου <expan>κωμογρα<ex>μματέων</ex></expan>. δι<supplied reason="lost">ὸ ἐπιδίδωμι.</supplied> 
 
-    <lb n="27" rend="outdent"/> <expan><ex>ἔτους</ex></expan> ιε Αὐρηλίου Ἀ<supplied reason="lost">ντωνίνου Καίσαρος</supplied> 
+    <lb n="27" rend="outdent"/> <expan><ex>ἔτους</ex></expan> ιε Αὐρηλίου <choice><reg>Ἀντωνίνου</reg><orig>Ἀ<supplied reason="lost">ντωνείνου</supplied></orig></choice><supplied reason="lost"> Καίσαρος</supplied> 
 
     <lb n="28"/>τοῦ <supplied reason="lost">κυρίου </supplied><gap reason="lost" extent="unknown" unit="character"/> </ab></div>
       </body>
