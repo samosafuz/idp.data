@@ -79,6 +79,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-09T04:48:04-04:00"
+                 who="http://papyri.info/editor/users/LaviniaFerretti">Finalized - Metadata finalized</change>
+         <change when="2026-07-08T09:17:55-04:00"
+                 who="http://papyri.info/editor/users/LaviniaFerretti">Vote - HGVAccept - The metadata were updated according to the new edition as SB XXX 17756. The first terminus should be June 175 CE (not July). For the collection, use Ägyptisches Museum und Papyrussammlung as in TM.</change>
+         <change when="2026-07-07T08:47:57-04:00"
+                 who="http://papyri.info/editor/users/aldrin">Submit - Entered text from Edition.</change>
          <change who="HGV" when="1996-02-09">Record created</change>
          <change who="HGV" when="2009-07-02">Record last modified</change>
          <change when="2011-04-20" who="IDP">Crosswalked to EpiDoc XML</change>
