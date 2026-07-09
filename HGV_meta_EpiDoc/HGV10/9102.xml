@@ -34,8 +34,8 @@
                <history>
                   <origin>
                      <origPlace>Karanis (Arsinoites, Ägypten)</origPlace>
-                     <origDate notBefore="0175-07" notAfter="0175-08">
-                ca. Juli - Aug. 175
+                     <origDate notBefore="0175-06" notAfter="0175-08">
+                ca. Juni - Aug. 175
                 <precision match="../@notBefore" degree="0.5"/>
                      </origDate>
                   </origin>
