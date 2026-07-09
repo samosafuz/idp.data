@@ -35,6 +35,14 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-09T15:50:58-04:00"
+                 who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
+         <change when="2026-07-08T09:23:14-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">General - new reg ⲕⲁⲧⲁⲣⲟ on lin74</change>
+         <change when="2026-07-08T09:22:04-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - ok</change>
+         <change when="2026-07-08T08:05:59-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Submit - lin70: moved regularisation bracket to encompass ⲕⲁⲧⲁⲣⲟ, not just ⲕⲁⲧⲁ</change>
          <change when="2020-12-15T08:05:32-05:00"
                  who="https://papyri.info/editor/users/esthergarel">Finalized - Ready.</change>
          <change when="2020-12-14T05:18:20-05:00"
