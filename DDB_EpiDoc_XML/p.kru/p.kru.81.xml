@@ -34,6 +34,12 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-10T04:37:35-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-08T09:19:07-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - ok</change>
+         <change when="2026-07-08T08:13:25-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Submit - lin40: moved regularisation bracket to encompass ⲕⲁⲧⲁⲣⲟ, not just ⲕⲁⲧⲁ</change>
          <change when="2024-02-05T11:53:25-05:00"
                  who="http://papyri.info/editor/users/james.cowey">Finalized - Ready.</change>
          <change when="2024-02-05T11:28:39-05:00"
