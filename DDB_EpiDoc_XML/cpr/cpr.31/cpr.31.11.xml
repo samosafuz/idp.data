@@ -32,6 +32,15 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-10T04:42:26-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready</change>
+         <change when="2026-07-10T02:54:22-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Vote - Accept-Straight-to-Finalization - Accept, but swap sides of the correction to ensure that the ed. princ. is the main text, with Krueger's suggestion a note in the apparatus. Thus: ⲛⲧⲉⲧⲛⲉ&lt;:[&lt;:θεοτίμητος=grc|reg|(ⲑⲉⲟⲧⲓⲙ(ⲏ)ⲧ(ⲟⲥ)):&gt; ⲛϫⲟⲉⲓⲥ] [.?]|ed|[.?]=PN F. Krueger (assessment of phraseology):&gt;&#xD;
+</change>
+         <change when="2026-06-18T07:41:53-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Submit - removed highly speculative reconstruction of lacuna</change>
+         <change when="2026-06-18T07:41:24-04:00"
+                 who="http://papyri.info/editor/users/Frederic%20Krueger">Commit - Deleted speculative reconstruction of lacuna</change>
          <change when="2014-04-03T08:32:08.14-04:00"
                  who="https://papyri.info/editor/users/berkes.lajos">Finalized - ready</change>
          <change when="2014-04-03T08:32:08.135-04:00"
