@@ -54,7 +54,7 @@
 
     <lb n="3"/><supplied reason="lost">ⲡ</supplied><choice><reg xml:lang="grc">ἀρχισύμμαχος</reg><orig><supplied reason="lost">ⲁⲣⲭⲏⲥⲩⲙ</supplied>ⲙⲁⲭⲟⲥ</orig></choice> <choice><reg>ϫⲉ ⲉⲛ<choice><reg xml:lang="grc" cert="low">ἀθετεῖν</reg><orig>ⲁⲑⲉⲧⲉ</orig></choice></reg><orig>ϫⲉⲛⲁⲑⲉⲧⲉ</orig></choice> ⲉⲛ
 
-    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>ⲁⲛ<hi rend="supraline">ⲣ</hi> ϩⲱⲃ ⲕⲥⲟⲟⲩⲛ <choice><reg xml:lang="grc">γάρ</reg><orig>ⲅⲁⲣ</orig></choice> <choice><reg>ϫⲉ ⲙ<hi rend="supraline">ⲙⲛ</hi></reg><orig>ϫⲛ <hi rend="supraline">ⲙⲛ</hi></orig></choice>
+    <lb n="4" break="no"/><gap reason="lost" extent="unknown" unit="character"/> ⲁⲛ<hi rend="supraline">ⲣ</hi> ϩⲱⲃ ⲕⲥⲟⲟⲩⲛ <choice><reg xml:lang="grc">γάρ</reg><orig>ⲅⲁⲣ</orig></choice> <choice><reg>ϫⲉ ⲙ<hi rend="supraline">ⲙⲛ</hi></reg><orig>ϫⲛ <hi rend="supraline">ⲙⲛ</hi></orig></choice>
 
     <lb n="5" break="no"/><unclear>ⲧ</unclear>ⲉⲛ <choice><reg xml:lang="grc">πρόσοδος</reg><orig>ⲡⲣⲟⲥⲟⲧⲟⲥ</orig></choice> <hi rend="supraline">ⲛ</hi>ⲙⲁⲩ <choice><reg>ϫⲉ ⲉⲛⲁⲱⲛⲁϩ</reg><orig>ϫⲉⲛⲁⲱⲛⲁϩ</orig></choice> 
 
@@ -64,7 +64,7 @@
 
     <lb n="8"/>ⲡⲙⲁ ⲧⲏⲣ<hi rend="supraline">ϥ</hi> ⲙⲛ <unclear>ⲛⲕ</unclear>ⲉ <gap reason="illegible" extent="unknown" unit="character"/>
 
-    <lb n="9"/>ⲙⲉⲣ<unclear>ⲏ</unclear> <unclear>ⲟ</unclear>ⲩ<hi rend="supraline">ⲛ</hi> ⲙⲟⲛ ⲧⲛⲣ ϩⲱϥ ϩⲛ ⲕⲉ
+    <lb n="9"/><choice><reg xml:lang="grc">μέρος</reg><orig>ⲙⲉⲣ<unclear>ⲏ</unclear></orig></choice> <unclear>ⲟ</unclear>ⲩ<hi rend="supraline">ⲛ</hi> ⲙⲟⲛ ⲧⲛⲣ ϩⲱϥ ϩⲛ ⲕⲉ
 
     <lb n="10" break="no"/>ⲟⲩⲟ<hi rend="supraline">ⲛ</hi> <unclear>ⲥⲱϥ</unclear><gap reason="lost" extent="unknown" unit="character"/> 
 </ab>
