@@ -29,6 +29,7 @@
             <language ident="en">English</language>
             <language ident="cop">Coptic</language>
             <language ident="grc">Greek</language>
+            <language ident="ar">Arabic</language>
          </langUsage>
          <handNotes>
             <handNote xml:id="m1"/>
@@ -55,6 +56,19 @@
       <body>
          <head xml:lang="en"/>
          <div xml:lang="cop" type="edition" xml:space="preserve">
+
+<div n="protocol" type="textpart">
+<ab> 
+<lb n="1"/><foreign xml:lang="grc">ἐν ὀνόματι τοῦ <expan>θ<ex>εο</ex>ῦ</expan> τοῦ 
+<lb n="2"/>ἐλεήμονος <expan>φιλανθρώπ<ex>ου</ex></expan></foreign>
+<lb n="3"/><foreign xml:lang="ar">بسم اللّه الرّحمن الرّحيم</foreign>
+<lb n="4"/><foreign xml:lang="grc">οὐκ ἔστιν <expan>θ<ex>εὸ</ex>ς</expan> εἰ μὴ ὁ <expan>θ<ex>εὸ</ex>ς</expan> μόνος 
+<lb n="5"/>Μααμὲτ ἀπόστολος <unclear>θ</unclear>εοῦ</foreign>
+<lb n="6"/><foreign xml:lang="ar">لا اله الا اللّه وحده محمد رسول اللّه </foreign>
+<lb n="7"/><foreign xml:lang="grc">Ἀβδελαζιζ υἱὸς 
+<lb n="8"/>Μαρουαν <app type="editorial"><lem resp="S. Hodak (photograph)">σύμβουλος</lem><rdg resp="P.CLT 1">σ<unclear>ί</unclear>μβουλος</rdg></app></foreign> 
+
+</ab></div>
 <div n="r" type="textpart"><ab>
 
 <lb n="1"/><handShift new="m1"/><foreign xml:lang="grc">ἐν ὀνόματι τῆς ἁγίας καὶ ζωοποιοῦ ὁμοουσίου τριάδος πατρὸς
