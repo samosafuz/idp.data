@@ -55,7 +55,7 @@
 <lb n="5"/>ⲁⲛⲇⲣⲉⲁⲥ ⲁⲩⲱ
 <lb n="6"/>ⲁⲛⲁⲩ ⲉⲡϣⲟϣⲧ
 <lb n="7"/>ⲛⲉⲡⲉⲛⲓⲡⲉ ⲙ<hi rend="supraline">ⲛ</hi>
-<lb n="8"/>ⲧ<num value="2">ⲥⲛⲧⲉ</num> ⲛ<choice><reg xml:lang="grc" cert="low">ἀσφάλεια</reg><orig>ⲁⲥⲫ<unclear>ⲁ</unclear><gap reason="illegible" quantity="2" unit="character"/></orig></choice>
+<lb n="8"/>ⲧ<num value="2">ⲥⲛⲧⲉ</num> ⲛ<app type="editorial"><lem>ⲁⲥⲫ<unclear>ⲁ</unclear><gap reason="illegible" quantity="2" unit="character"/></lem><rdg resp="PN F. Krueger (DDGLC)"><choice><reg xml:lang="grc">ἀσφάλεια</reg><orig>ⲁⲥⲫ<unclear>ⲁⲗⲉ</unclear></orig></choice><certainty match=".." locus="value"/></rdg></app>
 <lb n="9"/>ⲙⲡ<unclear>ⲗ</unclear>ⲁⲗⲉ<unclear>ϩ</unclear>ⲟ<unclear>ⲓⲣ</unclear>
 <lb n="10"/>ⲛⲛⲁⲩ
 </ab>
