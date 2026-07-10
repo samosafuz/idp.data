@@ -34,6 +34,12 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-10T10:55:06-04:00"
+                 who="http://papyri.info/editor/users/thomaslaver">Finalized - Ready, with corrected Leiden+ syntax</change>
+         <change when="2026-07-10T07:04:51-04:00"
+                 who="http://papyri.info/editor/users/L.%20Vanderheyden">Vote - Accept-Straight-to-Finalization - Lin8=&gt; Finalizer check if this syntax is correct &lt;:(Πνόμφθ(εως))=PN N.Gonis (photograph)|Πνό̣μ̣φ̣θ̣ε(ως)=P.Jena II, p. 43||ed||(Πνο̣μ̣φ̣.1ε(ως)):&gt;</change>
+         <change when="2026-05-02T17:40:45-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Submit - Entered published correction to lin8. Πνό̣μ̣φ̣θ̣ε(ως) was conjectured in P.Jena II, p. 43, but the online image shows that the suprascript letter is theta and there is no need for dots: Πνόμφθ(εως). For this reason I added 'Cf.' rather than presenting it as a PN correction.</change>
          <change when="2023-04-04T12:51:13-04:00"
                  who="http://papyri.info/editor/users/berkes.lajos">Finalized - ready</change>
          <change when="2023-04-04T12:45:29-04:00"
