@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/8.16/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>sosol.2026.0693</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
+            <idno type="filename">sosol.2026.0693</idno>
+            <idno type="ddb-hybrid">sosol;2026;0693</idno>
+            <idno type="HGV">85384</idno>
+            <idno type="TM">85384</idno>
+            <availability>
+               <p>© Duke Databank of Documentary Papyri. This work is licensed under a
+          <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative 
+          Commons Attribution 3.0 License</ref>.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="cop">Coptic</language>
+            <language ident="grc">Greek</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2026-06-09T09:36:49-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head xml:lang="en"/>
+         <div xml:lang="cop" type="edition" xml:space="preserve">
+<ab>
+<lb n="1"/>† ⲡⲁ<hi rend="supraline">ⲣ</hi> ⲁ<supplied reason="lost">ⲡ</supplied><unclear>ⲁ</unclear>ⲕⲩⲣⲟⲩ ⲡϥⲥϩⲁⲓ ⲛϩⲏⲗⲓⲁⲥ ⲡϣⲉ ⲛⲗⲉⲟⲛⲧⲉ ⲡⲣⲙ
+<lb n="2"/>ⲧⲧⲉϩⲛⲉ <unclear>ϩⲙ</unclear> ⲡⲧ<unclear>ⲟ</unclear>ϣ <hi rend="supraline">ⲛ</hi>ⲁⲛⲧⲓⲛⲟⲟⲩ ϫⲉ ⲛⲁⲓ ⲛⲉ ⲉⲛⲧⲁⲥⲧⲁϩⲟⲕ 
+<lb n="3"/>ⲙ<hi rend="supraline">ⲙⲟⲟⲩ</hi> <unclear>ⲧ</unclear>ⲉ<unclear>ⲕ</unclear>ⲧⲁⲁ<unclear>ⲩ</unclear> ϩ<unclear>ⲁ</unclear> ⲡ<unclear>ⲉ</unclear> <gap reason="illegible" quantity="4" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/><num value="4"><choice><reg xml:lang="grc">τετάρτης</reg><orig><unclear>ⲧⲉⲧⲁ</unclear>ⲣⲧ<unclear>ⲏⲥ</unclear></orig></choice></num> <choice><reg xml:lang="grc">ἰνδικτίωνος</reg><orig><expan><unclear>ⲓⲛⲇ</unclear><ex>ⲓⲕⲧⲓⲱⲛⲟⲥ</ex></expan></orig></choice> ⲉⲧⲉ <unclear>ⲛⲁⲓ</unclear> <unclear>ⲛ</unclear>ⲉ ⲥ<unclear>ⲛⲁⲩ</unclear> <unclear>ⲛ</unclear><choice><reg xml:lang="grc">ὁλοκόττινος</reg><orig><expan>ϩⲟⲗⲟⲕ<ex>ⲟ</ex>ⲧ<ex>ⲧⲓⲛⲟⲥ</ex></expan></orig></choice> <unclear>ⲁⲩ</unclear><supplied reason="lost">ⲱ ϩⲁ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/>ⲛⲉ <choice><reg xml:lang="grc">ἰνδικτίωνος</reg><orig><expan>ⲓ<ex>ⲛ</ex>ⲇ<ex>ⲓⲕⲧⲓⲱⲛⲟⲥ</ex></expan></orig></choice> ⲛⲧ<unclear>ⲁⲥ</unclear><choice><reg xml:lang="grc">καταχωρεῖν</reg><orig><unclear>ⲕⲁⲧⲁ</unclear>ⲭⲱⲣⲉⲓ</orig></choice> ⲙⲙⲟ<unclear>ⲥ</unclear> ⲛ<unclear>ⲣⲱ</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/> ϫ<gap reason="illegible" quantity="3" unit="character"/>ⲟⲩ<gap reason="illegible" quantity="4" unit="character"/>ⲟ<unclear>ⲩ</unclear>
+<lb n="6"/>ⲟⲩ<choice><reg xml:lang="grc">τριμήσιον</reg><orig>ⲧⲣⲓⲙⲏⲥⲓⲛ</orig></choice> ⲉⲣⲉⲡⲉⲧⲉⲛⲧⲁⲕⲧⲁⲁⲩ <unclear>ϣⲁ</unclear> <unclear>ⲡⲟⲟⲩ</unclear> <unclear>ⲏⲡ</unclear> ⲉⲣⲟⲕ
+<lb n="7"/><expan>γί<ex>νεται</ex></expan> <expan>νο<ex>μίσματα</ex></expan> <num value="2">β</num> <num value="1/3">γʹ</num> <num value="2">δύο</num> <num value="1/3">τρίτον</num> <expan><unclear>μ</unclear><ex>όνα</ex></expan><gap reason="illegible" quantity="1" unit="character"/> <expan>ἰνδ<ex>ικτίονος</ex></expan> <num value="5">ε</num>.
+<lb n="8"/><expan><ex>ὑπὲρ</ex></expan> <expan>ἀνδ<ex>ρισμοῦ</ex></expan> <expan>ἰνδ<ex>ικτίονος</ex></expan> 
+</ab>
+       </div>
+      </body>
+   </text>
+</TEI>
