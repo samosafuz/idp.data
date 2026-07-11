@@ -31,6 +31,12 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-11T07:41:23-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Finalized - done</change>
+         <change when="2026-07-11T06:39:58-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Vote - Accept-Straight-to-Finalization - OK</change>
+         <change when="2026-07-11T06:36:40-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Submit - Entered BL corrections (those that could be verified on the images) and a few minor PN corrections (some more substantial ones will first appear elsewhere), and fixed several number conversion problems.</change>
          <change when="2023-04-24T04:07:38-04:00"
                  who="http://papyri.info/editor/users/mgerhardt">Finalized - Ready.</change>
          <change when="2023-04-24T02:23:07-04:00"
