@@ -31,6 +31,12 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-11T07:48:50-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Finalized - done</change>
+         <change when="2026-07-07T15:33:29-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Vote - Accept-Straight-to-Finalization - The suggestions in BL are mentioned in  ZPE 190 (2014) 188 n. 10, and are probably worth adding.</change>
+         <change when="2026-07-07T12:13:57-04:00"
+                 who="http://papyri.info/editor/users/dkaltsas">Submit - l. 2: corrected typos in τῆι and ἧς.</change>
          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
          <change when="2010-05-05" who="https://papyri.info/editor/users/gabrielbodard">changed schema; added xml:space=preserve; indented; moved title/@n to idno</change>
