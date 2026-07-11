@@ -31,6 +31,13 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
+         <change when="2026-07-11T07:44:10-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Finalized - done</change>
+         <change when="2026-07-09T07:24:26-04:00"
+                 who="http://papyri.info/editor/users/ngonis">Vote - Accept-Straight-to-Finalization - γίνεται might have been a typo, but γίνηται should still be recorded as a PNN correction.</change>
+         <change when="2026-07-08T12:03:50-04:00"
+                 who="http://papyri.info/editor/users/dkaltsas">Submit - l. 6: restored ed.’s punctuation after π̣ράσεως.&#xD;
+l. 8: corrected ed.’s typo ((ἵνα μὴ) ... γίνεται for γίνηται) as per the image.</change>
          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">rationalized languages in langUsage</change>
          <change when="2011-12-14" who="https://papyri.info/editor/users/gabrielbodard">changed editor names to URIs</change>
          <change when="2011-10-04" who="https://papyri.info/editor/users/Faith">Automatically updated revision description</change>
