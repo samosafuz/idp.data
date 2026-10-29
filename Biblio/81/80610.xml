@@ -20,5 +20,5 @@
     <seg type="original" subtype="publication" resp="#BP">Aigis 12 (2012) 1, 60 pp., 6 figg. coul.</seg>
     <seg type="original" subtype="resume" resp="#BP">Extraits commentés de la correspondance de Carsten Høeg (1896-1961) relative aux P. Haun. (y compris des lettres adressées à ou par: Carl Schmidt, Wilhelm Schubart, Friedrich Zucker, Achille Vogliano).</seg>
     <seg type="original" subtype="nom" resp="#BP">Bülow-Jacobsen</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://www.igl.ku.dk/~aigis/2012,1/Vol.12,1.html</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://www.igl.ku.dk/~aigis/2012,1/Vol.12,1.html</seg>
 </bibl>

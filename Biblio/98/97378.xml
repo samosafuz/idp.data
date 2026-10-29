@@ -16,10 +16,10 @@
   </relatedItem>
   <idno type="pi">97378</idno>
   <idno type="bp">2024-0232</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 364 Epistulae</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Tebt. Suppl. Inv. 1613-16</seg>
-  <seg subtype="titre" resp="#BP" type="original">Simona Russo, P.Tebt. suppl. 1613-16: lettera di Isidora al marito Kronion.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Francesca Maltomini &amp; Simona Russo (edd.), Comunicazioni dell'Istituto Papirologico "G. Vitelli". 15 = Edizioni dell'Istituto Papirologico "G. Vitelli". 17 (Firenze, 2024) pp. 29-33.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 364 Epistulae</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Tebt. Suppl. Inv. 1613-16</seg>
+  <seg type="original" subtype="titre" resp="#BP">Simona Russo, P.Tebt. suppl. 1613-16: lettera di Isidora al marito Kronion.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Francesca Maltomini &amp; Simona Russo (edd.), Comunicazioni dell'Istituto Papirologico "G. Vitelli". 15 = Edizioni dell'Istituto Papirologico "G. Vitelli". 17 (Firenze, 2024) pp. 29-33.</seg>
   <note resp="#BP">Tebtynis, seconda metà IIp.</note>
-  <seg subtype="resume" resp="#BP" type="original">Tebtynis, seconda metà IIp.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Tebtynis, seconda metà IIp.</seg>
 </bibl>

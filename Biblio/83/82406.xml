@@ -25,5 +25,5 @@
     <seg type="original" subtype="nom" resp="#BP">Urbanik</seg>
     <note resp="#BP">Avec résumé en anglais.</note>
     <seg type="original" subtype="resume" resp="#BP">Avec résumé en anglais.</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://urbanik.bio.wpia.uw.edu.pl/publikacje/</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://urbanik.bio.wpia.uw.edu.pl/publikacje/</seg>
 </bibl>

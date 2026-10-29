@@ -27,5 +27,5 @@
     <seg type="original" subtype="publication" resp="#BP">Ingelore Hafemann (ed.), Perspektiven einer corpusbasierten historischen Linguistik und Philologie. Internationale Tagung des Akademienvorhabens "Altägyptisches Wörterbuch" an der Berlin-Brandenburgischen Akademie der Wissenschaften, 12.-13. Dezember 2011 = Thesaurus Linguae Aegyptiae. 4 (Berlin, 2013) pp. 263-268.</seg>
     <seg type="original" subtype="resume" resp="#BP">Présentation d'un outil informatique, les "Demotische Wortliste" &lt; http://www.dwl.aegyptologie.lmu.de/ &gt;.</seg>
     <seg type="original" subtype="nom" resp="#BP">Hoffmann</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://edoc.bbaw.de/volltexte/2013/2431/</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://edoc.bbaw.de/volltexte/2013/2431/</seg>
 </bibl>

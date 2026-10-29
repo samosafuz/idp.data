@@ -25,5 +25,5 @@
     <seg type="original" subtype="publication" resp="#BP">Aestimatio 7 (2010) pp. 127-192.</seg>
     <seg type="original" subtype="resume" resp="#BP">Article compte rendu de: Dirk OBBINK (recensuit), Anubio. Carmen astrologicum elegiacum (Monaci - Lipsiae, 2006).</seg>
     <seg type="original" subtype="nom" resp="#BP">Heilen</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://www.ircps.org/publications/aestimatio/volume7.htm</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://www.ircps.org/publications/aestimatio/volume7.htm</seg>
 </bibl>

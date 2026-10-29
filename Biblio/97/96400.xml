@@ -17,10 +17,10 @@
   <biblScope type="issue">3</biblScope>
   <idno type="pi">96400</idno>
   <idno type="bp">2023-0112</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Mich. Inv. 3437</seg>
-  <seg subtype="titre" resp="#BP" type="original">Lajos Berkes, A Rent Receipt for a Weaver from the 7th-century Arsinoite.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-6, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Mich. Inv. 3437</seg>
+  <seg type="original" subtype="titre" resp="#BP">Lajos Berkes, A Rent Receipt for a Weaver from the 7th-century Arsinoite.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-6, fig.</seg>
   <note resp="#BP">P. Mich. Inv. 3437. Arsinoite, 7th century. Receipt for the payment of 4 1/4 1/16 gold carats for the rent of Theodoros the weaver.</note>
-  <seg subtype="resume" resp="#BP" type="original">P. Mich. Inv. 3437. Arsinoite, 7th century. Receipt for the payment of 4 1/4 1/16 gold carats for the rent of Theodoros the weaver.</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. Mich. Inv. 3437. Arsinoite, 7th century. Receipt for the payment of 4 1/4 1/16 gold carats for the rent of Theodoros the weaver.</seg>
 </bibl>

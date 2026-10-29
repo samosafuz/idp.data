@@ -19,10 +19,10 @@
   <note type="illustration">Plate 2</note>
   <idno type="pi">96140</idno>
   <idno type="bp">2020-0627</idno>
-  <seg subtype="index" resp="#BP" type="original">141.5 145.5 365 Epistulae</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.5 P. Vindob. Lat. Inv. 1 recto, E-F = Ch.L.A. XLIII, 1241 descr. 145.5 P. Berol. Inv. 14105 recto = Ch.L.A. X, 452</seg>
-  <seg subtype="titre" resp="#BP" type="original">Andrea Bernini, Due lettere latine frammentarie su papiro.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Tyche 35 (2020) pp. 5-12, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.5 145.5 365 Epistulae</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.5 P. Vindob. Lat. Inv. 1 recto, E-F = Ch.L.A. XLIII, 1241 descr. 145.5 P. Berol. Inv. 14105 recto = Ch.L.A. X, 452</seg>
+  <seg type="original" subtype="titre" resp="#BP">Andrea Bernini, Due lettere latine frammentarie su papiro.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Tyche 35 (2020) pp. 5-12, fig.</seg>
   <note resp="#BP">1. Testo incerto e lettera privata con doppia datazione (P. Vindob. L 1 recto, testi E, F, parte di Ch.L.A. XLIII, 1241). Origine e provenienza: Egitto, I ex. a.C. - I in. d.C. - 2. Lettera privata (P. Berol. Inv. 14105 recto = Ch.L.A. X, 452). Origine e provenienza: Egitto (?), II AD.</note>
-  <seg subtype="resume" resp="#BP" type="original">1. Testo incerto e lettera privata con doppia datazione (P. Vindob. L 1 recto, testi E, F, parte di Ch.L.A. XLIII, 1241). Origine e provenienza: Egitto, I ex. a.C. - I in. d.C. - 2. Lettera privata (P. Berol. Inv. 14105 recto = Ch.L.A. X, 452). Origine e provenienza: Egitto (?), II AD.</seg>
+  <seg type="original" subtype="resume" resp="#BP">1. Testo incerto e lettera privata con doppia datazione (P. Vindob. L 1 recto, testi E, F, parte di Ch.L.A. XLIII, 1241). Origine e provenienza: Egitto, I ex. a.C. - I in. d.C. - 2. Lettera privata (P. Berol. Inv. 14105 recto = Ch.L.A. X, 452). Origine e provenienza: Egitto (?), II AD.</seg>
 </bibl>

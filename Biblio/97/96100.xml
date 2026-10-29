@@ -17,10 +17,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96100</idno>
   <idno type="bp">2022-0147</idno>
-  <seg subtype="index" resp="#BP" type="original">145.4 670</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">145.4 S.P.P. XXII, 60</seg>
-  <seg subtype="titre" resp="#BP" type="original">Roger S. Bagnall, SPP 22 60 Revisited.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-8, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">145.4 670</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">145.4 S.P.P. XXII, 60</seg>
+  <seg type="original" subtype="titre" resp="#BP">Roger S. Bagnall, SPP 22 60 Revisited.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-8, figg.</seg>
   <note resp="#BP">Receipt for anakrisis of a newly purchased male slave. Athribites, second-third century.</note>
-  <seg subtype="resume" resp="#BP" type="original">Receipt for anakrisis of a newly purchased male slave. Athribites, second-third century.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Receipt for anakrisis of a newly purchased male slave. Athribites, second-third century.</seg>
 </bibl>

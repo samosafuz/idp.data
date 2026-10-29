@@ -17,10 +17,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96099</idno>
   <idno type="bp">2022-0255</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 146</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Hamb. Inv. 185</seg>
-  <seg subtype="titre" resp="#BP" type="original">C. Michael Sampson, P.Hamb.graec. 185: Garden Tax Between the Archives of (Lucius) Iulius Serenus and Gemellus Horion.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-11, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 146</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Hamb. Inv. 185</seg>
+  <seg type="original" subtype="titre" resp="#BP">C. Michael Sampson, P.Hamb.graec. 185: Garden Tax Between the Archives of (Lucius) Iulius Serenus and Gemellus Horion.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-11, figg.</seg>
   <note resp="#BP">Karanis, 17 July 216.</note>
-  <seg subtype="resume" resp="#BP" type="original">Karanis, 17 July 216.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Karanis, 17 July 216.</seg>
 </bibl>

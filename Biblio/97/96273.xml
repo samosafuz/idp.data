@@ -17,10 +17,10 @@
   <biblScope type="issue">2</biblScope>
   <idno type="pi">96273</idno>
   <idno type="bp">2022-0408</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 364 Epistulae 620</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Bodl. Ms.Gr.class. d. 143 (P) verso 145.4 P. Grenf. II, 79</seg>
-  <seg subtype="titre" resp="#BP" type="original">Nikolaos Gonis, A Known Official in an Unknown Post in 339.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 2 (2022) §1-28, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 364 Epistulae 620</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Bodl. Ms.Gr.class. d. 143 (P) verso 145.4 P. Grenf. II, 79</seg>
+  <seg type="original" subtype="titre" resp="#BP">Nikolaos Gonis, A Known Official in an Unknown Post in 339.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 2 (2022) §1-28, fig.</seg>
   <note resp="#BP">P. Bodl. MS.Gr.class. d. 143 (P) verso. Copy of an official letter from a high-ranking official to the civic officials of the Arsinoite dated to 339, on the back of a piece cut from a composite roll of documents (P. Grenf. II, 79 = S.B. VI, 9192).</note>
-  <seg subtype="resume" resp="#BP" type="original">P. Bodl. MS.Gr.class. d. 143 (P) verso. Copy of an official letter from a high-ranking official to the civic officials of the Arsinoite dated to 339, on the back of a piece cut from a composite roll of documents (P. Grenf. II, 79 = S.B. VI, 9192).</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. Bodl. MS.Gr.class. d. 143 (P) verso. Copy of an official letter from a high-ranking official to the civic officials of the Arsinoite dated to 339, on the back of a piece cut from a composite roll of documents (P. Grenf. II, 79 = S.B. VI, 9192).</seg>
 </bibl>

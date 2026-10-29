@@ -26,10 +26,10 @@
     </bibl>
   </relatedItem>
   <idno type="bp">2024-0024</idno>
-  <seg subtype="index" resp="#BP" type="original">142.4 630</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">142.4 O. Ismailia Mus. Inv. 451</seg>
-  <seg subtype="titre" resp="#BP" type="original">Lincoln H. Blumell, Another Receipt for the Poll Tax from Elephantine.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 5 (2024) §1-11, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">142.4 630</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">142.4 O. Ismailia Mus. Inv. 451</seg>
+  <seg type="original" subtype="titre" resp="#BP">Lincoln H. Blumell, Another Receipt for the Poll Tax from Elephantine.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 5 (2024) §1-11, fig.</seg>
   <note resp="#BP">O. Ismailia Museum inv. no. 451, excavated by Jean Clédat in Elephantine during the 1907/08 season. Poll tax receipt. 9 June AD 114.</note>
-  <seg subtype="resume" resp="#BP" type="original">O. Ismailia Museum inv. no. 451, excavated by Jean Clédat in Elephantine during the 1907/08 season. Poll tax receipt. 9 June AD 114.</seg>
+  <seg type="original" subtype="resume" resp="#BP">O. Ismailia Museum inv. no. 451, excavated by Jean Clédat in Elephantine during the 1907/08 season. Poll tax receipt. 9 June AD 114.</seg>
 </bibl>

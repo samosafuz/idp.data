@@ -26,10 +26,10 @@
   </relatedItem>
   <idno type="pi">95768</idno>
   <idno type="bp">2017-0867</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 630</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Cair. Inv. 10837 = P. Fay. 288 descr.</seg>
-  <seg subtype="titre" resp="#BP" type="original">Noha Abdel Aal Salem, Certificate for Two Days Work on the Dykes (P. Fay. 288 descr.).</seg>
-  <seg subtype="publication" resp="#BP" type="original">BACPS 34 (2017) pp. 627-630, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 630</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Cair. Inv. 10837 = P. Fay. 288 descr.</seg>
+  <seg type="original" subtype="titre" resp="#BP">Noha Abdel Aal Salem, Certificate for Two Days Work on the Dykes (P. Fay. 288 descr.).</seg>
+  <seg type="original" subtype="publication" resp="#BP">BACPS 34 (2017) pp. 627-630, fig.</seg>
   <note resp="#BP">Euhemeria, AD 147.</note>
-  <seg subtype="resume" resp="#BP" type="original">Euhemeria, AD 147.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Euhemeria, AD 147.</seg>
 </bibl>

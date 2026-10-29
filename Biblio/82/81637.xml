@@ -25,5 +25,5 @@
     <seg type="original" subtype="publication" resp="#BP">ENiM [Égypte Nilotique et Méditerranéenne, Institut d’égyptologie François Daumas, UMR 5140 "Archéologie des Sociétés Méditerranéennes", CNRS - Université Paul Valéry (Montpellier III)] 5 (2012) pp. 151-165.</seg>
     <seg type="original" subtype="resume" resp="#BP">L'amnistie de l'an 21 de Ptolémée Épiphane figurant dans le décret synodal de l'an 23. - L'amnistie de l'an 21 de Ptolémée Épiphane d'après la documentation papyrologique. - Conclusion. - Avec résumés en français et en anglais.</seg>
     <seg type="original" subtype="nom" resp="#BP">Nespoulous Phalippou</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://recherche.univ-montp3.fr/egyptologie/enim/</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://recherche.univ-montp3.fr/egyptologie/enim/</seg>
 </bibl>

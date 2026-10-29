@@ -26,5 +26,5 @@
     <seg type="original" subtype="resume" resp="#BP">Thanks to the Trismegistos People database, the ca. 375,000 Greek, Egyptian, and Latin names attested in Egypt can be usefully studied with network visualization and analysis to provide a fresh perspective on naming practices. - The data [of a sample survey: 337 papyri from Hermopolis dating to A.D. 101-130]. - Network structure. - Naming patterns. - Linguistic origin vs linguistic affiliation. - Avec résumé en anglais.</seg>
     <seg type="original" subtype="nom" resp="#BP">Broux</seg>
     <seg type="original" subtype="sbSeg" resp="#BP">S.E.G. LXV, 1852.</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://grbs.library.duke.edu/article/view/15293</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://grbs.library.duke.edu/article/view/15293</seg>
 </bibl>

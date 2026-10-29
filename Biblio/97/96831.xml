@@ -23,5 +23,5 @@
     <seg type="original" subtype="resume" resp="#BP">1. Introduction. - 2. Archives. - 3. Libraries. - 4. Archives and libraries: two sides of the same coin.</seg>
     <seg type="original" subtype="nom" resp="#BP">Fournet</seg>
     <note resp="#BP">1. Introduction. - 2. Archives. - 3. Libraries. - 4. Archives and libraries: two sides of the same coin.</note>
-    <seg subtype="internet" resp="#BP" type="original">https://www.degruyter.com/downloadpdf/books/9783110541397/9783110541397-006/9783110541397-006.pdf</seg>
+    <seg type="original" subtype="internet" resp="#BP">https://www.degruyter.com/downloadpdf/books/9783110541397/9783110541397-006/9783110541397-006.pdf</seg>
 </bibl>

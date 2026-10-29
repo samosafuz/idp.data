@@ -17,10 +17,10 @@
   <biblScope type="issue">4</biblScope>
   <idno type="pi">96528</idno>
   <idno type="bp">2023-0266</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 241 Alabastrine</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Lond. Inv. 2269; 2276</seg>
-  <seg subtype="titre" resp="#BP" type="original">Nikolaos Gonis, An Antinoite Document of 181-183.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 4 (2023) §1-21, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 241 Alabastrine</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Lond. Inv. 2269; 2276</seg>
+  <seg type="original" subtype="titre" resp="#BP">Nikolaos Gonis, An Antinoite Document of 181-183.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 4 (2023) §1-21, figg.</seg>
   <note resp="#BP">Beginning of a document by which a man who originated from Alabastrine in the nomarchy of Antinoopolis sends to lower officials an embedded petition to the prefect. Antinoite, 181-183. - Appendix: P. Lond. Inv. 2276. Antinoite/Hermopolite, 150/151(?). Fragmentary petition or declaration mentioning Alabastrine.</note>
-  <seg subtype="resume" resp="#BP" type="original">Beginning of a document by which a man who originated from Alabastrine in the nomarchy of Antinoopolis sends to lower officials an embedded petition to the prefect. Antinoite, 181-183. - Appendix: P. Lond. Inv. 2276. Antinoite/Hermopolite, 150/151(?). Fragmentary petition or declaration mentioning Alabastrine.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Beginning of a document by which a man who originated from Alabastrine in the nomarchy of Antinoopolis sends to lower officials an embedded petition to the prefect. Antinoite, 181-183. - Appendix: P. Lond. Inv. 2276. Antinoite/Hermopolite, 150/151(?). Fragmentary petition or declaration mentioning Alabastrine.</seg>
 </bibl>

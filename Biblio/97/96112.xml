@@ -17,10 +17,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96112</idno>
   <idno type="bp">2022-0159</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 146</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. E.E.S. Inv. 89A/151(c)</seg>
-  <seg subtype="titre" resp="#BP" type="original">W. Graham Claytor, A Receipt for the Didrachmia of Souchos from the Mikkalos Archive.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-11, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 146</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. E.E.S. Inv. 89A/151(c)</seg>
+  <seg type="original" subtype="titre" resp="#BP">W. Graham Claytor, A Receipt for the Didrachmia of Souchos from the Mikkalos Archive.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-11, figg.</seg>
   <note resp="#BP">P. E.E.S. Inv. 89A/151(c). Karanis, 26 April - 25 May, 62 CE. Property transfer tax receipt addressed to Mikkalos's father.</note>
-  <seg subtype="resume" resp="#BP" type="original">P. E.E.S. Inv. 89A/151(c). Karanis, 26 April - 25 May, 62 CE. Property transfer tax receipt addressed to Mikkalos's father.</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. E.E.S. Inv. 89A/151(c). Karanis, 26 April - 25 May, 62 CE. Property transfer tax receipt addressed to Mikkalos's father.</seg>
 </bibl>

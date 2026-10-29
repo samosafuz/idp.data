@@ -25,5 +25,5 @@
     <seg type="original" subtype="resume" resp="#BP">Introduction. - Alphabetical list of double names. - Appendix: Pseudo double names through name variation.</seg>
     <seg type="original" subtype="nom" resp="#BP">Broux</seg>
     <seg type="original" subtype="sbSeg" resp="#BP">S.E.G. LXV, 1852.</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://www.trismegistos.org/dl.php?id=16</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://www.trismegistos.org/dl.php?id=16</seg>
 </bibl>

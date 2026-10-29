@@ -17,9 +17,9 @@
   <biblScope type="issue">4</biblScope>
   <idno type="pi">96529</idno>
   <idno type="bp">2023-0260</idno>
-  <seg subtype="index" resp="#BP" type="original">160 Wilcken Ulrich</seg>
-  <seg subtype="titre" resp="#BP" type="original">Holger Essler, Wilckens Arbeit am Editionsband der Würzburger Papyri (P.Würzb.).</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 4 (2023) §1-16.</seg>
+  <seg type="original" subtype="index" resp="#BP">160 Wilcken Ulrich</seg>
+  <seg type="original" subtype="titre" resp="#BP">Holger Essler, Wilckens Arbeit am Editionsband der Würzburger Papyri (P.Würzb.).</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 4 (2023) §1-16.</seg>
   <note resp="#BP">Anhand Wilckens Korrespondenz lässt sich seine Arbeit bis zum Erscheinen des Editions-bandes (P.Würzb.) nachzeichnen.</note>
-  <seg subtype="resume" resp="#BP" type="original">Anhand Wilckens Korrespondenz lässt sich seine Arbeit bis zum Erscheinen des Editions-bandes (P.Würzb.) nachzeichnen.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Anhand Wilckens Korrespondenz lässt sich seine Arbeit bis zum Erscheinen des Editions-bandes (P.Würzb.) nachzeichnen.</seg>
 </bibl>

@@ -17,9 +17,9 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96101</idno>
   <idno type="bp">2022-0260</idno>
-  <seg subtype="index" resp="#BP" type="original">620 650</seg>
-  <seg subtype="titre" resp="#BP" type="original">Paul Schubert, The Format, Layout and Provenance of Documents Pertaining to Liturgy.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-30, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">620 650</seg>
+  <seg type="original" subtype="titre" resp="#BP">Paul Schubert, The Format, Layout and Provenance of Documents Pertaining to Liturgy.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-30, figg.</seg>
   <note resp="#BP">Introduction. - The corpus of approvals of nomination to liturgy (προγράμματα). - Layout: from nomination to liturgy to approval of nomination. - Format: demotic style vs. pagina. - The Arsinoite nome: a special case? - Data pertaining to nominations, approvals and oaths (2nd - 3rd c. CE). - Conclusion.</note>
-  <seg subtype="resume" resp="#BP" type="original">Introduction. - The corpus of approvals of nomination to liturgy (προγράμματα). - Layout: from nomination to liturgy to approval of nomination. - Format: demotic style vs. pagina. - The Arsinoite nome: a special case? - Data pertaining to nominations, approvals and oaths (2nd - 3rd c. CE). - Conclusion.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Introduction. - The corpus of approvals of nomination to liturgy (προγράμματα). - Layout: from nomination to liturgy to approval of nomination. - Format: demotic style vs. pagina. - The Arsinoite nome: a special case? - Data pertaining to nominations, approvals and oaths (2nd - 3rd c. CE). - Conclusion.</seg>
 </bibl>

@@ -26,9 +26,9 @@
     </bibl>
   </relatedItem>
   <idno type="bp">2024-0016</idno>
-  <seg subtype="index" resp="#BP" type="original">910.4</seg>
-  <seg subtype="titre" resp="#BP" type="original">Rodney Ast, An Inscription from the Reign of Probus: Reflections on the Port of Berenike in the Third Century CE.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 5 (2024) §1-17, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">910.4</seg>
+  <seg type="original" subtype="titre" resp="#BP">Rodney Ast, An Inscription from the Reign of Probus: Reflections on the Port of Berenike in the Third Century CE.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 5 (2024) §1-17, figg.</seg>
   <note resp="#BP">Private dedication, likely to either Isis or Sarapis, from the reign of Probus (276-281 CE, November 17/18). Found in the northwest corner of the Isis temple courtyard at the port of Berenike.</note>
-  <seg subtype="resume" resp="#BP" type="original">Private dedication, likely to either Isis or Sarapis, from the reign of Probus (276-281 CE, November 17/18). Found in the northwest corner of the Isis temple courtyard at the port of Berenike.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Private dedication, likely to either Isis or Sarapis, from the reign of Probus (276-281 CE, November 17/18). Found in the northwest corner of the Isis temple courtyard at the port of Berenike.</seg>
 </bibl>

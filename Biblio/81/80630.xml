@@ -18,5 +18,5 @@
     <seg type="original" subtype="titre" resp="#BP">Bjørn Paarmann, Den ptolemæiske Sarapis-kult og dens grundlæggelsesmyte. [Le culte ptolémaique de Sarapis et son mythe fondateur.]</seg>
     <seg type="original" subtype="publication" resp="#BP">Festskrift til Chr. Gorm Tortzen = Aigis. Supplementum I (København, 2011) 17 pp.</seg>
     <seg type="original" subtype="nom" resp="#BP">Paarmann</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://aigis.igl.ku.dk/CGT/indholdsfort.html</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://aigis.igl.ku.dk/CGT/indholdsfort.html</seg>
 </bibl>

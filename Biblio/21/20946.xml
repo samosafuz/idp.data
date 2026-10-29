@@ -22,5 +22,5 @@
     <seg type="original" subtype="publication" resp="#BP">Köln - Leuven, Trismegistos, 2009, 314 pp. ISBN 978-94-9060-402-8.</seg>
     <seg type="original" subtype="resume" resp="#BP">Introduction. - Trismegistos. - Geographical distribution of the languages. - Geographical distribution of the papyri. - Geographical distribution of the ostraca. - Geographical distribution of the mummy labels. - Geographical distribution of the texts in the Leuven Database of Ancient Books. - Geographical distribution of the magical texts.</seg>
     <seg type="original" subtype="nom" resp="#BP">Verreth</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://www.trismegistos.org/top.php</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://www.trismegistos.org/top.php</seg>
 </bibl>

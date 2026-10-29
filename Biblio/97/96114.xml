@@ -18,10 +18,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96114</idno>
   <idno type="bp">2022-0149</idno>
-  <seg subtype="index" resp="#BP" type="original">145.4 660 670</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">145.4 P. Stras. 264 P. Turner 40</seg>
-  <seg subtype="titre" resp="#BP" type="original">Amin Benaissa, Two Slave Sales Revisited.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-60, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">145.4 660 670</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">145.4 P. Stras. 264 P. Turner 40</seg>
+  <seg type="original" subtype="titre" resp="#BP">Amin Benaissa, Two Slave Sales Revisited.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-60, figg.</seg>
   <note resp="#BP">1. P. Turner 40. - 2. P. Stras. 264.</note>
-  <seg subtype="resume" resp="#BP" type="original">1. P. Turner 40. - 2. P. Stras. 264.</seg>
+  <seg type="original" subtype="resume" resp="#BP">1. P. Turner 40. - 2. P. Stras. 264.</seg>
 </bibl>

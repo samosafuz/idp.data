@@ -38,10 +38,10 @@
   <biblScope type="issue">119</biblScope>
   <idno type="pi">95928</idno>
   <idno type="bp">2019-0416</idno>
-  <seg subtype="index" resp="#BP" type="original">142.4 241 Bouto 243 730 755 840 880</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">142.4 O. Bouto 1</seg>
-  <seg subtype="titre" resp="#BP" type="original">Loïc Mazou, Pascale Ballet, Mennat-Allah El Dorry, Jean-Luc Fournet, Guy Lecuyot &amp; Lucia Rossi, Un thesauros / grenier à Bouto. Approches préliminaires sur l'écosystème du site à l'époque impériale.</seg>
-  <seg subtype="publication" resp="#BP" type="original">BIFAO 119 (2019) pp. 225-257, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">142.4 241 Bouto 243 730 755 840 880</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">142.4 O. Bouto 1</seg>
+  <seg type="original" subtype="titre" resp="#BP">Loïc Mazou, Pascale Ballet, Mennat-Allah El Dorry, Jean-Luc Fournet, Guy Lecuyot &amp; Lucia Rossi, Un thesauros / grenier à Bouto. Approches préliminaires sur l'écosystème du site à l'époque impériale.</seg>
+  <seg type="original" subtype="publication" resp="#BP">BIFAO 119 (2019) pp. 225-257, figg.</seg>
   <note resp="#BP">1. Le bâtiment de stockage et son environnement (L.M.). - 2. Les macro-restes végétaux et l'ostracon O. Bouto 1: 2.1. Archaeobotanical Analysis Report (M.-A.E.D.); - 2.2. Un bordereau de transport trouvé aux abords du bâtiment de stockage (O. Bouto 1) (J.-L.F.). - 3. Mise en perspective fonctionnelle, économique et papyrologique (L.R.). - Conclusion. - Annexe. À propos de quelques fragments de meules glanés sur le site de Bouto (G.L.).</note>
-  <seg subtype="resume" resp="#BP" type="original">1. Le bâtiment de stockage et son environnement (L.M.). - 2. Les macro-restes végétaux et l'ostracon O. Bouto 1: 2.1. Archaeobotanical Analysis Report (M.-A.E.D.); - 2.2. Un bordereau de transport trouvé aux abords du bâtiment de stockage (O. Bouto 1) (J.-L.F.). - 3. Mise en perspective fonctionnelle, économique et papyrologique (L.R.). - Conclusion. - Annexe. À propos de quelques fragments de meules glanés sur le site de Bouto (G.L.).</seg>
+  <seg type="original" subtype="resume" resp="#BP">1. Le bâtiment de stockage et son environnement (L.M.). - 2. Les macro-restes végétaux et l'ostracon O. Bouto 1: 2.1. Archaeobotanical Analysis Report (M.-A.E.D.); - 2.2. Un bordereau de transport trouvé aux abords du bâtiment de stockage (O. Bouto 1) (J.-L.F.). - 3. Mise en perspective fonctionnelle, économique et papyrologique (L.R.). - Conclusion. - Annexe. À propos de quelques fragments de meules glanés sur le site de Bouto (G.L.).</seg>
 </bibl>

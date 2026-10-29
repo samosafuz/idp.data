@@ -17,9 +17,9 @@
   <idno type="pi">97267</idno>
   <idno type="isbn">9783110575408</idno>
   <idno type="bp">2019-0045</idno>
-  <seg subtype="index" resp="#BP" type="original">510</seg>
-  <seg subtype="titre" resp="#BP" type="original">Pasquale Orsini, Studies on Greek and Coptic Majuscule Scripts and Books = Studies in Manuscript Cultures. 15.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Berlin - Boston, de Gruyter, 2019, xvi-260 pp. ISBN 978-3-11-057540-8. €86,95.</seg>
+  <seg type="original" subtype="index" resp="#BP">510</seg>
+  <seg type="original" subtype="titre" resp="#BP">Pasquale Orsini, Studies on Greek and Coptic Majuscule Scripts and Books = Studies in Manuscript Cultures. 15.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Berlin - Boston, de Gruyter, 2019, xvi-260 pp. ISBN 978-3-11-057540-8. €86,95.</seg>
   <note resp="#BP">Introduction. - 1. The scripts of the Nag Hammadi codices. - 2. The scripts of the Bodmer Papyri. - 3. Greek biblical majuscule. - 4. Coptic biblical majuscule. - 5. Sloping pointed majuscule. - 6. Liturgical majuscule. - 7. Decorated liturgical majuscule. - Glossary of palaeographical terms employed in the text. - References. List of papyri and manuscripts.</note>
-  <seg subtype="resume" resp="#BP" type="original">Introduction. - 1. The scripts of the Nag Hammadi codices. - 2. The scripts of the Bodmer Papyri. - 3. Greek biblical majuscule. - 4. Coptic biblical majuscule. - 5. Sloping pointed majuscule. - 6. Liturgical majuscule. - 7. Decorated liturgical majuscule. - Glossary of palaeographical terms employed in the text. - References. List of papyri and manuscripts.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Introduction. - 1. The scripts of the Nag Hammadi codices. - 2. The scripts of the Bodmer Papyri. - 3. Greek biblical majuscule. - 4. Coptic biblical majuscule. - 5. Sloping pointed majuscule. - 6. Liturgical majuscule. - 7. Decorated liturgical majuscule. - Glossary of palaeographical terms employed in the text. - References. List of papyri and manuscripts.</seg>
 </bibl>

@@ -17,8 +17,8 @@
   </relatedItem>
   <idno type="pi">96864</idno>
   <idno type="bp">2024-0045</idno>
-  <seg subtype="index" resp="#BP" type="original">145.4 160 Schwartz Eduard Wilcken Ulrich</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">145.4 P. Würzb. 1</seg>
-  <seg subtype="titre" resp="#BP" type="original">Holger Essler, Wilckens Briefwechsel mit Eduard Schwartz zur Edition von P.Würzb. 1.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 5 (2024) §1-81.</seg>
+  <seg type="original" subtype="index" resp="#BP">145.4 160 Schwartz Eduard Wilcken Ulrich</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">145.4 P. Würzb. 1</seg>
+  <seg type="original" subtype="titre" resp="#BP">Holger Essler, Wilckens Briefwechsel mit Eduard Schwartz zur Edition von P.Würzb. 1.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 5 (2024) §1-81.</seg>
 </bibl>

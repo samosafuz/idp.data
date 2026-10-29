@@ -17,10 +17,10 @@
   <biblScope type="issue">3</biblScope>
   <idno type="pi">96393</idno>
   <idno type="bp">2023-0142</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 620</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Heid. Inv. G 826</seg>
-  <seg subtype="titre" resp="#BP" type="original">Dan Deac, A Fragment Mentioning the Legio III Cyrenaica?</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-10, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 620</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Heid. Inv. G 826</seg>
+  <seg type="original" subtype="titre" resp="#BP">Dan Deac, A Fragment Mentioning the Legio III Cyrenaica?</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-10, fig.</seg>
   <note resp="#BP">P. Heid. Inv. G 826. Ankyron, 81-96. The document might have contained an oath by the fortune of the emperor.</note>
-  <seg subtype="resume" resp="#BP" type="original">P. Heid. Inv. G 826. Ankyron, 81-96. The document might have contained an oath by the fortune of the emperor.</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. Heid. Inv. G 826. Ankyron, 81-96. The document might have contained an oath by the fortune of the emperor.</seg>
 </bibl>

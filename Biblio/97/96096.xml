@@ -17,10 +17,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96096</idno>
   <idno type="bp">2022-0251</idno>
-  <seg subtype="index" resp="#BP" type="original">145.4 146</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">145.4 B.G.U. I, 184; 252 P. Amh. II, 34a+b P. Gen. I2, 25 P. Stras. 810 = 889</seg>
-  <seg subtype="titre" resp="#BP" type="original">Fabian Reiter, Zwei Miszellen zu Texten aus Soknopaiu Nesos.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-6.</seg>
+  <seg type="original" subtype="index" resp="#BP">145.4 146</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">145.4 B.G.U. I, 184; 252 P. Amh. II, 34a+b P. Gen. I2, 25 P. Stras. 810 = 889</seg>
+  <seg type="original" subtype="titre" resp="#BP">Fabian Reiter, Zwei Miszellen zu Texten aus Soknopaiu Nesos.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-6.</seg>
   <note resp="#BP">1. Ein toter Vormund für Segathis? Suggests that P. Gen. I2, 25 and B.G.U. I, 252 belong to the archive or dossier of Segathis daughter of Satabous. - 2. Zur Bezeichnung der Herkunft aus Soknopaiu Nesos. Corrections to B.G.U. I, 184; P. Amh. II, 34a+b; P. Stras. 810 = 889.</note>
-  <seg subtype="resume" resp="#BP" type="original">1. Ein toter Vormund für Segathis? Suggests that P. Gen. I2, 25 and B.G.U. I, 252 belong to the archive or dossier of Segathis daughter of Satabous. - 2. Zur Bezeichnung der Herkunft aus Soknopaiu Nesos. Corrections to B.G.U. I, 184; P. Amh. II, 34a+b; P. Stras. 810 = 889.</seg>
+  <seg type="original" subtype="resume" resp="#BP">1. Ein toter Vormund für Segathis? Suggests that P. Gen. I2, 25 and B.G.U. I, 252 belong to the archive or dossier of Segathis daughter of Satabous. - 2. Zur Bezeichnung der Herkunft aus Soknopaiu Nesos. Corrections to B.G.U. I, 184; P. Amh. II, 34a+b; P. Stras. 810 = 889.</seg>
 </bibl>

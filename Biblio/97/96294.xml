@@ -21,10 +21,10 @@
   <biblScope type="issue">2</biblScope>
   <idno type="pi">96294</idno>
   <idno type="bp">2022-0367</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 670</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. bibl. univ. Giss. Inv. 513</seg>
-  <seg subtype="titre" resp="#BP" type="original">Constantinos Balamoshev &amp; Maria Nowak, A 3rd-Century manumissio inter amicos.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 2 (2022) §1-30, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 670</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. bibl. univ. Giss. Inv. 513</seg>
+  <seg type="original" subtype="titre" resp="#BP">Constantinos Balamoshev &amp; Maria Nowak, A 3rd-Century manumissio inter amicos.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 2 (2022) §1-30, figg.</seg>
   <note resp="#BP">P. bibl. univ. Giss. Inv. 513. Arsinoites, 262 / 264 / 266 .</note>
-  <seg subtype="resume" resp="#BP" type="original">P. bibl. univ. Giss. Inv. 513. Arsinoites, 262 / 264 / 266 .</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. bibl. univ. Giss. Inv. 513. Arsinoites, 262 / 264 / 266 .</seg>
 </bibl>

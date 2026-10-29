@@ -14,5 +14,5 @@
     <seg type="original" subtype="titre" resp="#BP">Lars Rydbeck, Grecisten Hugh Lloyd-Jones död. [Mort de l'helléniste Hugh Lloyd-Jones.]</seg>
     <seg type="original" subtype="publication" resp="#BP">Aigis 9 (2009) 2, 2 pp.</seg>
     <seg type="original" subtype="nom" resp="#BP">Rydbeck</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://aigis.igl.ku.dk/2009,2/LR-Lloyd-Jones.pdf</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://aigis.igl.ku.dk/2009,2/LR-Lloyd-Jones.pdf</seg>
 </bibl>

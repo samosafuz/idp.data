@@ -21,9 +21,9 @@
   <biblScope type="issue">3</biblScope>
   <idno type="pi">96394</idno>
   <idno type="bp">2023-0184</idno>
-  <seg subtype="index" resp="#BP" type="original">364 Mathematica</seg>
-  <seg subtype="titre" resp="#BP" type="original">Julia Lougovaya &amp; Rodney Ast, Between Ahmes and Alcuin: P.Bodl. 1 7 Revisited.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-39, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">364 Mathematica</seg>
+  <seg type="original" subtype="titre" resp="#BP">Julia Lougovaya &amp; Rodney Ast, Between Ahmes and Alcuin: P.Bodl. 1 7 Revisited.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-39, fig.</seg>
   <note resp="#BP">Reedition of P. Bodl. I, 7 (= MP3 2320.11; LDAB 6198). - P. Bodl. I, 7 and Alcuin's Propositiones ad acuendos iuvenes. - P. Bodl. I, 7 and ‘ḥ‘ problems [preserved in Egyptian papyri]. - Between Ahmes and Alcuin.</note>
-  <seg subtype="resume" resp="#BP" type="original">Reedition of P. Bodl. I, 7 (= MP3 2320.11; LDAB 6198). - P. Bodl. I, 7 and Alcuin's Propositiones ad acuendos iuvenes. - P. Bodl. I, 7 and ‘ḥ‘ problems [preserved in Egyptian papyri]. - Between Ahmes and Alcuin.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Reedition of P. Bodl. I, 7 (= MP3 2320.11; LDAB 6198). - P. Bodl. I, 7 and Alcuin's Propositiones ad acuendos iuvenes. - P. Bodl. I, 7 and ‘ḥ‘ problems [preserved in Egyptian papyri]. - Between Ahmes and Alcuin.</seg>
 </bibl>

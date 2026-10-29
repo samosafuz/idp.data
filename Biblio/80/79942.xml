@@ -29,5 +29,5 @@
     <seg type="original" subtype="publication" resp="#BP">Malte REHBEIN, Patrick SAHLE und Torsten SCHASSAN (Hgg.), Kodikologie und Paläographie im digitalen Zeitalter. Codicology and Palaeography in the Digital Age = Schriften des Instituts für Dokumentologie und Editorik. 2 (Norderstedt, 2009) pp. 145-158, 5 figg.</seg>
     <seg type="original" subtype="resume" resp="#BP">[SVG = Scalable Vector Graphics.] - 1. Background. - 2. Scholarly requirements for operating on text and image. - 3. Problems and solutions. - 4. Conclusions.</seg>
     <seg type="original" subtype="nom" resp="#BP">Cayless</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://kups.ub.uni-koeln.de/2967/</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://kups.ub.uni-koeln.de/2967/</seg>
 </bibl>

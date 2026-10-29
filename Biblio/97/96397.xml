@@ -17,9 +17,9 @@
   <biblScope type="issue">3</biblScope>
   <idno type="pi">96397</idno>
   <idno type="bp">2023-0183</idno>
-  <seg subtype="index" resp="#BP" type="original">364 Homeri Commentatores</seg>
-  <seg subtype="titre" resp="#BP" type="original">Julia Lougovaya, Scholia minora to Iliad 1.1-12: P.Berol. 5014 Revisited.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-31, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">364 Homeri Commentatores</seg>
+  <seg type="original" subtype="titre" resp="#BP">Julia Lougovaya, Scholia minora to Iliad 1.1-12: P.Berol. 5014 Revisited.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 3 (2023) §1-31, figg.</seg>
   <note resp="#BP">P. Berol. Inv. 5014 (= MP3 1158; LDAB 2173).</note>
-  <seg subtype="resume" resp="#BP" type="original">P. Berol. Inv. 5014 (= MP3 1158; LDAB 2173).</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. Berol. Inv. 5014 (= MP3 1158; LDAB 2173).</seg>
 </bibl>

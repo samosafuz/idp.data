@@ -18,5 +18,5 @@
     <seg type="original" subtype="resume" resp="#BP">1. Introduction. - 2. Parameters of letter delivery. - 3. Structure of communication in business letters. - 4. Various roles of the bearer. - 5. General conclusion. - 6. Appendix 1: P.Prag. 1.111 revisited. - 7. Appendix 2: proposed corrections to papyri. - 8. Bibliography. - 9. Indices.</seg>
     <seg type="original" subtype="nom" resp="#BP">Schubert</seg>
     <seg type="original" subtype="cr" resp="#BP">C.R. par Fatma E. Hamouda, CR N.S., 73 (2023) pp. 240-242. - Cecilia Mambrioni, ArchPF 70 (2024) pp. 188-191.</seg>
-    <seg subtype="internet" resp="#BP" type="original">https://www.peeters-leuven.be/pdf/9789042947313.pdf</seg>
+    <seg type="original" subtype="internet" resp="#BP">https://www.peeters-leuven.be/pdf/9789042947313.pdf</seg>
 </bibl>

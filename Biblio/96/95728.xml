@@ -39,10 +39,10 @@
   <idno type="pi">95728</idno>
   <idno type="isbn">978-88-5518-218-8</idno>
   <idno type="bp">2020-0310</idno>
-  <seg subtype="index" resp="#BP" type="original">130 Messeri Gabriella 141.4 / 141.5</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 / 141.5 P. Messeri</seg>
-  <seg subtype="titre" resp="#BP" type="original">Guido Bastianini, Francesca Maltomini, Daniela Manetti, Diletta Minutoli &amp; Rosario Pintaudi (edd.), e me l'ovrare appaga. Papiri e saggi in onore di Gabriella Messeri (P. Messeri) = Edizioni dell'Istituto Papirologico "G. Vitelli". 10.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Firenze, Firenze University Press, 2020, xviii-455 pp., figg. ISBN 978-88-5518-218-8. €34.</seg>
+  <seg type="original" subtype="index" resp="#BP">130 Messeri Gabriella 141.4 / 141.5</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 / 141.5 P. Messeri</seg>
+  <seg type="original" subtype="titre" resp="#BP">Guido Bastianini, Francesca Maltomini, Daniela Manetti, Diletta Minutoli &amp; Rosario Pintaudi (edd.), e me l'ovrare appaga. Papiri e saggi in onore di Gabriella Messeri (P. Messeri) = Edizioni dell'Istituto Papirologico "G. Vitelli". 10.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Firenze, Firenze University Press, 2020, xviii-455 pp., figg. ISBN 978-88-5518-218-8. €34.</seg>
   <note resp="#BP">P. Messeri 1-50. - G.B., Fr.M., D.Ma., D.Mi. &amp; R.P., Prefazione, p. xiii. - Testi letterari e paraletterari (1-23). - Testi documentari (24-50). - Saggi [12 contribuzioni]. - Indici.</note>
-  <seg subtype="resume" resp="#BP" type="original">P. Messeri 1-50. - G.B., Fr.M., D.Ma., D.Mi. &amp; R.P., Prefazione, p. xiii. - Testi letterari e paraletterari (1-23). - Testi documentari (24-50). - Saggi [12 contribuzioni]. - Indici.</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. Messeri 1-50. - G.B., Fr.M., D.Ma., D.Mi. &amp; R.P., Prefazione, p. xiii. - Testi letterari e paraletterari (1-23). - Testi documentari (24-50). - Saggi [12 contribuzioni]. - Indici.</seg>
 </bibl>

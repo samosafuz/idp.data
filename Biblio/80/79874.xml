@@ -25,5 +25,5 @@
     <seg type="original" subtype="publication" resp="#BP">British Museum Studies in Ancient Egypt and Sudan 14 (2009) pp. 97-129, 7 figg. n./bl. et coul.</seg>
     <seg type="original" subtype="resume" resp="#BP">The paper represents part XII of the series on the technological aspects of footwear, as part of the Ancient Egyptian Footwear Project (AEFP). - Includes 1 shoe of Roman date.</seg>
     <seg type="original" subtype="nom" resp="#BP">Veldmeijer</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://www.britishmuseum.org/research/online_journals/bmsaes/issue_14/veldmeijer_b.aspx</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://www.britishmuseum.org/research/online_journals/bmsaes/issue_14/veldmeijer_b.aspx</seg>
 </bibl>

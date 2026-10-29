@@ -17,10 +17,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96042</idno>
   <idno type="bp">2022-0237</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 146</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Lond. Inv. 1918 + 1976</seg>
-  <seg subtype="titre" resp="#BP" type="original">Federica Micucci, Sale of a House in Soknopaiou Nesos: SB 22 15472 Completed.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-84, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 146</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Lond. Inv. 1918 + 1976</seg>
+  <seg type="original" subtype="titre" resp="#BP">Federica Micucci, Sale of a House in Soknopaiou Nesos: SB 22 15472 Completed.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-84, figg.</seg>
   <note resp="#BP">P. Lond. Inv. 1976 (= S.B. XXII, 15472) + 1918. Ptolemais Euergetis, 20 and 26 November 134. This is a τόμος συγκολλήσιμος made of three documents: (1) the contract of sale in the form of an objective ὁμολογία, drawn up in Ptolemais Euergetis; - (2) the declaration of property transfer submitted by the agent of the buyer to the record-keeper nominees of the archive of real property (βιβλιοθήκη ἐγκτήσεων) of the nome; - (3) the bank διαγραφή acknowledging receipt of payment of six hundred drachmas. It might belong to a small archive of documents relating to descendants of Satabous and Taharpagathes.</note>
-  <seg subtype="resume" resp="#BP" type="original">P. Lond. Inv. 1976 (= S.B. XXII, 15472) + 1918. Ptolemais Euergetis, 20 and 26 November 134. This is a τόμος συγκολλήσιμος made of three documents: (1) the contract of sale in the form of an objective ὁμολογία, drawn up in Ptolemais Euergetis; - (2) the declaration of property transfer submitted by the agent of the buyer to the record-keeper nominees of the archive of real property (βιβλιοθήκη ἐγκτήσεων) of the nome; - (3) the bank διαγραφή acknowledging receipt of payment of six hundred drachmas. It might belong to a small archive of documents relating to descendants of Satabous and Taharpagathes.</seg>
+  <seg type="original" subtype="resume" resp="#BP">P. Lond. Inv. 1976 (= S.B. XXII, 15472) + 1918. Ptolemais Euergetis, 20 and 26 November 134. This is a τόμος συγκολλήσιμος made of three documents: (1) the contract of sale in the form of an objective ὁμολογία, drawn up in Ptolemais Euergetis; - (2) the declaration of property transfer submitted by the agent of the buyer to the record-keeper nominees of the archive of real property (βιβλιοθήκη ἐγκτήσεων) of the nome; - (3) the bank διαγραφή acknowledging receipt of payment of six hundred drachmas. It might belong to a small archive of documents relating to descendants of Satabous and Taharpagathes.</seg>
 </bibl>

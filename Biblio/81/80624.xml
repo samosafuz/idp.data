@@ -20,5 +20,5 @@
     <seg type="original" subtype="publication" resp="#BP">Festskrift til Chr. Gorm Tortzen = Aigis. Supplementum I (København, 2011) 38 pp.</seg>
     <seg type="original" subtype="resume" resp="#BP">Concerne P. Oxy. XV, 1787 (= M.-P.3 1449; LDAB 3899) et P. Colon. Inv. 21351 + 21376 (= M.-P.3 1449.01; LDAB 10253).</seg>
     <seg type="original" subtype="nom" resp="#BP">Hinge</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://aigis.igl.ku.dk/CGT/indholdsfort.html</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://aigis.igl.ku.dk/CGT/indholdsfort.html</seg>
 </bibl>

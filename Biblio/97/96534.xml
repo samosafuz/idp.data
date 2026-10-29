@@ -27,5 +27,5 @@
     <seg type="original" subtype="resume" resp="#BP">1. Overview. - 2. Herculaneum. - 3. Anagnosis.</seg>
     <seg type="original" subtype="nom" resp="#BP">Ast Essler</seg>
     <note resp="#BP">1. Overview. - 2. Herculaneum. - 3. Anagnosis.</note>
-    <seg subtype="internet" resp="#BP" type="original">https://www.degruyter.com/view/books/9783110547450/9783110547450-003/9783110547450-003.xml</seg>
+    <seg type="original" subtype="internet" resp="#BP">https://www.degruyter.com/view/books/9783110547450/9783110547450-003/9783110547450-003.xml</seg>
 </bibl>

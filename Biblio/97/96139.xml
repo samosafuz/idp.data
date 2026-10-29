@@ -19,10 +19,10 @@
   <note type="illustration">Plate 6-7</note>
   <idno type="pi">96139</idno>
   <idno type="bp">2020-0638</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 P. Mich. Inv. 1767; 1768</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Mich. Inv. 1767; 1768</seg>
-  <seg subtype="titre" resp="#BP" type="original">W. Graham Claytor, Public Land in Private Hands: Two Rent Receipts from the Archive of Asoeis and Atammon.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Tyche 35 (2020) pp. 25-33, figg.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 P. Mich. Inv. 1767; 1768</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Mich. Inv. 1767; 1768</seg>
+  <seg type="original" subtype="titre" resp="#BP">W. Graham Claytor, Public Land in Private Hands: Two Rent Receipts from the Archive of Asoeis and Atammon.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Tyche 35 (2020) pp. 25-33, figg.</seg>
   <note resp="#BP">1. P. Mich. Inv. 1767. Receipt for Rent. Philadelphia, 1 September, 254 CE. - 2. P. Mich. Inv. 1768. Receipt for Rent. Philadelphia, 257/258 CE.</note>
-  <seg subtype="resume" resp="#BP" type="original">1. P. Mich. Inv. 1767. Receipt for Rent. Philadelphia, 1 September, 254 CE. - 2. P. Mich. Inv. 1768. Receipt for Rent. Philadelphia, 257/258 CE.</seg>
+  <seg type="original" subtype="resume" resp="#BP">1. P. Mich. Inv. 1767. Receipt for Rent. Philadelphia, 1 September, 254 CE. - 2. P. Mich. Inv. 1768. Receipt for Rent. Philadelphia, 257/258 CE.</seg>
 </bibl>

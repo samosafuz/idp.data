@@ -20,10 +20,10 @@
   </relatedItem>
   <idno type="pi">97376</idno>
   <idno type="bp">2024-0235</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 712</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Fay. 348 recto descr.</seg>
-  <seg subtype="titre" resp="#BP" type="original">Simona Russo &amp; Marco Stroppa, P.Fay. 348r descr.: conto per lavori a un tempio (?).</seg>
-  <seg subtype="publication" resp="#BP" type="original">Francesca Maltomini &amp; Simona Russo (edd.), Comunicazioni dell'Istituto Papirologico "G. Vitelli". 15 = Edizioni dell'Istituto Papirologico "G. Vitelli". 17 (Firenze, 2024) pp. 13-22.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 712</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Fay. 348 recto descr.</seg>
+  <seg type="original" subtype="titre" resp="#BP">Simona Russo &amp; Marco Stroppa, P.Fay. 348r descr.: conto per lavori a un tempio (?).</seg>
+  <seg type="original" subtype="publication" resp="#BP">Francesca Maltomini &amp; Simona Russo (edd.), Comunicazioni dell'Istituto Papirologico "G. Vitelli". 15 = Edizioni dell'Istituto Papirologico "G. Vitelli". 17 (Firenze, 2024) pp. 13-22.</seg>
   <note resp="#BP">Baltimore, Johns Hopkins University (ms. 383). Theadelphia, II/IIIp?</note>
-  <seg subtype="resume" resp="#BP" type="original">Baltimore, Johns Hopkins University (ms. 383). Theadelphia, II/IIIp?</seg>
+  <seg type="original" subtype="resume" resp="#BP">Baltimore, Johns Hopkins University (ms. 383). Theadelphia, II/IIIp?</seg>
 </bibl>

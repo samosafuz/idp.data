@@ -17,10 +17,10 @@
   <biblScope type="issue">1</biblScope>
   <idno type="pi">96102</idno>
   <idno type="bp">2022-0236</idno>
-  <seg subtype="index" resp="#BP" type="original">141.4 630</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">141.4 P. Lond. II, 182a descr.</seg>
-  <seg subtype="titre" resp="#BP" type="original">Gabriella Messeri, Ricevuta di pagamento del πελωχικόν.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-17.</seg>
+  <seg type="original" subtype="index" resp="#BP">141.4 630</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">141.4 P. Lond. II, 182a descr.</seg>
+  <seg type="original" subtype="titre" resp="#BP">Gabriella Messeri, Ricevuta di pagamento del πελωχικόν.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 1 (2022) §1-17.</seg>
   <note resp="#BP">Soknopaiu Nesos, 22.5.219 CE.</note>
-  <seg subtype="resume" resp="#BP" type="original">Soknopaiu Nesos, 22.5.219 CE.</seg>
+  <seg type="original" subtype="resume" resp="#BP">Soknopaiu Nesos, 22.5.219 CE.</seg>
 </bibl>

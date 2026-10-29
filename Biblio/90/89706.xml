@@ -26,5 +26,5 @@
     <seg type="original" subtype="resume" resp="#BP">1. Introducción. - 2. El texto [P. Lond. II, 229 descr. = Ch.L.A. III, 200]. - 3. Transcripción. - 4. Traducción. - 5. Las partes del texto. - 6. Los personajes. - 7. La escritura y la lengua. - 8. Conclusiones. - Avec résumés en espagnol et en anglais.</seg>
     <seg type="original" subtype="nom" resp="#BP">Martín Ferreira</seg>
     <seg type="original" subtype="indexBis" resp="#BP">145.4 / 145.5 P. Lond. II, 229 descr.</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://www.raco.cat/index.php/Faventia/article/view/263994</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://www.raco.cat/index.php/Faventia/article/view/263994</seg>
 </bibl>

@@ -29,5 +29,5 @@
     <seg type="original" subtype="publication" resp="#BP">Franz FISCHER, Christiane FRITZE und Georg VOGELER (Hgg.), Kodikologie und Paläographie im digitalen Zeitalter 2. Codicology and Palaeography in the Digital Age 2 = Schriften des Instituts für Dokumentologie und Editorik. 3 (Norderstedt, 2010) pp. 43-61.</seg>
     <seg type="original" subtype="resume" resp="#BP">1. Introduction. - 2. Papyrology and computing. - 3. Uncertainty, ancient texts, and computing. - 4. Quality and quality assurance in digitised collections. - 5. Digitisation and theory. - 6. Dependency on the digita: when surrogates become primary sources. - 7. Conclusion.</seg>
     <seg type="original" subtype="nom" resp="#BP">Terras</seg>
-    <seg subtype="internet" resp="#BP" type="original">http://kups.ub.uni-koeln.de/4342/</seg>
+    <seg type="original" subtype="internet" resp="#BP">http://kups.ub.uni-koeln.de/4342/</seg>
 </bibl>

@@ -17,10 +17,10 @@
   <biblScope type="issue">2</biblScope>
   <idno type="pi">96297</idno>
   <idno type="bp">2022-0388</idno>
-  <seg subtype="index" resp="#BP" type="original">145.4 630</seg>
-  <seg subtype="indexBis" resp="#BP" type="original">145.4 S.P.P. XXII, 94</seg>
-  <seg subtype="titre" resp="#BP" type="original">W. Graham Claytor, Provisioning the Metropolis: A Reedition of SPP 22 94.</seg>
-  <seg subtype="publication" resp="#BP" type="original">Pylon. Editions and Studies of Ancient Texts 2 (2022) §1-16, fig.</seg>
+  <seg type="original" subtype="index" resp="#BP">145.4 630</seg>
+  <seg type="original" subtype="indexBis" resp="#BP">145.4 S.P.P. XXII, 94</seg>
+  <seg type="original" subtype="titre" resp="#BP">W. Graham Claytor, Provisioning the Metropolis: A Reedition of SPP 22 94.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pylon. Editions and Studies of Ancient Texts 2 (2022) §1-16, fig.</seg>
   <note resp="#BP">S.P.P. XXII, 94. Arsinoites, after 25 April, 111 CE. Report of pending transport expenses (φόρετρον) related to the food supply of the Arsinoite metropolis.</note>
-  <seg subtype="resume" resp="#BP" type="original">S.P.P. XXII, 94. Arsinoites, after 25 April, 111 CE. Report of pending transport expenses (φόρετρον) related to the food supply of the Arsinoite metropolis.</seg>
+  <seg type="original" subtype="resume" resp="#BP">S.P.P. XXII, 94. Arsinoites, after 25 April, 111 CE. Report of pending transport expenses (φόρετρον) related to the food supply of the Arsinoite metropolis.</seg>
 </bibl>
