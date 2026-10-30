@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <bibl xmlns="http://www.tei-c.org/ns/1.0" xml:id="b97420" type="book" xml:lang="it" subtype="authored">
-  <title level="m" type="main">Vergilius latinograecus. Corpus dei manoscritti bilingui dell'Eneide</title>
+  <title level="m" type="main">Vergilius latinograecus. Corpus dei manoscritti bilingui dell'Eneide. Parte prima (1-8)</title>
   <series>
-    <title level="s" type="main">Biblioteca degli &quot;&quot;Studi di Egittologia e di Papirologia&quot;&quot;</title>
+    <title level="s" type="main">Biblioteca degli "Studi di Egittologia e di Papirologia"</title>
     <biblScope type="volume">13</biblScope>
   </series>
   <author n="1">
@@ -13,7 +13,14 @@
   <pubPlace n="1">Pisa</pubPlace>
   <pubPlace n="2">Roma</pubPlace>
   <publisher n="1">F. Serra</publisher>
+  <note type="illustration">figg.</note>
   <note type="pageCount">192</note>
   <idno type="pi">97420</idno>
   <idno type="isbn">978-88-6227-942-0</idno>
+  <idno type="bp">2017-0582</idno>
+  <seg type="original" subtype="index" resp="#BP">365 Vergilius</seg>
+  <seg type="original" subtype="titre" resp="#BP">Marco Fressura, Vergilius Latinograecus. Corpus dei manoscritti bilingui dell'Eneide. Parte prima (1-8). Premessa di Mario Capasso.</seg>
+  <seg type="original" subtype="publication" resp="#BP">Pisa - Roma, F. Serra, 2017, 4°, 184 pp., figg. ISBN 978-88-6227-942-0. €140.</seg>
+  <note resp="#BP">Premessa. - Introduzione. - Testi. - Fenomeni ortografici. - Abbreviazioni. Indice. Bibliografia. Risorse in rete.</note>
+  <seg type="original" subtype="resume" resp="#BP">Premessa. - Introduzione. - Testi. - Fenomeni ortografici. - Abbreviazioni. Indice. Bibliografia. Risorse in rete.</seg>
 </bibl>
